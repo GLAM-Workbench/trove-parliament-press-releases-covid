@@ -1,0 +1,130 @@
+Executive Board Member Geoff Summerhayes -speech to Financial Services Assurance Forum apra.gov.au/news-and-publications/executive-board-member-geoff-summerhayes-speech-to-financial-services
+
+Thursday 26 November 2020
+
+Strengthening the chain
+
+Good morning and thank you for the opportunity to speak to you.
+
+Although I would prefer to be with you in person, the online nature of today’s Forum is rather apt in light of the issue I want to address, which is the growing threat of cyber crime.
+
+Delivering a speech on information security in early 2018, I described cyber crime as an “accelerating risk”. The threat has only sped up since then, and the fact that we’re unable to gather in person highlights part of the reason. In the wake of the global pandemic, vast swathes of the economy were forced to transition their business operations online, not quite overnight, but not far off it. While this rapid digitisation provided a lifeline for companies, government agencies, healthcare workers and even schools to keep operating through tough quarantine restrictions, it also created new and increased opportunities for those with malign intentions to scam, deceive, steal and disrupt us. At the risk of sounding like an ageing hippy, the expression “we are all connected” has never been truer. But this expanded inter-connectivity has further heightened cyber-risks; not only is a successful attack on one entity more likely to create problems beyond the target itself, the successful penetration of an entity can allow sophisticated actors to use these digital connections as a backdoor into other targets.
+
+Many of us - APRA included - experienced a small reminder of the threat recently as one of the country’s largest media monitoring agencies was temporarily crippled by a ransomware attack . Media monitoring is useful but it’s not really an essential service, so the disruption was mostly just an inconvenience. Far more harmful was a series of cyber attacks earlier this year on Toll Group’s Australian operations . As a company specialising in logistics, freight transport and express delivery services, the impact of the two ransomware attacks was felt far more widely than the affected company, as the thousands of clients experienced major delays in tracking and receiving deliveries. The impact would have been more damaging again had the victim been a critical infrastructure provider, such as a telecommunications company, an energy generator - or a major financial institution.
+
+To date, no APRA-regulated bank, insurer or superannuation fund has suffered a material cyber breach, but our view that it’s only a matter of time until a major incident occurs hasn’t changed. Although the financial industry takes cyber risk seriously, there
+
+1
+
+2
+
+1/7
+
+is room for improvement. For example, too many boards still lack visibility or understanding of the problems, while internal audit functions can lack the specialist skills to challenge boards and management to plug urgent gaps.
+
+Today I will be unveiling APRA’s Cyber Security Strategy for 2020 to 2024, which seeks to lift cyber security standards further and introduce heightened accountability where companies fail to meet their legally binding requirements. Most notably, the new strategy aims to extend APRA’s reach beyond our regulated entities to influence the broader eco-system of suppliers and providers they rely upon. In an environment where an attack on one of us could be an attack on any of us, our financial system is only as resilient to cyber attacks as the weakest link in the chain. By working together, we can actually capitalise on our increased connectivity to strengthen the chain, and protect ourselves by protecting each other.
+
+An expanding attack surface
+
+Of course, COVID-19 is not solely responsible for the increasingly hostile cyber risk environment. Innovation, coupled with digitization of business processes continues at pace, coupled with an increasingly complex value chain of providers. With each passing year, cyber adversaries hone their skills further, and develop new methods and technologies to breach our defences. Rising geopolitical tensions have also contributed, as evidenced by repeated warnings from the Australian Government about state-sponsored actors carrying out cyber attacks that threaten critical industries and services .
+
+Still, the surge in online activity that accompanied the pandemic unquestionably represented a “business opportunity” for those who use the internet to acquire ill-gotten gains. In just 16 days in March, as the pandemic took hold, the Australian Cyber Security Centre received over 45 pandemic-themed cybercrime and cyber security incident reports, while the Australian Competition and Consumer Commission’s (ACCC) Scamwatch received over 100 reports of COVID-19 themed scams .
+
+Looking at the pattern of information security breach reports to APRA since the pandemic begun, there is no obvious sign of an increase in cyber adversaries targeting banks, insurers or super funds. This is not cause for complacency, given it can take months or years for some cyber attacks to be detected, while we are acutely aware that our major financial institutions ward off attempted cyber-attacks on a daily basis.
+
+The unexpected and rapid transition to online and remote working arrangements that took place around March has increased these risks. In prioritising their ability to keep operating, many of the entities we regulate needed to make compromises to their normal information security protocols to facilitate the sudden switch to remote work arrangements for most or all employees. We also know that very few entities have gone back to firmly close the gates they left ajar in March. We are aware of employees, including some very senior ones, who have sent sensitive or confidential company information to their private email addresses to access on their personal phone, tablet or
+
+3
+
+4
+
+2/7
+
+computer. APRA itself granted more than 100 requests for regulatory relief to entities struggling to meet the 1 January 2021 deadline to comply with CPS 234 third-party arrangements transition provisions.
+
+These risk-trade-offs were understandable given the highly unusual circumstances, and the need for entities to make mass changes to business practices in a highly compressed timeframe. APRA’s concessions were also consistent with our wider efforts to reduce the regulatory burden so industry could focus on its pandemic response. But amid consistent evidence that many entities are failing to adequately comply with CPS 234, this is one area where APRA can no longer hold off tightening the regulatory screws.
+
+A step change in regulatory intervention
+
+Our new Cyber Security Strategy builds on previous strategic initiatives including the delivery of APRA’s information security prudential standard and prudential guidance, and establishing a notification and response process for material cyber incidents. The Strategy has been informed by extensive consultation with the Department of Home Affairs, as well as Treasury, ASIC and the Reserve Bank of Australia, and is designed to complement Australia’s Cyber Security Strategy 2020 . Our mission is to make a step change in Australia’s financial system cyber resilience. Our vision is for a financial system that can stand firm against cyber-attacks.
+
+At the heart of the new strategy is recognition that the Australian financial system is an ecosystem of an estimated 17,000 interconnected financial entities, markets, and financial market infrastructures that provide products and services to consumers. APRA only directly supervises around 680 of these, yet we know that a cyber breach in any part of the system - such as an insurance broker, a credit ratings agency, an IT service provider or ATM repair service - can have a cascading impact on the whole system. To better address this gap, our new Cyber Security Strategy will see APRA apply a broader
+
+5
+
+3/7
+
+set of regulatory tools and techniques to cyber, acting in concert with peer regulators and other government agencies, and imposing greater accountability on entities that fail to adequately comply with their prudential obligations.
+
+The Strategy comprises three primary focus areas.
+
+Number one is to establish a baseline of cyber controls by reinforcing the embedding of non-negotiable cyber practices, facilitating better sharing of cyber information and enabling more effective incident response processes. It’s close to 18 months since CPS 234 came into effect, and we are still seeing too many basic cyber hygiene issues across the industry. Our goals here are to eradicate unnecessary or careless cyber exposures, foster a community of “cyber defenders” that is greater than the sum of its individual parts, and make sure entities are “battle ready” for when breaches inevitably occur.
+
+Our second priority is to enable boards and executives of financial institutions to oversee and direct correction of cyber exposures. We will achieve this by formulating sound practice guidance, and stepping up APRA’s scrutiny of cyber oversight practices. Cyber risk is hardly a new threat, yet many boards across our regulated population are still not properly equipped to oversee cyber matters and direct corrective action where necessary. Where boards will leap into action to head off a threat to liquidity or a major credit risk, we don’t see that same sense of confidence and urgency translated to cyber security matters.
+
+But boards are not solely responsible. A company’s internal audit function should be the eyes and ears of the board into their organisations. However, when it comes to cyber, the eyesight is often blurry and the hearing dull. Internal audit functions in many APRA-regulated entities lack sufficient cyber skill sets, are under-resourced, and methodologies are under-developed. As a result, APRA has observed examples of a number of behaviours:
+
+cyber exposures identified by internal auditors met with an audit committee that failed to act (or doesn’t know how to); an audit committee struggling to interpret the severity of cyber risk findings compared to findings raised in other areas of the business; or internal auditors that don’t conduct a sufficiently thorough investigation into the state of the cyber controls to assure they are sufficient to meet the potential cyber risk exposures.
+
+The consequence of this is that many boards either aren’t properly informed about the true state of their entity’s cyber security, or they fail to grasp why urgent action is required.
+
+I’m not just here to offer criticism without offering solutions. My message to internal auditors is that you are key agents in the fight against the growing cyber threat, and that APRA wants to work with you to ensure the importance of your function is properly
+
+4/7
+
+understood, valued and listened to. As part of APRA’s new Cyber Strategy, we will formulate enhanced cyber guidance for board members, internal auditors and risk management professionals. We intend to develop this in partnership with relevant professional bodies, such as the Australian Institute of Company Directors, the Risk Management Institute of Australasia, and the hosts of today’s event - the Institute of Internal Auditors.
+
+The third branch of APRA’s new Strategy is to rectify weak links within the broader financial eco-system and supply chain by fostering the maturation of provider cyber-assessment and assurance, and harmonising the regulation and supervision of cyber across the financial system. This is perhaps the most challenging part of the strategy because it involves extending our influence beyond banks, insurers and superannuation licensees to cover a wide range of services, ranging from fund managers and payment platforms to software vendors. Our goal here is to raise the level of maturity in the supplier procurement and oversight practices so financial entities can have confidence that suppliers can meet their - and our - cyber security expectations.
+
+To achieve this, APRA will engage with a selection of suppliers, auditing associations and financial entities to develop stronger third-party provider assessment and assurance practices for use by APRA-regulated entities. We continue to work closely with the Department of Home Affairs and the Australian Cyber Security Centre to ensure our strategy and activities are in alignment. We will also work closely with our fellow Council of Financial Regulators (CFR) agencies to harmonise regulation and supervision of cyber across the financial system. At the moment, APRA, ASIC and the RBA all have different requirements for cyber security, which risks causing confusion or leaving weak points in the broader financial system for cyber adversaries to exploit. This needs to be addressed, and the CFR Cyber Working Group is already examining how best to do this.
+
+Taking a closer look
+
+To successfully implement our new strategy, APRA will need to continue to evolve and strengthen its regulatory and supervisory approach to cyber risk. The fact that we’ve reached this point so soon after introducing a prudential framework for cyber only underlines how fast the threat has evolved and grown in a short time. In the face of an enemy that is constantly seeking new ways to breach our defences, we are exploring a range of innovative tools and techniques aimed at dialling up our supervision and scrutiny of financial institutions. In respect we are grateful for the allocation of additional Commonwealth funding to APRA in the most recent Federal Budget for this very purpose.
+
+We will collect more data in new areas to better understand the cyber threat, and share that knowledge to enable industry self-assessment and benchmarking. We are looking at partnering with academia to research issues such as measuring and benchmarking cyber resilience, and exploring more formal threat intelligence sharing among domestic and international regulators to better inform our activities.
+
+5/7
+
+We are also going to take a much more targeted approach to ensuring CPS 234 is being fully complied with, and holding boards and management accountable where it is not.
+
+As background, at the end of last year, APRA supervisors reached out to their entities to directly ask if they were CPS 234 compliant. Around 100 entities confessed to shortcomings and requested more time, but most provided generally positive accounts of their compliance status. Yet when our IT Risk specialist team has conducted cyber reviews of some of these entities, we’ve discovered significant weaknesses in every instance, in areas such as testing programs, control environments and incident response capabilities.
+
+In response, I can announce today that APRA will shortly be requesting one-off tripartite independent cyber security reviews across all our regulated industries.
+
+Starting next year, APRA will be asking boards to engage an external audit firm to conduct a thorough review of their CPS 234 compliance and report back to both APRA and the board. We haven’t made a final determination on which entities this will apply to, but all entities should prepare accordingly.
+
+At one level, this exercise is about identifying compliance issues and ensuring they are rectified in the shortest period of time to protect companies and the wider system. At another level, it’s sending a message about the seriousness of this issue, and the need for greater accountability for meeting what are now legal obligations. In light of evidence that boards frequently don’t understand or are not adequately informed about cyber risks, we’re no longer prepared to simply take their words for it - we want compliance independently verified, and we will be applying serious pressure when it’s not forthcoming. Where gaps are sufficiently material, we will consider forcing entities to issue a breach notice and create a rectification plan. If boards are unwilling or unable to make the required changes in a timely manner, we will consider using formal enforcement action. The intention, as per our “constructively tough” enforcement philosophy, it is to expedite positive change to protect institutions, the customers that rely on them and the broader financial system.
+
+A united front
+
+As the threat posed by domestic and international cyber adversaries grows, along with the potential impact of a successful attack, we must remain on guard and continue to build our defences. With the accelerating transition to a digital economy opening up new connections for criminals and bad actors to exploit, and ever-increasing reliance on the virtual world, we can expect no let-up in this fight.
+
+But if interconnectivity is the problem, it also points towards a solution. In an environment where an attack on one of us could be an attack on any of us, we are all - governments, regulators, organisations and individuals - links in a chain - and we are in this battle together. By sharing information and expertise, pooling resources and taking prompt action to plug gaps and fix weak links, we create a community of cyber defenders that is greater than the sum of its parts. In doing so, we help to keep the chain as strong as possible, and lock out those who would do us harm.
+
+6/7
+
+Footnotes:
+
+https://www.theaustralian.com.au/business/technology/ransomware-attack-sends-isentia-spiralling/news-story/b95f9a2effdd861d2725007d6b8e429d
+
+https://www.afr.com/technology/hacked-again-toll-group-systems-hit-by-fresh-ransomware-attack-20200505-p54q19
+
+https://www.smh.com.au/politics/federal/consequences-catastrophic-dutton-says-cyber-attacks-on-critical-infrastructure-rising-20201021-p56732.html
+
+Australian Cyber Security Centre Annual Threat Report July 2019 to June 2020, p6.
+
+https://www.homeaffairs.gov.au/cyber-security-subsite/files/cyber-security-strategy-2020.pdf
+
+1
+
+2
+
+3
+
+4
+
+5
+
+7/7
+

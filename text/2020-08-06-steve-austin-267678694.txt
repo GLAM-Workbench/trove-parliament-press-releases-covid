@@ -1,0 +1,112 @@
+
+
+
+
+
+
+The Hon Stuart Robert MP  Minister for the National Disability Insurance Scheme  Minister for Government Services
+
+TRANSCRIPT
+
+
+
+
+
+E&EO--------------------------------------------
+
+
+
+Transcript: Interview with Steve Austin, ABC Radio Brisbane Drive, Thursday, 6 August 2020  Topics: COVIDSafe app, PPE, QLD/NSW border
+
+STEVE AUSTIN:  Stuart Robert, thanks for coming on this afternoon.
+
+MINISTER:  Steve, great pleasure.
+
+STEVE AUSTIN:  Do you admit that it's not working as Chris Bowen says?
+
+MINISTER:  Goodness, no. Not at all. I mean it's just gone and found 544 cases unknown in NSW, including  two COVID positive cases. The app is working, exactly as intended, and it would be really  helpful, I suspect, that the opposition joined team Australia, and put their shoulder to the  wheel rather than throwing mud around.
+
+STEVE AUSTIN:  There's a difference there between the 500 and the two COVID positive cases. Most people  understood that the advantage of this app was for the COVID, in other words, tracing the  people who actually were infected.
+
+MINISTER:  Absolutely. So the app is designed to work with, complement, manual trace. So people find  themselves, positive, their data from their app is uploaded to a data store that allows manual
+
+tracers, to then trace more quickly. And in the New South Wales case and they’ve used it many  times, last week we find out that it found five cases that manual tracing hadn't found and of  course a few days ago they tracked an individual case, down to a very large cluster, within I  think a restaurant. And then as they contacted all of those 544, they found two COVID positive  cases. So it’s designed to augment manual tracing and to take manual tracing to levels that  perhaps they haven't been able to do before. And it's doing precisely that.
+
+STEVE AUSTIN:
+
+Chris Bowen pointed out to me earlier on today that the latest figures that the opposition was  briefed on was 14 cases in New South Wales that is had helped trace infected 14 infected  people, none in Queensland and none in Victoria, why is that?
+
+MINISTER:  Queensland has had very, very low levels of community transmission so you'd expect that. And  of course as Professor Murphy said in committee two days ago Victoria has not been using it.  Now, Professor Murphy also said that Victoria has indicated they’ll start using it now. And if  they haven't been using it for the last couple of weeks, then that would probably explain why  they haven't found any.
+
+STEVE AUSTIN:  So what does that mean because Victorians are still downloading it onto their phones?
+
+MINISTER:  What it means, is what Professor Murphy has said is the Victorian authorities haven't been  integrating it into their tracing capacity.
+
+STEVE AUSTIN:  So the health… the health… the Victorian Health department staff were not using it, they didn't  see it as a tool that would help them?
+
+MINISTER:  They… well I’m not going to give any reason as to why they didn't use, Professor Murphy didn't  do that. He simply said they weren't using it, but they've indicated to him now that they will.  The fact that it's shown that it's actually working very effectively in New South Wales, but in  very, very limited and small numbers of community transmissions tells you what you need to  know about the app, that it’s working exactly as, as it was intended to do to augment and work  with manual tracing.
+
+STEVE AUSTIN:  My guest is Stuart Robert he's the Minister… the Federal Minister for Government Services.  We’re talking about the COVIDSafe app. At last check, there was around 6.9 million Australians  who downloaded it onto their smartphones, have the glitches or the technical problems been  resolved yet, Stuart Robert?
+
+
+
+MINISTER:  Well, why does Facebook put out an update every two weeks and iOS puts out an update every  month is because you will always find potential issues. Likewise, we're now up to release nine  and we'll continue to put out releases. We've probably found 30 to 40 issues that may  potentially be problems that’s why we addressed those. That's why we publish the source code  so the tech community can work with us. So all app, whatever your favourite app is, Steve, on  your phone, trust me, there are updates happening. If you put automatic updates, that's what's  happening. As they add new features new capabilities. We’re adding new languages, all the  time, and new features to strengthen signals and the like.
+
+STEVE AUSTIN:  I try to be a good citizen and take love your neighbour as you love yourself seriously, so I've  downloaded the COVIDSafe app to my phone, does that mean it automatically updates, just on  my phone without me having to do anything?
+
+MINISTER:  Depends if on your phone, depending what phone you're using the operating system gives you  a choice as to whether you want all of your apps to be automatically updated or it wants you to  update it. So only you can answer that question, Steve. So, which one is it, have you set it for  automatic update for your apps or have you not?
+
+STEVE AUSTIN:  Of course, the apps just reload themselves every time you turn it on or turn it off or whatever,  you know, every other app reloads itself if there's an update.
+
+MINISTER:  Well, only if you've chosen that city which sounds like you have.
+
+STEVE AUSTIN:  Okay, well I'll move on, my guest is Stuart Robert, Federal Minister for Government Services.  The government seems to have backed off on asking Australians to download it onto their  phone, 6.9 million people is a good take up, but still nowhere near enough, the government's  original intended targets. Why has the government sort of backed off asking people to  download it?
+
+MINISTER:  We haven’t, there are 456 people per hour that are downloading the app and every  opportunity, we get, we encourage Australians to download the app.
+
+STEVE AUSTIN:  So how many have downloaded it now?
+
+MINISTER:
+
+As of yesterday at 3:30pm, 6,918,003. It's got one of the greatest densities of all tracing apps,  about 34, anywhere in the world, which is superb that Australians are actually doing that. And  I’d encourage them to. It's designed to augment manual tracing. It's designed to assist us and it  does that job really well.
+
+STEVE AUSTIN:  So it's an augmentation to manual contact tracing, not… not… not the leading edge, not the  cutting edge of contact tracing?
+
+MINISTER:  It was never designed to replace manual tracing. It was always designed to be another arrow in  the bow, if you like, a feather in the cap, if you want another analogy. It was always designed to  augment and assist. I mean there's lots of things, we socially distance, we wash our hands, we  stay away from large demonstrations, we download the app, and use it. We're conscious of  where we are in settings. We were a mask in public transport depending upon the health advice  in different states and territories. All of these things build a wall against the virus, and the app is  just one more brick in that wall.
+
+STEVE AUSTIN:  Finally, I also asked Chris Bowen about Australia stocks of personal protective equipment, and  masks. And he observed that we did have a… what's the word, no PPE just prior to COVID, we  did have about 20 million masks which wasn't enough, what's the government doing about sort  of correcting that supply chain dilemma about PPE and masks in Australia?
+
+MINISTER:  My understanding is the National Stockpile is well in excess of 100 million, it is a question for  the Health Minister…
+
+STEVE AUSTIN:  …sure…
+
+MINISTER:  …but the, the, there is no shortage so for example we've been rolling out millions and millions  of pieces of PPE for participants and providers in the NDIS, and there is no restriction for that,  so it is simply demand driven. And it's the same within, within Health. So that's my  understanding that we are in a good place in that respect.
+
+STEVE AUSTIN:  All right. Do you wear a mask?
+
+MINISTER:  I do not.
+
+STEVE AUSTIN:
+
+Why is that, there seems to be a building consensus that we should just because of the elusive  nature of the virus that we should be heading towards wearing a mask whether or not, you  know, we feel like we're at risk or not.
+
+MINISTER:  I would encourage everyone to follow the health advice, as I will follow the health advice. So if  the health advice was to wear a mask, that's exactly what I would do. If I was in New South  Wales on public transport or areas where the health advice is to wear a mask that's exactly  what I’d do. So I encourage everyone to follow the health advice. And to my knowledge, I'm  sitting here in Queensland, that health advice has not been provided in that respect.
+
+STEVE AUSTIN:  Your electorate is based on the Gold Coast, how do you feel about the hard closure of the  border by the Premier on midnight or one o'clock Sunday morning on the weekend?
+
+MINISTER:  I've always been an advocate for keeping our borders open and allowing free trade. I think New  South Wales is a real exemplar here. New South Wales is dealing with community transmission,  and they're doing, I think an excellent job, and they haven't closed the borders to Queensland.  So if New South Wales is getting on top of their transmissions, and then dealing with really  sensibly, and they haven't closed the borders to Queensland, I think that's a really good  example of how Queensland should be following as well. Now I respect Premiers get to make  decisions, in that respect. I'm not criticizing the Premier for her decisions, simply making the  point, I'd prefer a New South Wales approach.
+
+STEVE AUSTIN:  So you don't think it's the right choice?
+
+MINISTER:  I think New South Wales has made better choices.
+
+STEVE AUSTIN:  Alight, I’ll leave it there. Thanks very much for your time.
+
+MINISTER:  Thanks Steve, cheers.
+
+[ENDS]
+
+Authorised by S. Robert MP, Canberra
+
+
+

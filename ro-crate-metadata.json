@@ -1,0 +1,242 @@
+{
+    "@context": "https://w3id.org/ro/crate/1.1/context",
+    "@graph": [
+        {
+            "@id": "./",
+            "@type": "Dataset",
+            "author": [
+                {
+                    "@id": "https://orcid.org/0000-0001-7956-4498"
+                }
+            ],
+            "datePublished": "2024-02-25",
+            "description": "A GLAM Workbench dataset",
+            "distribution": {
+                "@id": "https://github.com/GLAM-Workbench/trove-parliament-press-releases-covid/archive/refs/heads/main.zip"
+            },
+            "hasPart": [
+                {
+                    "@id": "https://github.com/GLAM-Workbench/trove-government/blob/master/harvest-parliament-press-releases.ipynb"
+                },
+                {
+                    "@id": "text/"
+                },
+                {
+                    "@id": "results.csv"
+                },
+                {
+                    "@id": "results-schema.json"
+                }
+            ],
+            "isBasedOn": {
+                "@id": "https://github.com/GLAM-Workbench/trove-government/"
+            },
+            "license": {
+                "@id": "https://spdx.org/licenses/MIT"
+            },
+            "mainEntityOfPage": {
+                "@id": "https://glam-workbench.net/trove-government"
+            },
+            "name": "trove-parliament-press-releases-covid",
+            "url": "https://github.com/GLAM-Workbench/trove-parliament-press-releases-covid"
+        },
+        {
+            "@id": "ro-crate-metadata.json",
+            "@type": "CreativeWork",
+            "about": {
+                "@id": "./"
+            },
+            "conformsTo": {
+                "@id": "https://w3id.org/ro/crate/1.1"
+            },
+            "license": {
+                "@id": "https://creativecommons.org/publicdomain/zero/1.0/"
+            }
+        },
+        {
+            "@id": "https://github.com/GLAM-Workbench/trove-government/blob/master/harvest-parliament-press-releases.ipynb",
+            "@type": [
+                "File",
+                "SoftwareSourceCode"
+            ],
+            "author": [
+                {
+                    "@id": "https://orcid.org/0000-0001-7956-4498"
+                }
+            ],
+            "codeRepository": "https://github.com/GLAM-Workbench/trove-government/",
+            "conformsTo": {
+                "@id": "https://purl.archive.org/textcommons/profile#Notebook"
+            },
+            "description": "Trove includes more than 380,000 press releases, speeches, and interview transcripts issued by Australian federal politicians and saved by the Parliamentary Library. This notebook shows you how to harvest both metadata and full text from a search of the parliamentary press releases. The metadata is available from Trove, but to get the full text we have to go back to the Parliamentary Library's database, ParlInfo.",
+            "documentation": {
+                "@id": "https://glam-workbench.net/trove-government/harvest-parliament-press-releases/"
+            },
+            "encodingFormat": "application/x-ipynb+json",
+            "name": "Harvest parliament press releases from Trove",
+            "programmingLanguage": {
+                "@id": "https://www.python.org/downloads/release/python-31012/"
+            },
+            "url": "https://github.com/GLAM-Workbench/trove-government/blob/master/harvest-parliament-press-releases.ipynb"
+        },
+        {
+            "@id": "text/",
+            "@type": "Dataset",
+            "dateModified": "2024-02-25",
+            "documentation": {
+                "@id": "https://glam-workbench.net/trove-government/trove-parliament-press-releases-covid"
+            },
+            "name": "text",
+            "sdDatePublished": "2024-02-25",
+            "size": 5520,
+            "url": "https://github.com/GLAM-Workbench/trove-parliament-press-releases-covid/tree/main/text/"
+        },
+        {
+            "@id": "results.csv",
+            "@type": [
+                "File",
+                "Dataset"
+            ],
+            "conformsTo": {
+                "@id": "results-schema.json"
+            },
+            "contentSize": 5194797,
+            "dateModified": "2024-02-25",
+            "documentation": {
+                "@id": "https://glam-workbench.net/trove-government/trove-parliament-press-releases-covid"
+            },
+            "encodingFormat": "text/csv",
+            "name": "results.csv",
+            "sdDatePublished": "2024-02-25",
+            "size": 5523,
+            "url": "https://github.com/GLAM-Workbench/trove-parliament-press-releases-covid/raw/main/results.csv"
+        },
+        {
+            "@id": "results-schema.json",
+            "@type": [
+                "File"
+            ],
+            "conformsTo": {
+                "@id": "https://specs.frictionlessdata.io/table-schema/"
+            },
+            "encodingFormat": "application/json",
+            "name": "Frictionless Table Schema for results.csv dataset",
+            "url": "https://github.com/GLAM-Workbench/trove-parliament-press-releases-covid/raw/main/results-schema.json"
+        },
+        {
+            "@id": "https://glam-workbench.net/trove-government",
+            "@type": "CreativeWork",
+            "isPartOf": {
+                "@id": "https://glam-workbench.net/"
+            },
+            "name": "Trove government",
+            "url": "https://glam-workbench.net/trove-government"
+        },
+        {
+            "@id": "https://glam-workbench.net/",
+            "@type": "CreativeWork",
+            "author": [
+                {
+                    "@id": "https://orcid.org/0000-0001-7956-4498"
+                }
+            ],
+            "description": "A collection of tools, tutorials, examples, and hacks to help researchers work with data from galleries, libraries, archives, and museums (the GLAM sector).",
+            "name": "GLAM Workbench",
+            "url": "https://glam-workbench.net/"
+        },
+        {
+            "@id": "https://orcid.org/0000-0001-7956-4498",
+            "@type": "Person",
+            "mainEntityOfPage": "https://timsherratt.au",
+            "name": "Sherratt, Tim",
+            "orcid": "https://orcid.org/0000-0001-7956-4498"
+        },
+        {
+            "@id": "https://github.com/GLAM-Workbench/trove-government/",
+            "@type": "Dataset",
+            "name": "trove-government",
+            "url": "https://github.com/GLAM-Workbench/trove-government/"
+        },
+        {
+            "@id": "https://github.com/GLAM-Workbench/trove-parliament-press-releases-covid/archive/refs/heads/main.zip",
+            "@type": "DataDownload",
+            "name": "Download repository as zip",
+            "url": "https://github.com/GLAM-Workbench/trove-parliament-press-releases-covid/archive/refs/heads/main.zip"
+        },
+        {
+            "@id": "https://spdx.org/licenses/MIT",
+            "@type": "CreativeWork",
+            "name": "MIT License",
+            "url": "https://spdx.org/licenses/MIT.html"
+        },
+        {
+            "@id": "https://creativecommons.org/publicdomain/zero/1.0/",
+            "@type": "CreativeWork",
+            "name": "CC0 Public Domain Dedication",
+            "url": "https://creativecommons.org/publicdomain/zero/1.0/"
+        },
+        {
+            "@id": "http://rightsstatements.org/vocab/NKC/1.0/",
+            "@type": "CreativeWork",
+            "description": "The organization that has made the Item available reasonably believes that the Item is not restricted by copyright or related rights, but a conclusive determination could not be made.",
+            "name": "No Known Copyright",
+            "url": "http://rightsstatements.org/vocab/NKC/1.0/"
+        },
+        {
+            "@id": "http://rightsstatements.org/vocab/CNE/1.0/",
+            "@type": "CreativeWork",
+            "description": "The copyright and related rights status of this Item has not been evaluated.",
+            "name": "Copyright Not Evaluated",
+            "url": "http://rightsstatements.org/vocab/CNE/1.0/"
+        },
+        {
+            "@id": "https://www.python.org/downloads/release/python-31012/",
+            "@type": [
+                "ComputerLanguage",
+                "SoftwareApplication"
+            ],
+            "name": "Python 3.10.12",
+            "url": "https://www.python.org/downloads/release/python-31012/",
+            "version": "3.10.12"
+        },
+        {
+            "@id": "https://glam-workbench.net/trove-government/harvest-parliament-press-releases/",
+            "@type": "CreativeWork",
+            "isPartOf": {
+                "@id": "https://glam-workbench.net/trove-government"
+            },
+            "name": null,
+            "url": "https://glam-workbench.net/trove-government/harvest-parliament-press-releases/"
+        },
+        {
+            "@id": "https://glam-workbench.net/trove-government/trove-parliament-press-releases-covid",
+            "@type": "CreativeWork",
+            "isPartOf": {
+                "@id": "https://glam-workbench.net/trove-government"
+            },
+            "name": null,
+            "url": "https://glam-workbench.net/trove-government/trove-parliament-press-releases-covid"
+        },
+        {
+            "@id": "#harvest-parliament-press-releases_run_1",
+            "@type": "CreateAction",
+            "actionStatus": {
+                "@id": "http://schema.org/CompletedActionStatus"
+            },
+            "endDate": "2024-02-25",
+            "instrument": {
+                "@id": "https://github.com/GLAM-Workbench/trove-government/blob/master/harvest-parliament-press-releases.ipynb"
+            },
+            "name": "Run of notebook: harvest-parliament-press-releases.ipynb",
+            "query": "nuc:\"APAR:PR\" AND (covid OR coronavirus)",
+            "result": [
+                {
+                    "@id": "text/"
+                },
+                {
+                    "@id": "results.csv"
+                }
+            ]
+        }
+    ]
+}

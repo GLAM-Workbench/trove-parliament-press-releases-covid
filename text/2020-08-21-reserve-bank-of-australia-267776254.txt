@@ -1,0 +1,44 @@
+Number 2020-19
+
+Date 21 August 2020
+
+Media Release
+
+Payments System Board Update: August 2020 Meeting
+
+At its meeting today, the Payments System Board discussed a number of issues, including:
+
+The impact of the COVID-19 pandemic on the Australian payments system. Payment system operators and retail payment service providers have continued to cope well with the operational challenges posed by the pandemic. Financial market infrastructures have also continued to perform well in recent months.
+
+The assessment of the ASX clearing and settlement facilities against the Bank's Financial Stability Standards. The Board approved the Bank's 2020 assessment, which will be published after it has been provided to the Treasurer and the Australian Securities and Investments Commission.
+
+The Review of Retail Payments Regulation. While the Review remains on hold, staff have continued work in several areas. The Board discussed preliminary proposals for improving price transparency in the merchant acquiring market. The Bank is planning to step up consultation with stakeholders with a view to formally restarting the Review in the next few months.
+
+Recent changes in the use and acceptance of cash associated with the COVID-19 pandemic, and the potential implications of declining cash use for the provision of cash distribution services by banks and other market participants. There has been further rationalisation of ATM fleets by some banks and other deployers during the past year, as well as moves by some participants to establish ATM utilities. Members noted the importance of the community continuing to have good access to cash withdrawal and deposit services, even as the overall use of cash for transactions declines.
+
+The issues around possible issuance of a retail central bank digital currency (CBDC) or e-AUD. Consistent with previous discussions, members considered that at present there is not a strong public-policy case for issuance in Australia, given that the electronic payments system in Australia compares very favourably with those in many other
+
+The materials on this webpage are subject to copyright and their use is subject to the terms and conditions set out in the Copyright and Disclaimer Notice.
+
+Â© Reserve Bank of Australia, 2001-2020. All rights reserved.
+
+7KH5HVHUYH%DQNRI$XVWUDOLDDFNQRZOHGJHVWKH$ERULJLQDODQG7RUUHV6WUDLW,VODQGHU3HRSOHVRI$XVWUDOLDDVWKH7UDGLWLRQDO&XVWRGLDQVRIWKLV
+
+ODQG DQGUHFRJQLVHVWKHLUFRQWLQXLQJFRQQHFWLRQWR&RXQWU\:HSD\RXUUHVSHFWVWRWKHLU(OGHUVSDVWSUHVHQWDQGHPHUJLQJ
+
+countries and access to cash remains good. Nonetheless, the Board will continue to closely watch the experience of other jurisdictions. The Bank is continuing to research the technological and policy implications of a wholesale form of CBDC and is working to develop a proof-of-concept with external parties to explore aspects of wholesale CBDC, building on research the Bank did in its Innovation Lab last year.
+
+Card payments fraud. The latest industry payment fraud statistics showed a substantial drop in card-not-present (CNP) fraud losses in 2019. This was the first decline in eight years and occurred even though there was continued strong growth in the use of cards.
+
+The Board welcomed the industry's efforts to tackle CNP fraud in recent years and encouraged participants to continue to support the AusPayNet-administered CNP Fraud Mitigation Framework that was introduced in 2019 as well as other fraud detection and prevention initiatives.
+
+Cyber risk initiatives. Members were briefed on a range of initiatives to improve cyber resilience, including the Government's Australian Cyber Security Strategy 2020, its consultation to uplift security and resilience of critical infrastructure and the Council of Financial Regulators' framework for testing the strength of institutions' cyber resilience.
+
+The Board is meeting this afternoon with the Australian Payments Council.
+
+Enquiries
+
+Media and Communications Secretary's Department Reserve Bank of Australia SYDNEY
+
+Phone: +61 2 9551 9720 Email: rbainfo@rba.gov.au
+

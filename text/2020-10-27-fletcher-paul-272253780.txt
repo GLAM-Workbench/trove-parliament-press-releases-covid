@@ -1,0 +1,292 @@
+Portfolio Speeches  Tue, 27 Oct 2020
+
+CommsDay Speech  It’s good to be back at CommsDay.
+
+This has been a year of extraordinary challenges for Australia - and I am so proud of the way  Australia’s telecommunications companies have responded.
+
+From Retail Service Providers, large and small, to NBN Co and its delivery partners, to call-centre staff - every touch point from the industry to the end-user -- you have kept our nation  connected.
+
+Since my last address to CommsDay in April, we have announced the next stage in growth for  NBN.
+
+This has been largely welcomed - except for a few fierce fibre partisans, whose reaction  reminded me of those apocryphal Japanese soldiers found in remote jungles in the nineteen  fifties, refusing to believe World War 2 was over.
+
+So today I want to start by responding to some political myths about NBN.
+
+Then I want to speak about the operational and financial reality of NBN today.
+
+Last, I want to talk about how important this is for our economic recovery - with 25,000 jobs and  significant microeconomic and productivity benefits to come from this major infrastructure  investment.
+
+The political myths
+
+Let me turn firstly to the political myths - such as the claim pushed by some in recent weeks that  the Coalition was always opposed to fibre and hence our $4.5 billion investment plan is a  “backflip.”
+
+In fact our plan since coming to government in 2013 has been to roll out the network as quickly  as possible at the least cost, and then deliver upgrades as demand emerged. Our 2016 Statement  of Expectations for NBN set out these steps clearly, and directed NBN Co to ensure all its  technologies were upgradeable.
+
+Our plan moved away from Labor’s approach of building fibre to every premises - for the very  simple reason that it was taking far too long and costing far too much. This is not political  rhetoric: it is the conclusion reached by KordaMentha after we engaged them to carry out an  independent assessment of NBN Co’s operational and financial performance. KordaMentha  concluded that Labor’s FTTP-based model would not have been completed until 2024, with a  peak funding cost of 72.6 billion dollars. [1]
+
+When we came to Government in 2013, the FTTP rollout had been going for three years - and it  was already two years behind schedule and more than 83 per cent behind NBN’s own Corporate  Plan targets. The company had consistently set itself targets that it could not and did not achieve  - and spent billions of taxpayer funds in doing so.
+
+This the reality - but our recent announcement has seen a number of political myths being  asserted. The first is that we simply failed to appreciate the true visionary genius of Labor’s  NBN plan. The Shadow Minister was moved to write the following:
+
+Mike Quigley, the first chief executive of NBN Co, is a passionate, cerebral and methodical  engineer whose ultimate loyalty is to reason and logic.
+
+He understood well before others that the long-term economics of a full-fibre NBN would not  only prevail, but serve the taxpayer and the country well. [2]
+
+She went on to say:
+
+Senator Conroy and Mike Quigley possessed a far deeper understanding of not only the  technology, but critically, the economics of the network they were building and the future  demand associated with it.[2]
+
+Well, now I understand.
+
+These comrades are heroes of tractor production with extraordinary vision!
+
+Never mind that we made eighty per cent fewer tractors than our first five year plan promised!!
+
+We are going to redouble the heroic efforts of all comrades in patriotic service to our motherland  and our glorious revolution!!!
+
+Our next five year plan will deliver so many more tractors that we will prove forever the  superiority of our economic system!!!!
+
+The second myth is that NBN might have been hopelessly behind in 2013 but if only Labor had  stayed in government, NBN could have magically caught up those lost years and been on-schedule and on-budget for completion by 2021.
+
+In fact, NBN analysis in 2016 found that had the original plan been maintained, the network  would not have been finished until 2026-28, with a peak funding range between $74-84 billion  and positive free cash flow not being realised until somewhere between FY26 and FY31.[4]
+
+In other words, if we had continued with Labor’s plan, around five million fewer premises would  be able to access the NBN today.  Dealing with COVID would have been much harder.  As  ACCC Chairman Rod Sims observed recently:
+
+“The final roll out of the NBN could not have been more timely.
+
+Almost overnight so many of us moved from physical to virtual workplaces. Whole families were  caught at home dependent on the NBN for their work, schooling and social gatherings.
+
+…Without the NBN largely built, just in time, our broadband would not have performed  anywhere near as well as it has.
+
+…NBN speeds did not miss a beat when so many of us were working or learning remotely during  the day. These speeds remained high in the yet-busier evenings as many people turned to the  NBN for social engagement and entertainment.”[4]
+
+The third myth is that the Morrison Government is now doing exactly what Labor promised to do  ten years ago. [6]
+
+Let me be clear: there has always been, and there remains, a fundamental difference between the  Coalition’s approach and Labor’s policy of an all-FTTP rollout.
+
+Central to our approach is designing the network rollout to best meet customer demand -  consistent with the approach we have followed since coming to government in 2013.
+
+NBN’s 2012 Corporate Plan - prepared under the Labor Government - projected that by 2020, 90  per cent of all NBN subscribers in a fully fibred network would choose plans of 100Mbps or less,  and that around 40 per cent of these subscribers were expected to choose a 12/1 service.[7]
+
+In other words, compared to the Coalition’s plan, Labor’s plan was to spend $30 billion more  and take six years longer to rollout - all to serve a ten per cent cohort of high-end users in the  fixed line network.  A small group will get great service in first class - but the majority of  Australians are not even allowed on the plane.
+
+Labor’s approach was incredibly wasteful - of both time and money.  It rolled fibre to every  home - whether or not the customer actually wanted a broadband service, let alone a speed high  enough that fibre is needed.
+
+Our approach in this next upgrade is much more prudent. To start with, we are building on what  is already there: in FTTN areas on average there is more than 10 kilometres of fibre in the  ground to each node.
+
+Next, we will roll fibre down the street, in the footprint that is being upgraded from FTTN to  FTTP. But very importantly, we will only build a fibre lead-in to the customer’s home if the  customer orders a high speed service.[8]  This saves about $1,500 per premises for those homes  on FTTN not needing or wanting higher speeds.
+
+Another example of how we have been much more efficient in the use of capital is the Hybrid  Fibre Coaxial (HFC) network. This network covers 2.5 million premises; already around 70  percent of these premises can receive speeds of 250 mbps.
+
+With modest upgrades, ultrafast speeds close to 1 Gbps will be available across the entire HFC  footprint by 2023. But Labor’s plan was to junk the entire HFC network and instead build FTTP  over the top of it.
+
+Under our plan, the HFC and fibre to the curb (FTTC) footprints - a total of four million  premises - are being upgraded to gigabit capability for $500 million. This equates to $125 per  premises.[9]
+
+A fourth myth is that our approach has been wasteful because we first built fibre to the node and  now we have to come back and build fibre to the premises.  Only someone who does not  understand the time value of money would say this. Our approach got premises connected much  more quickly and hence generated cashflows much earlier than under Labor’s plan.
+
+By 2023 the FTTN network will have generated $9 billion in revenues, cost $7.3 billion to build  and $1 billion to operate. FTTN will have effectively paid for itself - and will continue to provide  a very good service to many millions of premises for many years, generating cashflows well into  the future.
+
+The operational and financial reality
+
+Let me turn away from these political myths to the operational reality - consistent with our  approach of developing a rational strategy, executing it diligently and keeping a focus on the  needs of the end user and the benefits that fast broadband can bring.
+
+Financial markets commentator Stephen Bartholomeusz from the Sydney Morning Herald  summed up the recent $4.5 billion network investment announcement by saying:
+
+‘the investments that will enable around 75 per cent of homes and businesses in the NBN’s fixed  line footprint to access speeds of between 500 Mbps and 1 Gbps is perfectly aligned with the  strategy Mr Turnbull outlined when he tore up Labor’s blueprint for the network in 2013.’
+
+‘It’s a demand-driven and commercial approach. The incremental investment will add, not just  extra revenue, but profitable revenue…[10]
+
+A key feature of this investment is that there is no impact to the Commonwealth budget.  Government funding in the NBN remains capped at $49 billion ($29.5bn of equity; $19.5bn in  debt).
+
+The company is now generating strong revenues and operating cashflows - allowing it to borrow  from private debt markets. Annual revenue has grown from $61 million in FY14 to $3.8 billion  in FY20.
+
+Record low interest rates provide the Company with a low cost pathway to borrow against future  free cash flows, underpinned by the strength of projected earnings and the success of NBN’s  inaugural long-term private debt raising completed earlier this year.
+
+NBN Co has built a strong track record of technical innovation and operational delivery.  There  are good reasons for the network choices it has made.
+
+One reason we chose to continue using the HFC network is that there is a very big installed base  of HFC networks globally, particularly in the US. This in turn means continuing technological  innovation and cost reduction from vendors.
+
+In making extensive use of FTTN, we recognised that this technology has been deployed widely  in very large markets in the UK and Europe, and will be used for many years to come. Again this  will mean continued improvements in what the vendors make available.[11]
+
+Globally there is plenty of work being done on fibre to the curb (FTTC), with operators like  British Telecom testing it extensively.  But to date NBN is one of the very few operators that has  commenced a commercial rollout of the technology.
+
+NBN Co is also one of the first companies in the world to deploy a fixed wireless network at  scale.[12]
+
+Another marker of NBN’s success is the continuing strong growth in the amount of data  Australians are using.
+
+Since 2010, the average monthly download per fixed line customer has grown more than 30  times from less than 10 GB per month to over 330 GB today. Data usage on the NBN has been  increasing by over 30 per cent per year, and this has only been accelerated by the impact of  Covid-19.[13]
+
+Video streaming is a major driver of data consumption, representing approximately 45 per cent  of all downstream application traffic over the network.[14]
+
+At the end of June 2019, there were more than 12 million online video content paying  subscriptions in Australia.[15]
+
+In July 2020, almost 15.7 million Australians had access to a subscription TV service, up almost  six per cent in only three months.[17]
+
+Not only are Australians consuming more data, they are increasingly choosing higher speed  plans.  The average wholesale speed ordered on the network has grown by 34 per cent over the  past five years from 34Mbps in 2015 to 46Mbps in 2020.  70 per cent of NBN users now take a  50 Mbps or higher plan.
+
+We believe there will be good demand for the Home Superfast plans (250 Mbps) and Home  Ultrafast (500 Mbps to 1000 Mbps) as we increase the footprint of customers who can order  these products.
+
+Today Home Superfast and Home Ultrafast are available to 35 per cent and 17 per cent of the  fixed line network respectively.  With availability to reach 75 per cent by 2023, the addressable  market for Home Ultrafast will increase more than fourfold.
+
+Since these plans were launched earlier this year there has been a strong response from  customers. As part of this launch, NBN Co sharply dropped its wholesale prices - for 1000 Mbps  plans the price dropped from $180 per month to $80 per month. It also significantly enhanced  CVC inclusions for these products.
+
+Increasingly retailers are focusing on the opportunities presented by meeting the demand from  high-end users. For example, around 30% of Aussie Broadband customers are on 100 Mbps and  above plans.[23] Telstra has also recently productised the Superfast and Ultrafast plans in an  anticipated push into this high-speed segment.[18]
+
+We have also looked at evidence from across the ditch in New Zealand, where Chorus is now  activating around 40 per cent of its new ultrafast fibre connections with 1 Gbps plans.
+
+As well as better meeting the needs of high end users, the next stage of NBN growth will deliver  better services to regional and remote Australia.
+
+Around $2 billion of the investment commitment will be directed towards better connecting  regional Australia and will stimulate regional jobs and economic growth.
+
+Some 950,000 homes and businesses in regional Australia will gain access to ultra-fast  broadband speeds of close to 1 Gigabit per second (Gbps).
+
+Part of the $4.5 billion investment will go towards delivering 240 business fibre zones around  Australia - with 85 to be in regional areas.  A business located in a business fibre zone will be  able to order a business grade, symmetrical broadband service delivered over optical fibre of up  to one gigabit per second with no upfront connection charge. In addition, NBN’s wholesale price  in business fibre zones will be dropped to the same price it currently charges in the CBD areas of  our big cities.
+
+The Business Fibre Zone initiative will benefit around 250,000 regional businesses, and the price  reduction for businesses within Business Fibre Zones in regional areas will be up to 67 per cent.
+
+Business grade, symmetrical services are becoming more important for businesses to support  cloud based applications, secure storage, large file transfers and videoconferencing.
+
+I am pleased that retail service providers of all sizes have welcomed the business fibre initiative,  and the opportunity it provides to better meet the needs of business by improving their digital  capabilities and infrastructure, including in regional Australia.
+
+Another priority for NBN is supporting lower end broadband users.  Not all consumers need or  want high speed plans; for many the key focus is affordability. So I am pleased that NBN Co has  modified its offerings to provide improved flexibility and choice to meet the needs of these users.
+
+This includes the introduction of the modified 12/1 Mbps wholesale entry level bundle at an  effective price of $35 per month. We announced that in last October, and that enables retailers to  provide a $60 unlimited entry-level plan.
+
+Through NBN’s COVID relief measures, the company offered a $150 million financial relief and  assistance package to help RSPs support residential and business customers facing financial  hardship as a result of the pandemic.
+
+As part of the package for low-income households with home schooling requirements, NBN Co  has extended its Education Assistance offer until 15 January 2021. Once this offer expires, NBN  will then offer a 50 per cent wholesale discount to retailers so they can continue supporting their  customers who signed up to the Education Assistance offer earlier this year.
+
+NBN: Why it matters to our economy
+
+Let me turn to speak about why this major new investment by NBN is important for the nation,  for jobs and for the economy.
+
+The $4.5 billion investment package will provide jobs directly with NBN Co, and contribute to  job creation for thousands more in associated industries like construction, trade, transport, and  support and technical services.
+
+In the near future the construction and related work required for these investments generate  around 25,000 jobs over the next 12-24 months.[25]
+
+These investments are estimated to increase Australia’s GDP by up to $6.4 billion per annum by  2024, with $1.5 billion flowing to regional Australia. This is in addition to the $21 billion  already estimated to be generated by the NBN.[25]
+
+With the volume build of the network now close to completed, NBN Co is well positioned to  undertake these planned investments from a running start and at lower costs. Executing this plan  now will deliver additional efficiencies from the in-place workforce that would not be realised if  this investment were made later, when relevant workforces would need to be mobilised from a  standing start.
+
+A key component of the $4.5 billion investment plan involves a program to make NBN’s highest  wholesale speed tiers available, as demand arises, to around 8 million premises - that’s up to 75  per cent of homes and businesses on the fixed-line network by 2023.
+
+As we’ve said, this includes the build of new local fibre networks passing around 2 million  premises that will ultimately enable their conversion from Fibre to the Node (FTTN) to FTTP, on  demand, over the next three years.
+
+Today, I am very pleased to announce a significant next step in the delivery of this plan: NBN  Co has commenced work with its construction delivery partners to design and construct local  fibre networks passing around 100,000 premises in areas currently serviced by FTTN  technology.
+
+It is important to emphasize this initial footprint represents only 5 per cent of the build program  and is not indicative of the wider footprint in terms of representation across states and territories  or regional and metro areas.
+
+But what this next phase of network investment does represent is momentum.
+
+We are getting on with the job now, with a particular early focus in the states, and in regional  and metro areas - where we anticipate strong demand; where NBN have established construction  and delivery partners that are well resourced with good people who are ready to work; where we  can deploy with speed and agility; where it is cost-effective to start work now - and in a way that  we can spread and multiply economic activity across the nation.
+
+The initial footprint will cover parts of the following towns and suburbs:
+
+Ã¢ÂÂ¢ Belmont North, Charlestown, Toronto, Carramar, Castle Hill, Holsworthy, Liverpool, and  Wetherill Park in New South Wales;  Ã¢ÂÂ¢ Lyndhurst and Narre Warren in Victoria;  Ã¢ÂÂ¢ Acacia Ridge, Browns Plains, Eight Mile and Oxenford in Queensland;  Ã¢ÂÂ¢ Osborne in South Australia; and  Ã¢ÂÂ¢ Cannington and Double View in Western Australia.
+
+Work is continuing at pace within NBN to define to full design and deployment schedule that  will take the new local fibre networks past 2 million premises over the next three years. It will be  based on industry consultation and other relevant factors to ensure the optimum footprint is  selected, and these locations will, of course, be well communicated to customers.
+
+The commencement of these works that I’m announcing today is a down payment on job  creation, providing a much-needed boost to economic activity and employment as we  collectively seek to rise out of this COVID recession.
+
+By taking fibre deeper into these towns and suburbs, households and businesses will be able to  access NBN Co’s fastest internet plans of up to 1 gigabit per second, with the fibre lead-ins  connecting premises to the new local fibre networks only to be built when a customer orders an  eligible service.
+
+Construction of the initial local fibre networks is expected to be completed in the second half of  next calendar year. The remaining footprint for the deployment of local fibre networks in FTTN  areas is currently being considered by NBN, as I previously mentioned, and will be announced  early next year.
+
+This next stage of the NBN’s development will deliver important microeconomic and  productivity gains.
+
+Australian businesses have long faced a lack of choice in enterprise broadband services, leading  to higher costs and inflexible contracts, which ultimately affects their bottom line.
+
+With the NBN, that is changing. Once a particular business is connected to the NBN, that  business benefits from having more choice in enterprise broadband services.
+
+This drives stronger competition, and means businesses can expect lower prices, better coverage  and more innovative and better tailored service offerings.
+
+I have said previously that there are at least four ways in which NBN is helping businesses and  particularly small businesses become more productive.
+
+The first is simply cheaper, better, more widely available broadband services - linked to having  greater choice of provider for the reasons I have just explained.
+
+The second is the way the NBN allows small businesses to use the latest software delivered over  the cloud.  For quite a long time, using cloud-based applications has been business as usual for  the big end of town. But now with the NBN cloud-based applications are available to all.
+
+I saw a good example of what this can mean when I visited Forge Pizzeria in Ballarat earlier this  year.  With a high speed NBN connection, the owner of this 80 employee business has moved to  cloud based business software including his payroll system - which he said allows him to get the  payroll done in an hour when previously it took him a day.
+
+A third way in which NBN is helping small businesses achieve greater productivity is by  enabling small businesses to access a bigger addressable market.  They can use online  directories, websites, social media - all of these marketing tools are available if you are  connected and, critically, if your customers are connected.
+
+A fourth way that NBN is helping to support productivity improvements is by facilitating greater  choice as to where people locate their business, and where their employees are able to work  from.
+
+When people can locate where they want to, and still do the business that they want to, that is a  productivity benefit.  When people are able to work from home, that is a productivity benefit.
+
+And we’ve seen this behaviour occurring extensively during the COVID-19 pandemic.
+
+In Australia, the use of the National Broadband Network during business hours has increased by  70 per cent as more Australians work from home.[21]
+
+Australia Post’s 2020 eCommerce Industry Report shows the sharp jump this year in people  shopping online - 5.2 million people in April 2020, up 31% on a year earlier. [22]
+
+Australia’s digital economy is growing strongly. Greater access to faster and reliable broadband  will drive growth in fields like smart manufacturing and agriculture. Integrated digital  technologies are making smart manufacturing not just a competitive advantage, but a necessity in  terms of scalable operations, IP security, data analytics and supply chain models. By integrating  operations in the cloud, businesses are able to centralise digital operations, and decentralise  manufacturing. Among other advantages this allows users to manufacture anywhere, bringing  them closer to distribution points.[23]
+
+We need a clear plan to get the best economic outcomes from the NBN and our other broadband  networks. To that end, I recently established the Australian Broadband Advisory Council to  provide advice on how Australia can make best use of its fixed and mobile broadband  infrastructure to drive economic recovery and productivity.
+
+ABAC’s first paper, to be released later this year, will review the impact of COVID-19 in driving  digital adoption in Australia, with the seismic shifts that have occurred in online commerce and  delivery of essential services such as health care.
+
+I anticipate ABAC will become a significant voice in our economic policymaking.  For example,  it will be investigating industries with high economic potential to use broadband and new digital  technologies, but which presently have relatively low levels of adoption.
+
+Conclusion
+
+Let me conclude, then, by returning to the theme with which I began: how the unprecedented  challenges presented by the COVID-19 pandemic have underscored the importance of fast,  reliable and affordable broadband.
+
+Shrewd decisions taken by our Liberal National Government in 2013 - executed upon diligently  over the last seven years by the experienced board and management team at NBN Co - meant the  NBN was well placed to serve Australia during this crisis.
+
+Under successive Communications Ministers Turnbull, Fifield and now Fletcher, we’ve followed  a consistent plan to take the politics out of the NBN.  Instead our focus has been on good  operational performance, meeting customer needs and investing for the future.
+
+The result has been a very significant turnaround.
+
+And now we can drive the next stage of NBN’s development - and Australia can capture the  productivity, efficiency and lifestyle benefits that widely available broadband can support.
+
+
+
+Footnotes
+
+[1] Strategic Review, p 38
+
+[2] https://thenewdaily.com.au/news/politics/australian-politics/2020/10/03/nbn-backflip-copper-fibre/
+
+[3] NBN Co 2016 Corporate Plan - page 39.
+
+[4] Rod Sims Keynote to the Financial Review National Infrastructure Summit: Infrastructure  beyond the Crisis. Thursday 15 October.
+
+[6] Michelle Rowland Press Release, ‘After $51 billion and seven years of lies — we now know  fibre was better and cheaper all along’, 23 September 2020
+
+[7] NBN 2012-15 Corporate Plan - Page 64
+
+[8] Stephen Rue, Corporate Plan 2021  speech, https://www.nbnco.com.au/content/dam/nbnco2/2020/documents/media-centre/corporate-plan-2021/nbnco-corporate-plan-2021-stephen-rue-speech.pdf
+
+[9] NBN Co 2021 Corporate Plan - Page 41
+
+[10] SMH, “The NBN upgrade isn’t a backflip, it’s a forward roll”, 24 September  2020 https://www.smh.com.au/business/companies/the-nbn-upgrade-isn-t-a-backflip-it-s-a-forward-roll-20200924-p55yr9.html
+
+[11] Bruno Jacobfeuerborn, chief technology officer at Deutsche Telekom, 2017:
+
+https://www.abc.net.au/news/2017-11-13/deutsche-telekom-argues-original-fibre-nbn-too-ambitious/9143486
+
+[12] https://www1.nbnco.com.au/blog/the-nbn-project/ovum-report-nbn-fixed-wireless-leading-the-world
+
+[13] Calculated combined annual growth rate starting in 2010 with 11 GB per month and ending  in 2020 with 293 GB per month equals 38.85% p.a.
+
+[14] NBN Co 2021 Corporate Plan - Page 32
+
+[15] Telsyte, Australians turn to multiple subscriptions for entertainment, 2019.
+
+[16] Roy Morgan, The new minority - the home phone connected, 2019.
+
+[17] ‘Subscription TV viewers soar during Aussie lockdown - Netflix, Foxtel, Stan, Disney+ &  Amazon Prime all up significantly’ Roy Morgan, 21 July 2020
+
+[18] Source Aussie Broadband IPO prospectus page 61,  https://www.aussiebroadband.com.au/investor-centre/
+
+[19] AlphaBeta research July 2020, p9-11
+
+[20] ACS Australia’s Digital Pulse - page  7 https://www2.deloitte.com/content/dam/Deloitte/au/Documents/Economics/deloitte-au-economics-australias-digital-pulse-2020-230920.pdf
+
+[21] NBN 2021 Corporate Plan, page 31
+
+[22] Australia Post’s 2020 eCommerce Industry  Report, https://auspost.com.au/content/dam/auspost_corp/media/documents/2020-ecommerce-industry-report.pdf
+
+[23] https://www.nbnco.com.au/business/enterprise-and-government/new-possibilities-for-your-industry/manufacturing
+

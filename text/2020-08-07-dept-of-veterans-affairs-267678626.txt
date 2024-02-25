@@ -1,0 +1,120 @@
+1
+
+75th Anniversary of the End of the Second World War  National Commemorative Service  Australian War Memorial  15th August 2020   ACCESSING THE HOST BROADCAST & IMAGERY
+
+HOST BROADCAST
+
+On Saturday 15th August 2020 at 10:00am the Australian Broadcasting Corporation (ABC) in  association with the Australian Government Department of Veterans’ Affairs (DVA) is providing  a host broadcast feed of:
+
+75th Anniversary of the End of the Second World War commemoration
+
+Location: Australian War Memorial, Treloar Cres Canberra
+
+Please note - this event will be closed to the public and media due to COVID-19 restrictions.
+
+DETAILS:
+
+The ABC will provide a television feed available in HD via Telstra Dimetis. This  feed will not be available in SD. Receiving parties who are unable to take a HD  feed will need to make alternative arrangements for down-conversion to SD  through an external intermediary of their choosing.
+
+The television feed will be a complete Program and is ‘brand free’.  The program will also  include an ABC closing copyright.  The broadcast will have a wide shot up prior to  commencement of the service at 10:00:00 AEST. At the end of the service it will go back to the  wide shot for 5 seconds before the ABC closing copyright logo to allow time for anyone taking  the broadcast live to get out. A clean feed (with no titles, or supers), of the Service will be  available (in HD), from the back of the OB van should you require it. This would need to be  organised at least 2 hours before the service starts
+
+There is no radio feed available for the service but an audio split for radio use can be made  available by ABC Radio Master Control in Sydney.
+
+The host broadcast will be provided free of charge to accredited media, where it is  requested.
+
+The broadcast is available in HD and will have a TV stereo audio mix on tracks 1 & 2 and listen  only Director talk back on track 4.
+
+ACCESSING THE FEEDS:
+
+These services travel via ABC satellite interchange and can be downlinked directly off Optus D2  using the parameters provided below. Alternatively, a HD feed split can be obtained from ABN  (ABC Sydney) TV MCR via Telstra Dimetis.
+
+No publication date: received by Parl Library 07/08/2020
+
+2
+
+If you require a split from ABN, please pre-book this prior to the event with Nick Shelley  (BOPS Bookings) from ABC Broadcast Operations, reachable via Phone: +61 2 8333 2684  or Email: bops.bookings@abc.net.au.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SATELLITE DETAILS:
+
+Satellite Co-ordinates for ABC Interchange (Optus D2T16)     DV3
+
+H.264
+
+
+
+1080i
+
+
+
+Uplink c/f:   14492.85 Vertical
+
+Downlink c/f: 12744.85 Horizontal
+
+Input:   High Definition
+
+Modulation: DVB-S2
+
+Constellation: 8PSK
+
+Compression: H.264; 1080i
+
+Symbol Rate: 3.58 Msy / sec
+
+FEC:   3/4
+
+Alpha:   20%
+
+
+
+Please note: the ABC utilises 4.5MHz slot allocations for satellite uplinks
+
+The Line booking for the WW2 commemorative service feed is as follows:
+
+Test: 09:30 - 10:00  Prog: 10:00 - 10:50 - approximately  S/by: 10:50 - 11:00
+
+
+
+An audio split for Radio broadcasts is available, upon request prior to the day with ABC Radio  Bookings, reachable on 0480 258 273 or at bookings.1066@abc.net.au.
+
+For split requested on the day, please contact ABC Radio MCR Sydney directly on (02) 8333  2300.
+
+*As with all live broadcasts this is the plan but it is subject to unforeseen events.   Broadcasters need to be flexible enough in their coverage to allow for unforeseen and  last-minute changes.
+
+STILLS IMAGERY
+
+High resolution images from the Services, will be available for download from  http://images.defence.gov.au
+
+KEY CONTACTS
+
+ABC Executive Producer: Matt Scully, 0419 407 776  Email: scully.matt@abc.net.au
+
+
+
+ABC Technical Producer: Morgan Faets, 0421 242 905  Email: faets.morgan@abc.net.au
+
+No publication date: received by Parl Library 07/08/2020
+
+3
+
+
+
+
+
+DVA Media Director: Dale Starr, 0428 805 578  Email: dale.starr@dva.gov.au
+
+No publication date: received by Parl Library 07/08/2020
+

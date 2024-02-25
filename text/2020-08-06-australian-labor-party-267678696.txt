@@ -1,0 +1,544 @@
+
+
+CHRIS BOWEN MP
+
+SHADOW MINISTER FOR HEALTH
+
+MEMBER FOR MCMAHON
+
+
+
+E&OE TRANSCRIPT
+
+RADIO INTERVIEW
+
+ABC BRISBANE DRIVE WITH STEVE AUSTIN
+
+THURSDAY, 6 AUGUST 2020
+
+
+
+SUBJECTS: COVID-19, COVIDSafe app, vaccine, PPE.
+
+
+
+STEVE AUSTIN, HOST: Chris Bowen, thanks for coming on this afternoon.
+
+
+
+BOWEN: Pleasure Steve, good afternoon.
+
+
+
+AUSTIN: Do you have the COVIDSafe app on your phone?
+
+
+
+BOWEN: Yeah, I do. I do. I downloaded it the day it came out and we have
+
+supported the concept of the app. We've always said, it's up to the Government
+
+to design it correctly. But you know, we're not going to stand in the way of the
+
+app unlike some National Party MPs who discourage people from downloading
+
+the app. We constructively said, it's a good thing to download it. 6.9 million
+
+Australians have. So that's enough Australians for it to work, but it isn't working
+
+anywhere near as well as it should.
+
+
+
+AUSTIN: Why isn't it?
+
+
+
+BOWEN: There's been a number of problems with it. The bottom line is that we
+
+are not entirely sure. The Government will tell you that it has traced you know,
+
+lots of people, but they've been people who've been traced manually anyway.
+
+The key is how many people has the app found that the manual contact traces
+
+could find?
+
+
+
+AUSTIN: Yes.
+
+
+
+BOWEN: And it's a very small number, 14 in New South Wales, we believe
+
+none in Queensland, none in Victoria. Now. That means it is really adding no
+
+value. They've got contact traces, one of whom you heard from this morning,
+
+working their guts out particularly in Victoria, really tough work and -
+
+
+
+AUSTIN: It's found no one in Victoria despite what's happening there, it's not
+
+been successfully used in Victoria.
+
+
+
+BOWEN: That's the last update we had. And the Victorians found it so
+
+frustrating they stopped using it for a while. Again, I think people would cut the
+
+Government some slack. Fair enough, they are acting fast. But I think the key
+
+thing is to admit that it hasn't been working, and then explain why. Now there
+
+are some IT experts that have said that it would freeze after 100 contacts, and
+
+it's not many. You think how long would it take you to come across 100 people
+
+within a metre and a half. Not long, if that's true, that's a big problem.
+
+
+
+There was an update this week, which might have solved the problem or
+
+certainly would have improved it, we certainly hope that works. But we're also
+
+concerned that many, many people would still be using the original version of it,
+
+not everybody updates their apps all the time. I know I don't always update my
+
+apps.
+
+
+
+AUSTIN: It doesn't happen automatically.
+
+
+
+BOWEN: Not always no and if the Government wants people to update, they
+
+really need to have that community information as well. So, again, you know,
+
+the Government says it's found these people I'm sure Stuart Robert will try and
+
+ramble with hundreds of numbers Scott Morrison did he said 'it's been involved
+
+in at that point 300 contract traces' but they are people who had already been
+
+found. Now that's like saying that was, you and I are involved in a test cricket
+
+match. We go and watch it. We're just sitting on the sidelines. Not really
+
+involved. We stay on the sidelines.
+
+
+
+AUSTIN: My guest is Labor's Shadow Health Spokesperson Chris Bowen. This
+
+is ABC Radio, Brisbane. So the IT quirks, we've done a number of stories in the
+
+past but was not able to at the time to get any federal government rep
+
+spokesperson onto to respond. But there are problems with Apple iPhones in a
+
+particular sort of related to their brand. For some reason there were other
+
+problems. You don't think those IT quirks have actually been ironed out or fixed
+
+properly yet.
+
+
+
+BOWEN: Not well enough, and certainly if the upgrade is what is required to fix
+
+them, it would have been better if the Government had just come out and said
+
+okay, we've got a few things wrong to start with but the upgrade fixes it please
+
+go in your app store and upgrade your apps. But they haven't done that. And
+
+it's the same as everything else. If
+
+you don't admit a problem you can't fix it, if the government just won't, just be
+
+honest with people say the app wasn't working, then they're not going to be
+
+able to properly fix it by encouraging people to upgrade the app or update it.
+
+You know, they had choices here I don't second guess those choices, but they
+
+had choices it didn't have to be designed this way. They're also options around
+
+the Google Apple app, which was jointly developed by those two companies to
+
+avoid some of the interoperability issues. There's issues in how those systems
+
+can collaborate with each other, or don't collaborate with each other, which has
+
+stopped the app working on some occasions. I don't say this with any sense of
+
+triumph. I wish it had worked and I still hope it does, because it can play a role
+
+if it's done properly, and I certainly, let me be very clear, I certainly wouldn't
+
+encourage anybody to delete the app. I mean, it's not doing any harm. It's just
+
+not doing anywhere near enough good.
+
+
+
+AUSTIN: It's an expensive way to not do enough good, though. Does - the
+
+federal Government's seemingly gone quiet about the app. Unless I've missed
+
+it they were advertising significantly encouraging Australians to download it.
+
+
+
+BOWEN: Yeah. Millions of dollars on advertising.
+
+
+
+AUSTIN: I think they've stopped that unless I've missed it, I could be wrong.
+
+
+
+BOWEN: Certainly a lot less if at all that's right. They spent about two million
+
+developing the app but many, many more, advertising it to convince Australians
+
+to download it. And okay, yeah, we did need Australians to download it
+
+because if not enough Australians downloaded it then it clearly wouldn't work.
+
+But Australians did respond. We did,
+
+enough of us to make it work, to get that critical mass 6.9 million Australians, is
+
+not bad. But it's still just found those 14 people - that the contact tracing app
+
+found.
+
+
+
+AUSTIN: Now they had a contact tracer from Queensland here on the program
+
+on this radio station this morning with Rebecca Levingston and the person said,
+
+'we think it has worked somewhere, but they haven't'. And it's very difficult to
+
+find any case of it being successful and your latest update that the Federal
+
+Labor has had, as it's been not successful at all in Queensland, not successful
+
+at all in Victoria, but has found 14 instances in New South Wales.
+
+
+
+BOWEN: That's right. That's right. That's the best advice we have. Obviously,
+
+you know, we hope that improves, we hope it improves very much, particularly
+
+in Victoria.
+
+
+
+AUSTIN: What should the federal Government do? I mean, a technology
+
+company was paid 3.8 million to develop it, I think the total of about 6 million,
+
+and it was also sorted out what should the federal Government do to get
+
+everyone else on it.
+
+
+
+BOWEN: I think the first thing to do would be to be honest, so I think the
+
+ministers responsible should hold a press conference and say, here's the
+
+update, here's why it hasn't worked as well as we would like, what went wrong
+
+and fair enough. Again, I think they will cut them some slack if they were honest
+
+about that. And here is how it has improved and here's what we need you to
+
+do. And we need you to update your app. That would be, I think, the reasonable
+
+and fair approach, but they're not doing that. They just bluster through and say
+
+so it's nothing to see here, no problem that's working. Give nonsense figures
+
+about how many people it's traced when they'd already been found by the
+
+manual contact traces. So that's adding no value whatsoever.
+
+
+
+AUSTIN: My guest is Chris Bowen. Chris Bowen is the Shadow Health
+
+spokesperson for Federal Labor. Before I let you go, I'd like to ask you about
+
+personal protective equipment. I understand hearing you recently with another
+
+journalist that you had done a bit of digging around to find out what Australia's
+
+stocks were of personal protective equipment prior to the virus. And what went
+
+wrong. Just tell me just how you see this. There's a lot of discussion now that
+
+we need to bring the tools of production back home and manufacturer essential
+
+products here in Australia, largely stemming from what nearly went wrong with
+
+PPE. What can you tell me?
+
+
+
+BOWEN: That's right. Well, I mean, it's a very legitimate discussion we need to
+
+have as a country. We're not going to make everything here, but we need to
+
+make more things here. But we also need to stockpile, now there was a
+
+National Medical Stockpile, PPE stockpile, which is right and proper, the federal
+
+government owns PPE ready for a disaster. But as we went into this crisis we
+
+had 20 million masks. That didn't last very long. So we had a shortage of
+
+masks. There was a time when not an hour would pass when I wouldn't have
+
+an MP ringing me saying the doctors in my community, the nurses, the
+
+disability workers, the aged care workers, can't get masks, because there just
+
+wasn't enough. 20 million just doesn't last very long.
+
+
+
+AUSTIN: We have the same calls to this station as well,
+
+
+
+BOWEN: I'm sure I'm sure. And even worse we had no gloves, gowns, no
+
+goggles.
+
+
+
+AUSTIN: None?
+
+
+
+BOWEN: None.
+
+
+
+AUSTIN: In our National Stockpile?
+
+
+
+BOWEN: Correct. That's right and just a few years ago we had millions. Again,
+
+I'm not here to criticise you know, I'm not saying it's somebody's fault, I'm
+
+saying, well, let's get this right. We don't know. Let's just say we get through
+
+COVID-19. there's a, there's a vaccine soon, touch wood, all hopes on that. But
+
+let's say that we get through this. And there's another pandemic, it could be a
+
+particularly virulent fluid next year. We just don't know, this might not be the big
+
+one Steve. So we need to be taking big steps. We know that there were
+
+shortages in the stockpile. It wasn't big enough, we need to be building that
+
+stockpile. We know the international supply seizes up, again, I give the
+
+Government some credit, I give them a tick, they tried really hard to get more
+
+masks, but so was the rest of the world it was too late, you know, and most of
+
+the worlds masks are made in Wuhan in China, I mean, the supply just froze
+
+up. And so we just can't let it happen again, and the other thing we need to be
+
+doing much more of is getting ready for the vaccine. And we might have a
+
+vaccine in the next twelve months. Australia needs to be in there.
+
+
+
+AUSTIN: And we'll be lucky if we do.
+
+
+
+BOWEN: We will be lucky. But you know, every researcher in the world is -
+
+`there's about 200 vaccines under development in the world, we know the
+
+failure rate of vaccines is around 96 per cent. So out of those 200, a small
+
+number might work, but we need to be investing much more in those vaccines,
+
+in that vaccine development, the Government's put in 5 million dollars to the
+
+University of Queensland. Well, that's great. But the Queensland Government's
+
+done double that. So the state government's done double what the federal
+
+government has done, and other governments are spending billions, and that
+
+means they will be at the front of the queue for those vaccines. And, you know,
+
+we don't want all the vaccines in Australia, but we want our fair share. And I
+
+think the federal government needs to be doing much more now to get access
+
+to those vaccines, because if we wait until the rest of the world has done their
+
+deals and by the way they already have we will be missing out. So I think that's
+
+a failure that needs to be rectified as a matter of urgency.
+
+
+
+AUSTIN: Have we solved the supply problem of PPE? In other words are we
+
+now manufacturing what our own country needs without having to go overseas
+
+to China.
+
+
+
+BOWEN: It's better now but there's still a long way to go. There's been a lot of
+
+manufacturers, switch to PPE, so people used to make other things, clothes
+
+and other things have switched to masks. That's great, a very patriotic thing to
+
+do. And hand sanitizer is another example. There were big shortages of that, a
+
+lot of alcohol distillers have switched to that, so there is now enough hand
+
+sanitizer to go around, there was a shortage, people were running out of that.
+
+So again, while things are better I do think we need to be ensuring that we're
+
+better placed for the next pandemic and we don't know how long this will last.
+
+We'll be lucky if we get a vaccine. I think we will. We might not, it might take a
+
+while. A vaccine for this would normally take about 15 to 17 years to develop.
+
+They are trying to do it in one and it can't be done quicker than that because
+
+they have to test it and they have to test it on many many people. Make sure
+
+there's no side effects,
+
+
+
+If you get side effects in just a small number of people, you know serious side
+
+effects then that vaccine is no good. They need to do lots of testing and it's
+
+going to take some time. So we've got a long way to go before we are through.
+
+
+
+AUSTIN: Well given the normal 15 year horizon to get a successful vaccine.
+
+And given the 96 per cent failure rate of vaccines should we be planning to
+
+have - others say we're gonna have to bite the bullet - that's the wrong phrase.
+
+But either way we're going to have to live with the virus longer term find a way
+
+of actually strategically living with it. Yeah, well, we're certainly gonna have to
+
+adapt regardless. I mean, this, this virus is not defeated anywhere, until it's
+
+defeated everywhere. As long as it exists anywhere in the world. Until we have
+
+a vaccine then we are vulnerable. We've seen how easy it is for people, with
+
+the strictest border protections, how easy it is for people to sneak past or
+
+people who are sometimes asymptomatic don't know that they've got it and we
+
+
+
+know how easy it is we know how contagious it is. We know what a dangerous
+
+disease it is. And while it is rampant in other parts of the world, we have to
+
+remain on high alert.
+
+
+
+AUSTIN: Quick question a listener wants me to ask you with the 20 million
+
+masks we had just prior to the pandemic, the listener wants to ask, there were
+
+rumours going around that they went overseas or that our PPE went overseas.
+
+Do you know anything about that?
+
+
+
+BOWEN: There were some concerns about you know, privately held stocks
+
+being sent overseas but the National Stockpile is our National Stockpile and
+
+that went to Australians.
+
+
+
+AUSTIN: And when the Coronavirus hit, we had no PPE gear.
+
+
+
+BOWEN: No gloves, gowns or goggles. We did have 20 million masks.
+
+
+
+AUSTIN: We're fixing it now. But it's still not properly fixed.
+
+
+
+BOWEN: There's a long way to go. Again, I'm not here to say you know, this is
+
+a particular individual's fault. I'm here to say let's get this right.
+
+
+
+AUSTIN: Thanks for your time.
+
+
+
+ENDS
+
+
+
+MEDIA CONTACT: LIZ FITCH - 0424 512 512
+
+
+
+
+
+Authorised by Paul Erickson, ALP, Canberra.
+
+
+
+
+
+
+
+
+

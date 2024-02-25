@@ -1,0 +1,1086 @@
+
+
+
+
+
+
+THE HON. CHRISTIAN PORTER MP  Attorney-General  Minister for Industrial Relations  Leader of the House
+
+Media Release   Tuesday, 20th October 2020  Temporary IR reforms crucial to saving jobs and businesses  An independent review of the temporary industrial relations flexibilities introduced by the Morrison Government to support the JobKeeper scheme has found they were crucial to keeping Australian businesses afloat and workers in jobs during the pandemic.  The review, conducted by Nous Group and tabled in Parliament today, found an estimated 3 out of 4 employers who accessed JobKeeper had used at least one of the temporary industrial relations flexibilities.   Nearly all of those employers said the flexibilities had been “important” or “essential” to maintaining their operations (between 84 and 98 per cent depending on the measure they used). Employers gave similar feedback about measures that helped to keep employees connected to their business.  Unions also acknowledged that the flexibilities had allowed employers to reallocate available hours more equitably among staff, rather than standing down some employees and not others.  The relatively small number of complaints dealt with by the Fair Work Commission was further evidence that the scheme had worked as intended.  Attorney-General and Minister for Industrial Relations, Christian Porter, welcomed the review’s findings, which supported the Government’s decision to extend the IR reforms for struggling businesses for a further six months.  “When the pandemic began, it quickly became clear that the Fair Work Act did not have the requisite level of flexibility built into it to enable struggling businesses to quickly, effectively and with certainty make necessary changes to their operations such as requiring staff to work from different locations or to perform different duties,” the Attorney-General said.  “Likewise, the stand-down provisions within the Act were also very narrow and did not clearly support the ability to reduce employee hours to match the JobKeeper payment, which was vital for those businesses that had been forced to close or were experiencing significant turnover reductions.  “The temporary JobKeeper IR provisions gave businesses that flexibility, enabling them to quickly adapt to changing conditions and stay connected to their workforce, ensuring they would be ready to bounce back when conditions improved.”  The report is attached.  Authorised by Christian Porter, Liberal Party of Australia, Parliament House, Canberra
+
+
+
+Independent review of the  temporary JobKeeper  provisions of the Fair Work Act  Attorney General’s Department (Commonwealth)
+
+7 September 2020
+
+
+
+Nous Group | Independent review of the temporary JobKeeper provisions of the Fair Work Act | 7 September 2020 | i |
+
+Disclaimer:
+
+Nous Group (Nous) has prepared this report for the benefit of the Attorney General’s Department (the Client).
+
+The report should not be used or relied upon for any purpose other than as an expression of the conclusions and  recommendations of Nous to the Client as to the matters within the scope of the report. Nous and its officers and employees  expressly disclaim any liability to any person other than the Client who relies or purports to rely on the report for any other  purpose.
+
+Nous has prepared the report with care and diligence. The conclusions and recommendations given by Nous in the report are  given in good faith and in the reasonable belief that they are correct and not misleading. The report has been prepared by Nous  based on information provided by the Client and by other persons. Nous has relied on that information and has not  independently verified or audited that information.
+
+Â© Nous Group
+
+
+
+Nous Group | Independent review of the temporary JobKeeper provisions of the Fair Work Act | 7 September 2020 | ii |
+
+Contents
+
+1 Executive Summary ..................................................................................................................................................................... 1
+
+2 Our review focuses on the operation of the provisions since enactment ............................................................ 3
+
+3 The impact of COVID on Australian employers and employees was sudden and severe ............................. 5
+
+4 The provisions created flexibility for employers to adapt their workforces and improve viability ............ 9
+
+5 The provisions, especially the stand down directions, were widely used by employers ............................. 12
+
+6 Employers considered the provisions crucial to keeping their businesses viable ......................................... 15
+
+7 Employer and employee experience with applying the provisions was largely positive ............................ 23
+
+Stakeholders consulted .................................................................................................................................... 30
+
+Documents and data sources ........................................................................................................................ 32
+
+Employer survey methodology ..................................................................................................................... 33
+
+
+
+
+
+
+
+
+
+
+
+
+
+Nous Group | Independent review of the temporary JobKeeper provisions of the Fair Work Act | 7 September 2020 | 1 |
+
+1 Executive Summary  On 9 April 2020, the Coronavirus Economic Response Package Omnibus (Measures No. 2) Act 2020  temporarily introduced a new Part 6-4C into the Fair Work Act 2009 (the FW Act). These amendments -  referred to in this report as ‘the provisions’ - were intended to give employers who qualified for the  JobKeeper payment greater flexibility in adjusting workforce arrangements to deal with the economic  impact of the coronavirus (COVID-19).
+
+Section 789GZB of the amended FW Act requires the Minister for Industrial Relations to commission an  independent review of the operation of the provisions. Nous Group (Nous) was engaged to conduct the  review, which was undertaken from late July 2020. The findings are based on survey and other data as well  as targeted engagement with employer and employee representatives and the relevant government  bodies that oversee the provisions.
+
+Our review focuses on the operation of the provisions since their enactment in April 2020
+
+The aims of the provisions were to support the ongoing viability of businesses, and to assist people to  keep their jobs by maintaining a connection to their employers during the economic downturn associated  with Australia’s response to the COVID-19 pandemic. The purpose of this review was to provide an  independent assessment of the utilisation, efficacy and impact of the provisions, and of the experience of  employers and employees in terms of how the provisions were applied.
+
+On September 1, 2020, the Coronavirus Economic Response Package (JobKeeper Payment) Amendment Bill  2020 passed Parliament, extending the provisions (in an amended form) to 29 March 2021.   Recommendations on the merits of extending the provisions were not within the scope of this review. It is  important to note also that the review was not concerned with the design or implementation of the  JobKeeper scheme itself, but rather with the provisions in the FW Act that accompanied its roll-out.
+
+The impact of COVID on Australian employers and employees was sudden and severe
+
+In early March 2020, as the COVID-19 virus became more widely detected in the Australian community,  the risks to Australian businesses and not-for-profit employers were evident. Lockdown and social  distancing measures across all states and territories were massively disrupting business operations. At the  same time, concerns over the spread of the pandemic dampened demand for many goods and services,  exacerbating the challenges for those businesses that were still able to operate.
+
+This combination of a fall in demand and COVID-19 related restrictions required many businesses to  adjust their hours of operation and staffing levels. According to a Nous survey of employers in receipt of  JobKeeper, around 84 per cent of Australian businesses were able to continue operating during the  pandemic, but 61 per cent needed to reduce hours. To put this in context, Australian Bureau of Statistics  data shows that almost half of employers in the economy reported a decrease in revenue during the  period April-July and 13 per cent reported having reduced staff in the previous month.
+
+The provisions introduced flexibility for employers to adapt workforces and improve viability
+
+The ability to make such adjustments speedily, and to do so without heightening anxiety either about  employees’ job insecurity or businesses’ ability to quickly ramp up operations again, was limited under the  pre-existing legislation. The stand down provisions in the FW Act apply narrowly and do not allow for a  partial stand down, and therefore, were not well suited to the circumstances created by the pandemic.
+
+It was in this context that the FW Act was amended. The resulting provisions took the form of directions or  agreements that empowered employers - with in-built safeguards - to temporarily direct employees to  stand down (fully or partially), change their usual duties, and change their location of work. They also  enabled employers and employees to make agreements to change days and times of work and take annual  leave (at full or half pay).
+
+The provisions, especially the stand down directions, were widely used by employers
+
+Nous’ survey found that 73 per cent used one or more of the temporary JobKeeper provisions. There was  no statistically significant difference in the degree to which the provisions were used based on the size of  business, geographical location or sector.
+
+
+
+Nous Group | Independent review of the temporary JobKeeper provisions of the Fair Work Act | 7 September 2020 | 2 |
+
+Employers used the directions and agreements in combination to achieve the adjustments necessary. In  total, 70 per cent of surveyed employers invoked the directions, with those to reduce an employee’s hours  or days being the most commonly used. Directions to employees to: work a reduced number of hours, not  work on a day or days they would usually work, or to work for fewer hours on a given day, were used by  41 per cent, 30 per cent and 28 per cent of employers respectively. The agreements were used by a total  of 41 per cent of employers. Agreements with employees to work on days and times different to their  ordinary day(s) were the most frequently used, at 29 per cent. Fewer employers made agreements with  their employees to take annual leave either at full or half pay, at 18 per cent and 3 per cent respectively.
+
+Employers considered the provisions crucial to keeping their businesses viable
+
+Employers confirmed that the provisions allowed a more flexible response to the COVID-related disruption  and helped their businesses pivot for recovery. An overwhelming majority - between 84 to 98 per cent  depending on the specific direction or agreement - saw the provisions as ‘important’ or ‘essential’ to  maintaining operations through the pandemic. Survey results confirmed also that the provisions were  successful in sustaining employee connections to affected businesses. Between 87 to 98 per cent of  employers (again, depending on the specific direction or agreement concerned) said the provisions were  ‘important’ or ‘essential’ to keeping their staff in work.
+
+The impact of the provisions is evident from the number of people who remained employed yet worked  fewer or no hours. The number of workers who remain employed but were working fewer hours (due to  no work, not enough work, or being stood down) peaked at approximately 1.8 million in early April. This  number dropped to 1.2 million in early June, suggesting that the provisions had been effective in enabling  businesses to scale down operations while keeping their workers formally employed. After the initial  economic shock, many were then able to scale up again in line with the easing of restrictions.
+
+Employees were similarly supportive of the JobKeeper provisions, but a few issues arose
+
+Employee representatives we spoke with were generally supportive of the provisions as a key enabler of  the JobKeeper scheme. They observed that the directions allowed employers to re-allocate hours available  more equitably among staff, rather than standing down some employees and not others. There were some  concerns in how these and other provisions were invoked, however. For example, some employees who  were asked to work more hours than usual felt considerable pressure to agree, even if this was difficult to  accommodate (e.g. due to study commitments). Conversely, we heard from employer representatives of  cases where employees were being unreasonable in refusing a request to work additional hours.
+
+This speaks to a key issue for employee representatives: namely the lack of clarity on what would qualify as  either an ‘unreasonable’ direction, or a ‘reasonable’ basis on which to not agree to vary work hours or use  paid annual leave. The annual leave provisions were by far the most contentious in this respect. Even  though they were not used as much as the other provisions, they accounted for a large proportion of  disputes lodged with the Fair Work Commission (FWC). All the union representatives we consulted argued  for more explicit guidance on how to interpret and apply this provision, and for a wider view to be taken  on what might constitute ‘reasonable’ grounds for declining a request.
+
+Queries and disputes arising from the use of the provisions were not abnormally high
+
+The FWC reported that the number of disputes about the provisions was relatively low compared with the  typical number of matters dealt with in any year. Most of the dispute applications lodged with the FWC  (counting only those that fell within its jurisdiction) related to stand down direction; agreements to alter  days and times of work; use of annual leave; and wage conditions, in that order. Similarly, while the Fair  Work Ombudsman (FWO) saw a significant increase in enquiries after the introduction of the JobKeeper  scheme, it received a relatively low number of formal Requests for Assistance relating to the provisions.
+
+Most of the queries or issues raised with the FWC and FWC - other than those concerning JobKeeper  eligibility (which were matters for another part of government) - appear to have arisen from genuine  misunderstanding rather than attempts to flout the rules. Notwithstanding the useful guidance issued by  the FWC, FWO, industry bodies and unions, stakeholders felt that employers and employees were at times  operating with insufficient information about the appropriate use of the provisions.
+
+
+
+
+
+Nous Group | Independent review of the temporary JobKeeper provisions of the Fair Work Act | 7 September 2020 | 3 |
+
+2 Our review focuses on the operation of the  provisions since enactment
+
+This section outlines the legislative requirement, scope and limitations, and approach for this review of  the Fair Work Act JobKeeper provisions.
+
+2.1 A review of the Fair Work Act JobKeeper provisions is a  legislative requirement
+
+On 9 April 2020, the Coronavirus Economic Response Package Omnibus (Measures No. 2) Act 2020  temporarily introduced a new Part 6-4C into the Fair Work Act 2009 (the provisions). The Government  amended the Fair Work Act 2009 (the FW Act) to provide greater flexibility for employers who qualify for  the JobKeeper payment in relation to employees receiving the benefit of those payments, to deal with the  economic impact of the coronavirus (COVID-19).
+
+Section 789GZB of the Act requires the Minister for Industrial Relations to cause an independent review of  the operation of the provisions. Nous Group (Nous) was engaged to conduct the review and this report,  undertaken from late July 2020, represents its culmination. On September 1, the Coronavirus Economic  Response Package (JobKeeper Payment) Amendment Bill 2020 passed Parliament, extending the provisions  - in an amended form - until 29 March 2021.  Recommendations on the merits of extending the  provisions are not within the scope of this review.
+
+2.2 The review’s focus is on the use and impact of the provisions  and employer and employee experiences of them
+
+The purpose of this review is to provide an independent assessment of the utilisation, efficacy and impact  of the provisions, and the experience of employers and employees in terms of how the provisions were  applied. The issues considered within scope of the review therefore are the:
+
+Ã¢ÂÂ¢ uptake of the FW JobKeeper provisions
+
+Ã¢ÂÂ¢ extent to which the provisions provided flexibility to keep employees in jobs by enabling employers to
+
+adjust their working arrangements
+
+Ã¢ÂÂ¢ experiences of employers and employees in applying the provisions
+
+Ã¢ÂÂ¢ economic impact of the provisions on business operations, viability and jobs.
+
+The following considerations were not included in the review’s scope:
+
+Ã¢ÂÂ¢ eligibility of employers and employees for the JobKeeper scheme (and therefore coverage under the
+
+provisions)
+
+Ã¢ÂÂ¢ other aspects of the FW Act unrelated to the provisions
+
+Ã¢ÂÂ¢ legislation to extend the provisions.
+
+2.3 Our approach draws primarily on research and engagement  with Australian employer and employee representatives  The review relied primarily on the following sources of data: a detailed survey of Australian employers  (conducted by Nous for the Attorney General’s Department, separate to this review); consultation with  employer and employee representatives; publicly available labour market information; and data on the
+
+
+
+Nous Group | Independent review of the temporary JobKeeper provisions of the Fair Work Act | 7 September 2020 | 4 |
+
+number and type of inquiries made of, and matters handled by, the Fair Work Commission and the Fair  Work Ombudsman. Further quantitative information is not available to support further analysis.
+
+The review was informed by the following key lines of enquiry:
+
+1. Which Australian employers utilised the provisions?
+
+2. Which provisions were used, why and how?
+
+3. What was the impact for employers of being able to access the provisions?
+
+4. What was the impact for employees of being able to access the provisions?
+
+5. What was the impact on labour markets of the provisions?
+
+6. What were the key issues for employers in complying with the provisions?
+
+7. What were the key issues for employees in complying with the provisions?
+
+
+
+
+
+Nous Group | Independent review of the temporary JobKeeper provisions of the Fair Work Act | 7 September 2020 | 5 |
+
+3 The impact of COVID on Australian employers  and employees was sudden and severe
+
+This section describes the economic context and imperative for the introduction of the FW Act  JobKeeper provisions.
+
+3.1 Decreased demand and restrictions on operation required  many businesses to reduce hours and staffing to stay viable
+
+In early March 2020, as the COVID-19 virus became more widely detected in the Australian community,  the risks to Australian businesses and not-for-profit employers became clear. Lockdown and social  distancing measures across all states and territories created massive disruption to business operations.  Meantime, the growing concern over the spread of the pandemic dampened consumer demand,  exacerbating the challenges for businesses that were still operating to remain viable.
+
+According to the ABS July survey on Business Impacts of COVID-191, 47 per cent of employers reported a  decrease in revenue during the period April-July. Twenty-seven per cent anticipated a further decrease for  the following month, while 49 per cent expected revenue to stay consistent at reduced levels. Thirteen per  cent reported having to reduce staff in the previous month, with large employers being more likely to  decrease their workforce compared to small and medium sized businesses2.
+
+The results of Nous’ survey of Australian employers indicated that around 84 per cent of Australian  businesses were able to continue operating during the pandemic. Businesses that reduced their hours, did  so to minimise overheads while maintaining a revenue stream. Figure 1 provides a breakdown of all  businesses by the extent to which the pandemic affected their operating hours. About 61 per cent needed  to reduce their hours to some extent. Twenty-two per cent reported a 75 to 100 per cent reduction in  operating hours.
+
+Figure 1 | Estimated number of employers reducing operating hours3
+
+
+
+
+
+1 Australian Bureau of Statistics, 5676.0.55.003, Business Indicators, Business Impacts of COVID-19, July 2020.  2 Ibid.  3  The survey results are reported using weighted response frequencies to reflect true variation in employer
+
+numbers across industries and business size. The findings are thus reported as estimates of sentiments across  the total population of Australian businesses, rather than as percentages of survey respondents.
+
+
+
+Nous Group | Independent review of the temporary JobKeeper provisions of the Fair Work Act | 7 September 2020 | 6 |
+
+3.2 Unemployment increased moderately, but underemployment  surged, and hours worked declined significantly
+
+The fall in consumer spending and the constraints imposed on business’ operating capacity in turn  reduced employer demand for labour. The result was growth in the number of underutilised persons in the  labour market, and a disruption to medium-term employment trends. The formal unemployment rate rose  moderately, from 5.1 per cent in February to 7.5 per cent in July, as illustrated in Figure 2. The  underemployment rate, by comparison, surged from 8.6 per cent in February to 13.8 per cent in April  before beginning to decline to a rate of 11.2 per cent in July.
+
+Figure 2 | Unemployment, underemployment and underutilisation rate - Jan 2017-Jul 2020
+
+
+
+The scale and speed of the impact on the Australian economy is evident in the decrease in hours worked  per head of population, shown in Figure 3. This reduction in hours worked was much more marked than  during the 1980s and 1990s economic downturns. It was also more abrupt, reaching previously  unrecorded levels in a single month, underlining the extent to which the COVID-19 crisis was  unprecedented in terms of its economic impacts.
+
+Figure 3 | Monthly hours worked per head of total population aged 15 and above - 1980-2020
+
+
+
+
+
+Nous Group | Independent review of the temporary JobKeeper provisions of the Fair Work Act | 7 September 2020 | 7 |
+
+3.3 Part-time workers, many of them women, were more acutely  impacted by the initial shock
+
+The economic impacts of COVID have affected different cohorts in Australia’s labour force more  profoundly than others. Part-time employees experienced a much greater initial decline in employment  compared to those in full-time work, as shown in Figure 4, and it is noteworthy that women represent 68%  of all part time employees.4
+
+Figure 4 | Indexed employment trends for those employed full-time and part-time - Jan 2017-Jul 2020
+
+
+
+The impact on casual employees was also significant. Forty per cent of casual employees had been with  their employer for less than 12 months, so were ineligible for the JobKeeper payments. Moreover, being  highly concentrated in Retail Trade and Accommodation and Food Services - two industries hit hard by  the economic impacts of COVID5 - casual staff were more vulnerable to job losses. Again, these industries  have a current and historically larger representation of female employees.6
+
+After the initial decrease in jobs due to the introduction of restrictions in late March, women lost more  jobs at a greater rate than men. They have since recovered more strongly, however, reaching parity with  men in terms of employment and higher levels of wage recovery. This is shown in Figure 5 overleaf, which  illustrates the impact on payroll jobs and wages during the pandemic by gender.7
+
+
+
+4 ABS cat. 6202.0 - Labour Force, Australia.  5 COVID-19: Impacts on casual workers in Australia—a statistical snapshot, prepared for the Parliament of  Australia, May 2020.  6 ABS 6291.0.55.003 - Labour Force, Australia, Detailed, Quarterly, May 2020, Table 06  7 The ABS derive weekly payroll jobs estimates from Single Touch Payroll (STP) data, which is provided to the  Australian Taxation Office (ATO) by businesses with STP-enabled payroll or accounting software each time the  business runs its payroll.
+
+
+
+Nous Group | Independent review of the temporary JobKeeper provisions of the Fair Work Act | 7 September 2020 | 8 |
+
+Figure 5 | Indexed payroll jobs and wages by gender - Jan 2017-Jul 2020
+
+
+
+
+
+Nous Group | Independent review of the temporary JobKeeper provisions of the Fair Work Act | 7 September 2020 | 9 |
+
+4 The provisions created flexibility for employers to  adapt their workforces and improve viability
+
+This section outlines the objectives and operation of the FW Act JobKeeper provisions, as well as the  roles of the Government agencies responsible for providing information, advice and problem resolution.
+
+4.1 The key objective of the provisions was to keep businesses  afloat and maintain a connection with their employees
+
+The economic impact of the COVID pandemic and restrictions to contain it led to declining revenue for  many businesses. This, in turn, put pressure on their commercial viability and ability to sustain their  workforces at pre-COVID levels. Further, the necessary constraints on business operations for many  Australian employers gave rise to a need to be able to change employees’ duties, hours and/or places of  work.
+
+There was a concern that the stand down provisions in the FW Act were not able to deal with all of the  circumstances created by the pandemic. Section 524(1)(c) of the FW Act provides that an employer may  stand down an employee during a period in which the employee cannot usefully be employed due to a  stoppage of work for any cause for which the employer cannot reasonably be held responsible. Generally,  a downturn in trade will not constitute a ‘stoppage’ for the purposes of s 524(1)(c). This limits flexibility for  employers who could not have validly stood down their employees if there was reduced market demand  but no stoppage of work. As such, the stand down provisions of the FW Act, prior to introduction of the  temporary provisions, may not have enabled businesses to operate at a reduced capacity or adjust hours  of operation to meet changing market demand.
+
+It was in this context that the Australian parliament passed the Part 6-4C amendments to the FW Act,  thereby enabling employers who qualified for the JobKeeper scheme to temporarily vary working  arrangements for eligible employees. The five objectives of the provisions were to:
+
+1. Assist people to keep their jobs and maintain their connection to their employers during the  economic downturn and work restrictions.
+
+2. Help sustain the viability of Australian businesses during the COVID-19 pandemic, including by  preparing the Australian economy to recover with speed after a period of hibernation.
+
+3. Continue the employment of employees.
+
+4. Ensure the continued effective operation of occupational health and safety laws.
+
+5. Help ensure that, where reasonably possible, employees remain productively employed and  continue to contribute to the business of their employer where it is safe and possible.8
+
+4.2 The provisions allow employers to vary working  arrangements through directions and agreements
+
+The variations are affected via either a JobKeeper enabling direction (a direction), or an agreement in  accordance with the provisions. The former is given as a direction by the employer, while the latter must  be in the form of an agreement between the employer and the employee.
+
+An employer can make a direction to an eligible employee to:
+
+
+
+
+
+8 FW Act s 789GB
+
+
+
+Nous Group | Independent review of the temporary JobKeeper provisions of the Fair Work Act | 7 September 2020 | 10 |
+
+Ã¢ÂÂ¢ work reduced or nil hours (sometimes known as a partial or full stand down direction)
+
+Ã¢ÂÂ¢ perform different duties within the employee’s skills and competence
+
+Ã¢ÂÂ¢ perform duties at a place different from the employee’s normal place of work
+
+Employees subject to a partial or full stand down direction can ask to engage in secondary employment,  training or professional development and employers cannot reasonably refuse these requests.
+
+Employees do not have to comply with a direction if it is “unreasonable”, considering all circumstances,  including any caring responsibilities of an employee.
+
+Employers who issue a direction must provide a written notice of their intention to do so at least three  days prior to giving it, unless the employee has “genuinely agreed to a lesser notice period”9. The  employer must also provide the direction in writing.
+
+An employer who is entitled to receive JobKeeper payments for an employee can request that  employee:
+
+Ã¢ÂÂ¢ work on different days and times compared with the employee's ordinary days or times of work.
+
+Ã¢ÂÂ¢ take annual leave at full pay (or at half pay for twice as much time), provided that the employee will
+
+retain an annual leave balance of at least two weeks.
+
+An employee cannot be forced to accept an employer’s request, but they are obliged to “consider the  request” and must not “unreasonably refuse”10.
+
+The provisions guarantee the following in relation to rates of pay for employees in receipt of a direction or  agreement:
+
+Ã¢ÂÂ¢ employees receive at least the amount of the JobKeeper payment per fortnight
+
+Ã¢ÂÂ¢ an employee’s hourly rate of pay cannot be reduced by a direction
+
+Ã¢ÂÂ¢ an employee’s hourly rate should be increased if they receive direction to perform duties that would
+
+ordinarily attract a higher rate of pay
+
+Ã¢ÂÂ¢ relevant penalty rates still apply
+
+Ã¢ÂÂ¢ employees who work a number of hours that entitle them to more than the amount of the JobKeeper
+
+payment must be paid must be paid for the hours worked (including any penalty rates that apply to  those hours).
+
+The provisions also guarantee protection against the misuse of directions or agreements or giving an  unauthorised direction. The provisions clarify that the general protections of the FW Act - for example,  unfair dismissal, unlawful termination of employment or discrimination, or failure to comply with health  and safety obligations and workers’ compensation rights - continue to apply. A direction or an agreement  under the provisions does not remove the requirement for employees to accrue leave entitlements or to  access redundancy pay or other payment in lieu of a notice of termination.
+
+4.3 Employer and employee groups recognised the need for the  temporary provisions
+
+The amendments to the FW Act were generally supported by both employer and employee groups in  recognition of the grave economic circumstances and the compelling need for heightened flexibility. This  support for the provisions was echoed in consultations with employer and employee representatives  during this review. Employer groups commended the Government for introducing these provisions swiftly  to support businesses make necessary decisions for keeping their businesses afloat, while being able to
+
+
+
+9 FW Act s 789GM(1)(b)  10 FW Act ss 789GG(1)(d),(e) and 789GJ(1)(e),(f)
+
+
+
+Nous Group | Independent review of the temporary JobKeeper provisions of the Fair Work Act | 7 September 2020 | 11 |
+
+maintain connections with their employees. Unions also acknowledged the imperative for the provisions  and commended the relative ease with which they were implemented for the most part.
+
+Further, one union representative noted that the provisions had a positive impact in improving industrial  relations because they set out ‘rules of engagement’ for employers and employees. There was no pre-existing ‘rule book’ to reference should employers or employees want to negotiate such matters covered  by the provisions. Employer representatives echoed similar sentiments, observing that businesses and  unions had mostly cooperated well through a challenging set of circumstances.
+
+4.4 The FWC and FWO each had roles in providing information,  advice and problem resolution
+
+The Fair Work Commission (FWC) and Fair Work Ombudsman (FWO) have complementary roles in the  regulation and oversight of the broader JobKeeper program. As such, they variously provide information  and advice to both employers and employees and assist in the resolution of issues that arise relating to  the provisions. Where appropriate the FWC and FWO refer people to the Australian Tax Office (ATO),  which is responsible for the administration the JobKeeper payments and determines which employers and  employees are eligible for the scheme.
+
+The FWC’s role centres on dispute resolution
+
+The amendments to the FW Act give the FWC power to deal with disputes over the operation of the  JobKeeper provisions in the workplace. Disputes can be brought to the FWC through an application of an  employer or employee or a representative organisation. The FWC has the power to resolve the dispute  through arbitration, mediation or conciliation, or it may make a recommendation or express an opinion on  the matter. FWC can deal with disputes about whether proper processes were followed or whether  directions or agreements are reasonable. The FWC has the power to make orders that:
+
+Ã¢ÂÂ¢ tells the parties to put a JobKeeper direction or agreement into practice
+
+Ã¢ÂÂ¢ sets aside a JobKeeper direction or agreement
+
+Ã¢ÂÂ¢ replaces a JobKeeper direction or agreement with another one
+
+Ã¢ÂÂ¢ or to make any other order it considers appropriate.
+
+The FWC does not have the power to make orders about JobKeeper payments, but it has limited power to  assist in disputes about whether the employer has satisfied the wage condition and the minimum payment  guarantee (under ss 789GD and 789GDA respectively). The FWC also does not have the power to make  orders relating to the eligibility of employers or employees.
+
+The FWO’s role is to inform and enforce
+
+The FWO has a primarily educative and enforcement role. Its responsibilities are to:
+
+Ã¢ÂÂ¢ provide general information about the provisions and how they interact with other workplace
+
+obligations and entitlement
+
+Ã¢ÂÂ¢ ensure the wage condition in the JobKeeper rules is met
+
+Ã¢ÂÂ¢ enforce against the misuse of directions by employers
+
+Ã¢ÂÂ¢ enforce the general protections relating to the new provisions.11
+
+It follows that the FWC and FWO feature prominently in the proper interpretation and application of the  provisions, especially where there is confusion or disputes. The FWC and FWO’s role in disseminating  information about the provisions was particularly important at first given how quickly the provisions came  into force. See section 7 for more information about the FWC and FWO’s dealings with these provisions.
+
+
+
+11 Guidance on the role of the FWO provided to Nous by the Attorney General’s Department, August 2020
+
+
+
+Nous Group | Independent review of the temporary JobKeeper provisions of the Fair Work Act | 7 September 2020 | 12 |
+
+5 The provisions, especially the stand down  directions, were widely used by employers
+
+This section contains the review’s findings on which Australian employers utilised the provisions, and  which provisions were used, why and how.
+
+5.1 The provisions were widely used by employers across all  industry sectors and business sizes
+
+The economic impact of COVID and associated restrictions has been felt by Australian businesses of all  types, locations and industry sectors. The Nous survey of employers found that 73 per cent used one or  more of the temporary JobKeeper provisions. Of the two types of provisions: directions were used more  frequently than agreements - 70 per cent compared with 41 per cent respectively.
+
+The survey results found there was no statistically significant difference in the degree to which the  provisions were used based on the size of business or geographical location. The survey broke down its  sample by industry into four categories: Accommodation and Food Services, Retail Trade, Manufacturing  and Other (Other referring to all other industries, which had too small a sample size to analyse  independently). Again, the results found there was no statistically significant difference in the degree to  which the provisions were used between the four industry categories.
+
+The survey results align with the views of employer and employee representatives, who reported that use  of the provisions was widespread for eligible employers across industries, businesses sizes and locations.  For example, one employer representative provided data which showed that the volume of enquiries  regarding the provisions did not vary much according to business size, supporting the view that  businesses of all sizes expressed interest in, and used, the provisions.
+
+That said, this broader perspective simplifies the varied use of the provisions within industries or in  different states and territories. The most prescient example being the introduction of Stage Four  restrictions in Victoria, which, for example, required the closure of many manufacturing businesses within  metropolitan Melbourne other than those engaged in food processing. Similarly, construction companies  in Victoria were required to operate at reduced capacity when Stage Four restrictions were introduced,  despite having previously operated largely unimpeded. This created a sudden imperative in that industry  to understand how the provisions could be used.
+
+5.2 The directions were used by 70 per cent of employers, with  reduction in hours or days most common
+
+The survey of employers found that directions were invoked by 70 per cent of employers in total, with directions  that reduced an employee’s hours or days being most commonly used. Directions to employees to work a  reduced number of hours, not work on a day or days they would usually work, or to work for fewer hours on a  given day, were used by 41 per cent, 30 per cent and 28 percent of employers respectively. Directions requiring  a change of duties or location of work were used less frequently, and directions requiring a full stand down  were used the least. The survey results for the utilisation of the directions are captured in Figure 6 overleaf.
+
+
+
+Nous Group | Independent review of the temporary JobKeeper provisions of the Fair Work Act | 7 September 2020 | 13 |
+
+Figure 6 | Use of temporary provisions (JobKeeper enabling directions)
+
+
+
+In terms of when different provisions were used, consults suggested that partial or full stand down  directions were used most during the initial lockdown and later on, when businesses were slowly  increasing operations, employers issued directions for variations in hours and duties to adapt employee  work arrangements to the circumstances.
+
+A minority of businesses were able to adapt to the new circumstances without invoking the  provisions
+
+While the provisions were widely used by employers to respond to the changed market conditions, a  minority were able to adapt their workforces accordingly without need to explicitly draw on the provisions.  This was because employers and employees in certain circumstances were able to come to unofficial  agreements to differ the working arrangements. For example, office workers were often happy to work  from home without a formal direction.
+
+In some industries and occupations, the terms of employees’ industrial awards were temporarily amended  early in the COVID-19 crisis to allow for varied work arrangements. For example, changes to hospitality  industry awards included provisions for workers to do alternative duties; and amendments to the clerk’s  award allowed employees to work across classifications and allowed employers direct employees to take  leave. In other cases, employers experienced a surge in demand, or else were able to continue with  business-as-usual. We heard also that some employers in sectors with labour and skills shortages (e.g.  disability care and community health services) were reluctant to invoke the provisions - particularly the  stand down provisions - for fear that if staff were stood down, they would seek work elsewhere, and  employers would lose these employees permanently.
+
+5.3 Forty-one per cent of employers relied on agreements to  change employees’ hours, or to access their annual leave
+
+The survey of employers found that agreements under the temporary provisions were used by a total of 41 per  cent of employers. Agreements with employees to work on days and times different to their ordinary day(s)  were the most frequently used, at 29 per cent. Fewer employers made agreements with their employees to  take annual leave either at full or half pay, used by 18 per cent and 3 per cent of employers respectively.  The survey results for the utilisation of the JobKeeper agreements are represented overleaf in Figure 7.
+
+
+
+Nous Group | Independent review of the temporary JobKeeper provisions of the Fair Work Act | 7 September 2020 | 14 |
+
+Figure 7 | Use of temporary provisions (agreements)
+
+
+
+
+
+
+
+Nous Group | Independent review of the temporary JobKeeper provisions of the Fair Work Act | 7 September 2020 | 15 |
+
+6 Employers considered the provisions crucial to  keeping their businesses viable
+
+This section outlines the review’s findings on the impact of the provisions for Australian employers,  employees and the broader labour market.
+
+6.1 The provisions allowed a more flexible response to the drop  in demand, and helped businesses pivot for recovery
+
+It is evident from the survey responses and our consultations that the variations to work arrangements  enabled by the provisions were critical to allowing businesses to adapt quickly. Most respondents to the  employer survey reported viewed them as important or essential for the continued operation of their  businesses, as shown below in Figure 8 and Figure 9.
+
+Figure 8 | Importance of JobKeeper enabling directions for continued operations
+
+
+
+Figure 9 | Importance of agreements for continued operations
+
+
+
+Similarly, employer representatives we spoke to, said the provisions were critical to sustaining operations  in many cases. Businesses that had to shut down completely used the provisions to maintain connections  with their employees and return them to work quickly once conditions became more favourable.
+
+
+
+Nous Group | Independent review of the temporary JobKeeper provisions of the Fair Work Act | 7 September 2020 | 16 |
+
+Businesses that stayed open but with reduced operations or hours (either due to restrictions or lower  demand) were grateful to be able to use the provisions to change work hours for employees and adapt  their duties to different service delivery or business models.
+
+“Without these provisions we wouldn’t be open. [The provisions] were the difference between  being able to continue to operate and not.” - Employer, Accommodation and Food Services12
+
+“It was the gift of time…enabling businesses to pivot and become sustainable” - Employer  representative
+
+The provisions enabled employers to adapt business models to a new market environment
+
+Only some industry sectors experienced changed market conditions, so it is unsurprising that there was  variation in the way the provisions were used. Generally, the provisions were successful in enabling  businesses to adopt working arrangements that best aligned to their needs. For example:
+
+Ã¢ÂÂ¢ In the retail sector, where hours of operation changed with consumer demand and levels of
+
+government restrictions, employers used the provisions to significantly reduce hours for workers or  move them to store locations with greater demand.
+
+Ã¢ÂÂ¢ In the hospitality sector, the provisions were critical in helping businesses pivot their operations, using
+
+directions for employees to perform different duties. Restaurant and cafes that had to close or  significantly reduce their venue capacity adapted their businesses by directing staff to deliver food and  having them perform maintenance tasks on the premises.
+
+In businesses where employee duties are less flexible due to industrial award requirements, employers  used directions to perform alternative duties more frequently to override the terms of the award. These  businesses include the likes of service stations, gyms and casinos.
+
+Case Study: Use of various provisions to adapt business operations
+
+A large gambling and entertainment business had to adjust work arrangement for thousands of staff  across multiple locations when government restrictions necessitated the reduction of operating hours.  The company used several JobKeeper FW Act provisions to adapt their services in line with reduced  demand and COVID-safe restrictions. An employer representative explained the use of the provisions  during consultation:
+
+“Gaming floors are generally open 24 hours a day with three eight-hour shifts each day. [Due to new  cleaning regulations] gaming floors closed for four hours [each day] for a deep-clean… This meant a  change in rostering to two ten-hour shifts per day… The change of rostering would have been  impossible [without the provisions].” - Employer representative
+
+The company also used directions to change staff duties. For example, many gambling floor staff  became social distancing wardens.
+
+Without the provisions, this company would not easily have been able to distribute the loss of hours  equitably amongst employees or redeploy staff to perform new or different duties. The FW Act and  relevant award agreements would have triggered the redundancy of certain roles because of the  significant changes to duties and hours.
+
+Ultimately, the provisions allowed employees to retain their jobs and maintain a connection with their  employer, despite significant changes to their role. The employer benefited from the ease of use of  these provisions, compared to the alternate mechanisms that would have been available if not for the  relevant amendments to the FW Act.
+
+
+
+12 Note: Quotes from employers in this document are not from interview undertaken during this review process,  and instead come from separate research done on the use of the relevant provisions. This research was  commissioned by the Attorney General’s Department and undertaken by Nous Group.
+
+
+
+Nous Group | Independent review of the temporary JobKeeper provisions of the Fair Work Act | 7 September 2020 | 17 |
+
+The provisions’ short notice period allowed employers to make changes at pace
+
+The short notice periods - three days, as opposed to a week, as usually required - allowed employers to  make changes to work arrangements quickly and easily and, therefore, adapt to the changing operational  environment. Even so, employee representatives noted that, in some cases, the requirement to provide  written notice three days in advance was not always followed. As noted above, while in many instances this  reflected tacit or informal agreement by employees and employers to implement changes quickly, in other  cases, the lack of formal consultation raised significant issues. This was the case particularly where  employees felt compelled to accept agreements or directions without a sufficient understanding of their  terms. See section 7.3 for more about instances where employees were not fully aware of their rights  under the provisions.
+
+“[An] immediate response was critical. The business immediately entered into crisis mode. “ -    Employer, Health Care and Social Assistance
+
+“You needed to be able to respond overnight to changes announced by the government.” -  Employer, Accommodation and Food Services
+
+The ‘flexibilities’ in the provisions were often more difficult for women, and those with caring  responsibilities, to accommodate
+
+As noted earlier, job losses and reduction in hours of work had a disproportionate impact on women,  particularly early in the COVID-19 crisis. Some of the employee representatives we spoke to made the  point, too, that women (as well as those with caring responsibilities) were in more difficult position in  accommodating some of the changed work arrangements. This was the case particularly with respect to  requests to increase hours and, to a lesser extent, altering the place of work.
+
+6.2 The provisions allowed employees to keep their jobs and  maintain connections to their employers
+
+Survey results confirmed that the provisions were successful in sustaining employee connections to the  affected business. Employers saw them as ‘important’ or ‘essential’ to keeping their staff in work. Levels of  importance placed on provisions are depicted in Figure 10 and Figure 11, relating to the use of directions  and of agreements respectively.
+
+Figure 10 | Importance of JobKeeper enabling directions for employees keeping their jobs
+
+
+
+
+
+Nous Group | Independent review of the temporary JobKeeper provisions of the Fair Work Act | 7 September 2020 | 18 |
+
+Figure 11 | Importance of agreements for employees keeping their jobs
+
+
+
+Employee representatives also agreed that the impact of these provisions had been largely positive.
+
+“It has been an overwhelmingly positive program for workers” - Employee representative
+
+Employer survey respondents cited job losses most frequently when asked about the impacts they were  most likely to face if the provisions were to cease in September 2020. Business closure was the second  most frequently cited implication across industries, as shown in Figure 12.
+
+Figure 12 | Most frequently cited business implications if JobKeeper measures were to be lifted in  September
+
+
+
+
+
+Nous Group | Independent review of the temporary JobKeeper provisions of the Fair Work Act | 7 September 2020 | 19 |
+
+6.3 The stand down directions were most vital, but their  application could create friction in some workplaces
+
+The provisions allowed employers to deploy more flexible stand down arrangements than what was  allowed by the relevant pre-existing stand down provision in the FW Act.13 This element of the provisions  was the most widely used (see Figure 6). It is not surprising, therefore that disputes relating to stand down  directions have been among most common among those lodged with the FWC. Most of these complaints  have been lodged by employees who were stood down despite their sense of work being available, or who  questioned whether the approach to applying the stand down directions to different employees was fair  (see Table 1 in section 7.1). These matters, like most that went to the FWC, were resolved quickly, typically  through mediation or conciliation between parties.
+
+Notwithstanding such concerns, the stand down directions were generally commended by employers and  employee representatives not only for enabling a rapid response to the disruption caused by COVID-19,  but for providing a degree of equity in how employees bore the burden. Specifically, stakeholders we  spoke to valued that fact that employers did not need to choose among those who would remain in  employment and those who would not, or to reduce the hours of some employees and not others.
+
+“Without JobKeeper, the stand down issues would have been brutal” - Employee representative
+
+While generally allowing for an equitable sharing of burden, there were some exceptions
+
+That said, such equitable treatment was not always achieved. A key example was the issue of the shuffling  work hours between full-time, part-time and casual employees. There were reportedly cases where  employers used partial stand-down directions to reduce hours for full-time workers and casual or part-time workers had their hours increased, to bring them up to the hours and wages that equate to the  JobKeeper payment amount. A union representative noted that such situations arose most in sectors such  as retail and aged care where there is a high proportion of casual workers.
+
+The provisions do not provide rules for employers on how hours of work should be distributed; it is left to  the discretion of each individual business to decide what is reasonable. Should employees disagree with  how hours are distributed, it is difficult for them to seek recourse. Employees can take the matter to the  FWC to challenge their employer’s stand down direction or request for variation of hours if they believe it  is not reasonable. However, we heard that employees were often reluctant to pursue this course of action  as they either did not know their rights on the matter or for fear of creating friction with employers. See  section 7.3 for more about employees’ knowledge of their rights under the provisions.
+
+The FWC has since provided a ruling that provides useful clarity on this point
+
+Of note it that the FWC has since made a decision relating to a dispute over the reasonableness of stand-down directions and the shuffling of hours between full-time, part-time and casual employees, which has  provided greater clarity. This is discussed further in the case study below.
+
+Case study: FWC decision on the reasonableness of a stand down direction
+
+The commission made a decision about an employer reshuffling hours between full-time, part-time and  casual employees. In this matter, all employees were given a direction to work 50 hours per fortnight,  meaning some casual employees were working increased hours while full-time employees were working  fewer hours. The FWC, in the first instance, found this direction to be reasonable and to not be an  imposition of a disproportionate reduction of hours for permanent employees.
+
+On appeal, the FWC overturned the original decision and directed the parties to reconsider the terms,  having regard to the following. (Note that this is not an exhaustive list of considerations provided in the  decision):
+
+
+
+13 Contained in the FW Act s 524.
+
+
+
+Nous Group | Independent review of the temporary JobKeeper provisions of the Fair Work Act | 7 September 2020 | 20 |
+
+Ã¢ÂÂ¢ It is unreasonable and unfair to increase hours for part-time employees and reduce them for full-time employees.
+
+Ã¢ÂÂ¢ There is no need to issue a direction to reduce the hours of casual employees as they do not have  any defined number of ordinary hours. However, it is reasonable to provide a guarantee of hours  to long-term casual employees so they can maintain their connection to the employer and the  employer can receive the JobKeeper payment.
+
+Following discussions, the Full Bench endorsed a new direction which guaranteed full-time employees a  minimum of 60 hours per fortnight and included commitments to not roster part-time or casual  employees in preference to full-time employees and would not require any employee to increase their  hours.
+
+6.4 Tensions arose where employees were asked to work extra  hours
+
+As noted earlier, the provisions could be invoked by employers to request staff to increase their hours of  work. Under the provisions, employees cannot unreasonably refuse such a request. By extension this  means they can refuse the request if it is unreasonable - for example, if they have caring responsibilities to  attend to.
+
+Some employees felt under significant pressure to work additional hours
+
+Concerns arose in situations where employees felt under considerable pressure to increase their hours,  even if it was inconvenient for them. In some cases, it seems that certain employers issued explicit or  veiled threats about the consequences of declining the request, including ‘taking them off’ the JobKeeper  payments.
+
+For example, one employee representative we consulted noted that many young employees - including  retail workers, receptionists and cinema workers - were asked to increase their hours to “work up to the  amount of JobKeeper” payments. This was an issue particularly where employees had university  commitments, caring responsibilities or other employment on days or times they were asked to work.
+
+Employee representatives said that, even though increased hours or days of work needed to be the  subject of an agreement, employees did not necessarily feel they had a choice in the matter. This was  particularly the concern of casual employees who feared having their employment terminated.
+
+“We had some workers tell us their employer said: ‘if you don’t accept this, you might go on the  naughty list later on’” - Employee representative
+
+Related to this were allegations that some employees were being assigned different hours or days on a  roster, often with short notice, without proper consultation or an agreement.
+
+Case Study: Apparent misrepresentation of obligation to work extra hours for casual employees
+
+A medium sized national retailer allegedly changed rosters to optimise JobKeeper payments - i.e. they  decreased all permanent hours to reflect the JobKeeper payment and increased part-time and casual  hours up to the $750 per week equivalent. In communicating these changes via email, the employer  reportedly made a number of misrepresentations about employee obligations to agree to the new  hours, including:
+
+Ã¢ÂÂ¢ “All staff must return to work when directed to do so and cannot unreasonably refuse your assigned  hours or shifts on the basis that you can rely on Job Keeper payments if eligible”.
+
+Ã¢ÂÂ¢ “Refusal by an employee to comply with the direction of the company in respect of their return to  work can result in disciplinary action or termination”.
+
+
+
+Nous Group | Independent review of the temporary JobKeeper provisions of the Fair Work Act | 7 September 2020 | 21 |
+
+When the store reopened in May a new roster was given to casual members that stated the increased  hours allocated to them were “…to make up required hours. These must be observed…” and there  were to be “no changes”.  The new weekly roster had 27 hours over four shifts, whereas previous rosters  had averaged one shift a week.
+
+When an employee challenged whether they could be required to work extra hours to ‘match’ the  JobKeeper payment, they were reportedly terminated, although the reason cited was that this was “due  to the pandemic-related downturn in trade.”
+
+The matter was settled through discussions between the employer, the employee and their  representatives and was not taken to the FWC.
+
+
+
+The issue of balancing secondary work commitments at times became a point of contention
+
+Union representatives also noted that the application of the provisions had the potential to create  tensions between employees with secondary employment and their primary employer. This could occur in  circumstances where employees already held secondary employment prior to the introduction of the  provisions; in this circumstance, if a primary employer was eligible for JobKeeper and subsequently relied  on the provisions to increase an employee’s work hours, or change dates and times of work, this could  create rostering conflicts with the employee’s secondary work arrangements. The issue also arose where  employees who had been partially stood down under the directions subsequently sought out secondary  employment - which, under the provisions, they are allowed ask to their employer to do and the employer  cannot reasonably refuse. The primary employer might begin to scale back up operations and seek to  invoke the provisions to request that employees work additional hours, or work on different times and  days. Such a situation created, in some cases, scheduling conflicts with the employee’s secondary  employment obligations.
+
+The challenge for employees was to balance their obligations to their primary employers with their need  for secondary employment to maintain or supplement their income. At the same time, primary employers  had the reasonable expectation that employees would agree to a request under the provisions to work  more hours, or be flexible in the days/hours they worked. Such requests were seen as justifiable and  deserving of priority given that one of the primary objectives of the provisions was to help retain a  connection between the employee and the primary employer, and to enable employers to draw on their  employees’ capacity as market conditions changed and consumer demand began to return to normal  levels.
+
+While this tension was noted by several employee representatives and one employer representative, it  does not appear to have been so prevalent as to result in formal disputes at the FWC (albeit it is difficult to  disaggregate the question of secondary work conflicts with the more general set of issues concerning  requests to increase work hours).
+
+6.5 The fall in jobs and rise in underemployment peaked within  two weeks of the introduction of JobKeeper
+
+In terms of broader labour market impacts, it is well-understood that the initial impact of the economic  downturn and work restrictions associated with COVID was sudden and severe. From late March when the  shutdown of non-essential businesses and social distancing requirements came into effect, there was an  abrupt decline in jobs and wages, as shown in Figure 13. Despite this, the decline stabilised within a  fortnight of the announcement of the JobKeeper scheme on 30 March, which remained stable through to  the commencement of JobKeeper payments in the first week of May. Since then, jobs and wages have  trended steadily upward, as most states and territories have begun to re-open their economies. But they  have not yet (at time of writing) returned to their pre-COVID levels.
+
+
+
+Nous Group | Independent review of the temporary JobKeeper provisions of the Fair Work Act | 7 September 2020 | 22 |
+
+Figure 13 | Indexed total jobs and wages - Jan-Jul 2020
+
+
+
+It is not feasible in the scope of this review to quantify the impact of the JobKeeper provisions, as distinct  from the payments made. It is, however, reasonable to infer that the provisions contributed directly to  arresting the decline jobs and wages, as they allowed employers to keep their workers formally employed.
+
+The impact of the provisions is evident from the number of people who remained employed yet worked  fewer or no hours due to economic reasons, shown in Figure 14. The data suggests that the provisions  were effective in enabling employers to maintain a connection to their employees through a period when,  absent the provisions, many businesses would have become unviable.
+
+Figure 14 | Employed persons who worked fewer hours than usual in all jobs (‘000s)
+
+
+
+The number of workers that remain employed but were working fewer hours due to no work, not enough  work, or being stood down, peaked at approximately 1.8 million persons in early April. The number then  declined quickly to about 1.2 million persons in early June. This suggests that the provisions were effective  in enabling businesses to scale down operations - while keeping their workers formally employed -  through the initial economic shock caused by COVID, and then to scale back up in line with the easing of  restrictions. This observation is further supported in the fall in the formal underemployment rate, which  dropped from its peak of 13.8 per cent in April to 11.2 per cent in July (a decrease of 2.6 per cent)14.
+
+
+
+14 ABS cat. 6202.0 - Labour Force, Australia.
+
+
+
+Nous Group | Independent review of the temporary JobKeeper provisions of the Fair Work Act | 7 September 2020 | 23 |
+
+7 Employer and employee experience with applying  the provisions was largely positive
+
+The section outlines the review’s findings on the experience of employers and employees in applying  the provisions.
+
+7.1 The provisions were clear and simple to apply, but issues  arose about what was considered ‘reasonable’
+
+Employers found the provisions clear and simple to apply
+
+Employer representatives we consulted largely found the provisions to be simple to interpret and  implement. The wording of the provisions was straightforward in their view - comprehensible to the  layperson, with terminology that was consistent with existing industrial relations legislation. Further, the  information and explanatory materials issued by the FWO and FWC (such as the JobKeeper disputes  benchbook and template consultation letters) provided clear and helpful guidance and advice. This  contributed to a relatively positive experience in working with the provisions.
+
+Indeed, the major issues for employers related to confusion over employee eligibility for the JobKeeper  scheme rather than to the provisions per se. Questions arose in relation to the status of casual employees;  newly hired permanent staff; employees on different types of leave; eligibility dates; length of service; and  whether recent redundancies could be reversed. While not directly relevant to the scope of this review, it is  nevertheless worth noting the difficulty for some in differentiating issues of eligibility from those  concerning the provisions more generally.
+
+“They have been practical provisions and employers have found them easy to use” - Employer  representative
+
+For employee representatives, the key issues centred on what qualified as ‘reasonable’ and the  grounds on which an agreement could be refused
+
+As noted above, employee representatives recognised the importance of the provisions as a means for  employers to adapt to the economic circumstances. However, there were concerns about what qualified as  an ‘unreasonable’ direction, or a ‘reasonable’ basis on which to decline a request to agree to variation of  hours or the use of paid annual leave. The provision related to annual leave was by far and away the most  contentious, with all unions consulted arguing for clearer guidance on how to interpret and apply it.
+
+Employee representatives also made the case for adopting a relatively broad view on what might be  deemed ‘reasonable’ grounds to decline. The only example offered in the explanatory material was the  need for the employee to undertake ‘caring duties’. While this reference was intended to be illustrative  only and non-binding note, it was often interpreted as being the ‘only’ situation in which an employee  could refuse. The counter argument to putting more definition around the term ‘reasonable’ in the context  was put by an employer representative who argued strongly against being too prescriptive or limiting. In  their view, it was important to maintain flexibility in determining what was appropriate in the specific  context.
+
+Another perspective came from a union representative who advocated for the onus to fall on the  employer to justify whether the request itself was reasonable, rather than require the employee to defend  a position not to agree to it.
+
+
+
+
+
+Nous Group | Independent review of the temporary JobKeeper provisions of the Fair Work Act | 7 September 2020 | 24 |
+
+“It’s up to the employees to defend annual leave being drawn on. The onus is on them to show  reasonableness” - Employee representative
+
+Employers were themselves under pressure, often on the receiving end of strong advice to reduce their  liabilities. This appears to have been a consistent message from accountants advising their clients on how  to navigate the disruption of COVID-19. Unlike the other provisions, paid annual leave touches on accrued  entitlements, which had in many cases been saved for specific purposes. This caused a degree of distress  and a sense of inequity among at least some employees who were asked to forsake it, compounded by a  sense of obligation to agree. It is worth noting in this context that not all the intended purposes were  purely personal; an employee representative mentioned cases where employees had saved paid leave to  undertake unpaid work placements or secondments.
+
+Adding further to the sense of inequity, we heard also that in some workplaces, employers had asked their  staff to take annual leave as an immediate response to COVID-19 and later re-credited that leave once  JobKeeper payments were made. But not all employers took the same approach. While this is not directly  relevant to the use of the provisions, it speaks to the climate in which issues about requests under the FW  Act to use annual leave were considered.
+
+Case study: The reasonableness of taking annual leave
+
+An employee who was studying nursing had been saving annual leave over several years to allow them  to take paid leave during mandatory university placements. Their employer allegedly directed everyone  in that place of work to take annual leave until they had two weeks of leave remaining, saying that this  direction was aligned with the requirements of the FW Act JobKeeper provisions.
+
+When the employee requested for the employer to retract the direction given their specific need to  retain leave, the employer refused. As a result, the employee's leave balance was drawn down and they  were unsure whether they would have a sufficient leave balance to undertake a nursing placement  without an income.
+
+If the above is as fair and accurate representation of what happened, the employer would have  breached the provisions by giving a direction to take annual leave rather than making a request.  However, even if they had made a request, the issue or reasonableness arises, about which concerns  were raised with the review on the limited guidance available.
+
+
+
+The prominence of the annual leave as an issue is evident by comparing the prevalence of the provision’s  use with the proportion of relevant FWC dispute applications. Agreements under the annual leave  provisions were used by 18 per cent (full pay) and 3 per cent (half pay for double the time) of employers  respectively, yet they were the subject of more than a third of FWC JobKeeper dispute applications (of  those that did not raise a jurisdictional issue), see Table 1 overleaf.
+
+
+
+Nous Group | Independent review of the temporary JobKeeper provisions of the Fair Work Act | 7 September 2020 | 25 |
+
+Table 1 | Subject of Fair Work Commission JobKeeper dispute applications (9 April - 28 July 2020)15
+
+Subject Number Per cent
+
+JobKeeper enabling stand down direction 89 40%
+
+Days and times of work 85 38%
+
+Taking paid annual leave 79 35%
+
+Wage conditions or minimum wage guarantee 58 26%
+
+Duties of work 28 12%
+
+Location of work 17 8%
+
+Secondary employment, training or professional development 10 4%
+
+Other (mostly ineligible) 400 -
+
+
+
+
+
+7.2 The provisions were frequently implemented verbally
+
+The legislation requires employers to provide written notice of their intention to use a direction or  agreement, and the direction or agreement itself must also be provided in writing. However, based on  employer survey results, an estimated 43 per cent of businesses implemented the provisions verbally,  compared to 20 per cent who did so in writing.
+
+Consultation with employer and employee representatives suggest that this was not a significant concern.  Verbal arrangements were most likely used in the period immediately after the introduction of the  amendments, when businesses were reacting urgently to rapidly changing circumstances. There was no  sense of ill-intent in this; rather a pragmatic desire - shared by employers and employees - to adjust to  new realities in the interests both of business viability and income security.
+
+The details of the use of verbal and written arrangements to implement the provisions are provided  overleaf in Figure 15.
+
+
+
+“We consulted with staff verbally early on but followed through in writing.” - Employer,  Accommodation and Food Services
+
+
+
+15  Data provided to Nous by the Fair Work Commission, August 2020. Applications may have more than one  subject. Percentages based on total number of disputes lodged that do not appear to raise jurisdictional issues.
+
+
+
+Nous Group | Independent review of the temporary JobKeeper provisions of the Fair Work Act | 7 September 2020 | 26 |
+
+Figure 15 | How temporary JobKeeper provisions were implemented16
+
+
+
+7.3 Employees were, at times, unclear about which provisions  were being used and about their rights
+
+Employee representatives reported that employees were, at times, unclear which provisions the changes to  their work arrangements were made under, or whether they were being applied correctly. Union  representatives commented that the general information and advice provided by the FWO and FWC was  clear but, as has been discussed in several contexts above, there was inconsistency in how the provisions  were applied.
+
+This raised questions about the extent to which employees were informed about the scope and use of the  provisions. According to unions we interviewed, because new arrangements had to be introduced under  pressure - that is, often very quickly and, at times, without proper notice and consultation - many  employees did not have the time or foresight to seek advice on their workplace rights. Some employees  reported confusion about how the provisions impacted on their rights, be it under the general protections  of the FW Act, a relevant enterprise agreement or their employment contracts.
+
+In this context, several unions we consulted suggested that employers be required to distribute fact sheets  or use template forms as part of any consultation about invocation of the provisions.
+
+7.4 Queries and disputes were not higher than anticipated, a lack  of understanding was typically the root cause
+
+In comparison to the widespread application of the provisions, the total number of disputes and requests  for assistance raised with the FWC and FWO were relatively few. Representatives from each of the bodies  reported that staff had prepared for an increase volume of calls and matters following the commencement  of the provisions. But while there was certainly an increase in activity - beyond what would normally be  expected for the relevant period - the increase was not as significant, or as sustained, as might have been  expected.
+
+
+
+
+
+
+
+
+
+16 Please note that the figure does not sum to 100 per cent because not all respondents elected to answer this  question.
+
+
+
+Nous Group | Independent review of the temporary JobKeeper provisions of the Fair Work Act | 7 September 2020 | 27 |
+
+“We had prepared for a significant increase in requests for assistance from the community. The  number received to date has been relatively modest, with most concerns able to be resolved  quickly and without the need to take compliance or enforcement action.” - Fair Work  Ombudsman representative
+
+The number of disputes raised with the FWC was not unusually high
+
+By late July, the FWC had received 633 JobKeeper-related dispute applications, of which only 184 were  heard before the Commission or proceeded to conciliation or mediation. As a matter of context, the FWC  deals with around 14,000-18,000 disputes relating to unfair dismissal annually, so by comparison, the  number of JobKeeper-related matters was low. As set out in Table 1 in Section 7.1, most of the 184  disputes that proceeded related to stand down directions, agreements to alter days and times of work,  and use of annual leave (noting that a dispute can often cover multiple subjects). Issues to do with wage  conditions or the minimum wage guarantee were the subject of just over a quarter of disputes.
+
+FWC representatives observed that the number of disputes heard by the FWC was very small compared to  the number of people eligible for JobKeeper payments, and so the range of matters covered was not  necessarily indicative of the extent to which one aspect of the provisions was more problematic than  another. Nevertheless, the FWC data broadly aligns with feedback from employer and employee  representatives about the issues which generated the highest number of inquiries or concerns.
+
+In general terms, employees who lodged disputes at the FWC were seeking an amendment to a direction  or agreement made under the provisions, whereas employers’ disputes typically related to situations  where an employee did not wish to comply with a direction or agreement. An example of the latter  includes circumstances where a direction had been applied and then lifted, but an employee did not wish  to return to work due to health risks related to COVID-19.
+
+The FWC resolved the majority of JobKeeper disputes by mediation or conciliation during private  conferences. A small number progressed to hearings and were determined by Commission Members. This  is consistent with normal FWC practice, with priority being given to maintaining employee and employer  relationships and resolving disputes quickly where possible. Ninety per cent of disputes were resolved in  seven calendar days of lodgement. The outcomes of FWC dispute applications is shown in Table 2.
+
+Table 2 | Results of Fair Work Commission JobKeeper dispute applications (9 April - 28 July 2020)17
+
+Summary of results in finalised cases Number Per cent
+
+Withdrawn 430 70%
+
+Resolved during conference by conciliation or mediation 135 22%
+
+Dismissed 39 6%
+
+Resolved by arbitration 4 1%
+
+Other 6 1%
+
+Total 614 -
+
+
+
+
+
+
+
+17 Data provided to Nous by the Fair Work Commission, August 2020.
+
+
+
+Nous Group | Independent review of the temporary JobKeeper provisions of the Fair Work Act | 7 September 2020 | 28 |
+
+The FWO saw an initial spike in JobKeeper related enquiries, but formal requests for assistance  related to the program were not unusually high
+
+The FWO experienced a significant increase in enquiries across all channels after the introduction of the  JobKeeper scheme, peaking in mid-to-late April as the provisions came into effect.
+
+Two-thirds of JobKeeper related enquires were made by employees; 14% were made by medium and large  businesses, and 5% by small businesses. This composition does not vary greatly from the FWO’s typical  breakdown for enquiries.
+
+Enquiries from employees commonly focused on the interaction between casual employment and  JobKeeper; the use of accrued entitlements, including annual leave; changes to hours of work; and,  employees concerned about underpayment or non-payment of the minimum wage guarantee.
+
+As of 20 August, the FWO had 960 requests for assistance matters (RfAs) relating to JobKeeper; 703 of  which were resolved. An RfA can be lodged by an employee or employer and involved the FWO in  exploring the details of an alleged dispute and, if possible, voluntarily resolving the issue before requiring  formal mediation. The FWO’s enforcement role in relation to JobKeeper primarily relates to ensuring wage  conditions are met, unsurprisingly then, most alleged contraventions concerned payment and wage  disputes, as shown in Table 3.
+
+Only a handful of RfAs had been instigated by employers; the vast majority related to employee requests  for assistance. Eighty-three per cent of completed RfAs resulted in compliance, without the need for an  enforcement tool (that is, a non-punitive enforcement measure, such as a contravention letter or  compliance notice), and a further 17 per cent were resolved via education and dispute resolution.
+
+Table 3 | Fair Work Ombudsman JobKeeper RfA's, alleged contraventions (as of 20 August 2020)18
+
+Summary of results in finalised cases Per cent
+
+JobKeeper - Minimum payment guarantee19  28%
+
+JobKeeper - Wage condition 16%
+
+Leave - Annual Leave 17%
+
+Wages - Underpayment of Base Rate 4%
+
+JobKeeper - Partial or non-payment of JobKeeper 4%
+
+
+
+A lack of understanding was typically the root cause of employer and employee disputes
+
+As noted above, employer and employee representatives generally considered the provisions to be clear,  with a few specific exceptions - notably the definition of ’reasonable’. Notwithstanding the relatively low  level of disputes and other matters dealt with by the FWC and FWO, there were a number of instances  where employers applied the provisions incorrectly and in a way that adversely affected their employees.
+
+“Most businesses don’t want to force staff to do things because they don’t want ill-will. They  want to hold onto their employees.” - Employer representative
+
+
+
+18  Data provided to Nous by the Fair Work Ombudsman, August 2020.  19 The Minimum Payment Guarantee is as follows, ‘If a JobKeeper payment is payable to an employer for an  employee for a fortnight, the employer must ensure that the total amount payable to the employee in respect of  the fortnight is not less than the greater of: the amount of JobKeeper payment payable to the employer for the  employee for the fortnight, or the amounts payable to the employee in relation to the performance of work  during the fortnight.’
+
+
+
+Nous Group | Independent review of the temporary JobKeeper provisions of the Fair Work Act | 7 September 2020 | 29 |
+
+Different employer types had differing levels of understanding about their rights and obligation under the  provisions. Employer representatives stressed the difficulty for small businesses to understand their full  rights and obligations, simply because they did not have access to industrial relations advice that larger  businesses would. Confusion over the use of the directions and agreements, in some cases, led some small  business owners to avoid using the provisions at all, instead reaching informal agreements with their  employees.
+
+From an employers’ perspective, there were similar isolated cases of employees who refused to comply  with what might be deemed as reasonable requests or directions. The most common complaint related to  situations where an employee declined to work additional hours on the basis (reportedly) that they were  receiving JobKeeper payments. This was a relatively rare experience, however; according to survey data,  only five per cent of employers reported that staff refused to work additional hours because they were  receiving income via the JobKeeper payment (and noting that those staff may have been entitled to refuse  those additional hours).
+
+7.5 The roles of the FWC and FWO - while conceptually clear - in  practice, caused confusion
+
+The respective roles of the FWC and FWO in providing information, advice and resolving problems (either  through formal dispute or compliance processes) are well-articulated. Both the FWC and FWO went to  great effort to communicate these responsibilities on their public platforms and channels. However, while  the governance arrangements were sound conceptually, in practice there was a degree of confusion  among employers and employees about ‘who to go to for what’. The issue was compounded by a lack of  clarity on where the role of the ATO stopped and started with respect to the FWC.
+
+Employee representatives, in particular, spoke of being ‘bounced’ between the ATO, FWC and FWO when  seeking out information and guidance on the provisions. This may not speak to a specific failure on behalf  of the FWO and FWC to articulate and fulfil their role but rather the likely outcomes of a rapid policy  rollout during a tumultuous period, in the context of an already complex industrial relations system.
+
+“Being bounced back and forth [between the ATO, FWC and FWO] was difficult and confusing” -  Employee representative
+
+A significant number of applications raised jurisdictional issues - that is, the FWC may not have been able  to hear the dispute, because it related to an issue where the FWC does not have the power to make a  direction. Half of applications to the FWC that raised jurisdictional issues related to casual employee  eligibility questions (198 applications). The second most common issue was the ‘one in all in rule’ (69  applications). Both of these relate to employee eligibility and coverage under JobKeeper, which come  under the remit of the ATO.
+
+
+
+
+
+Nous Group | Independent review of the temporary JobKeeper provisions of the Fair Work Act | 7 September 2020 | 30 |
+
+Stakeholders consulted
+
+Name  Role Organisation
+
+Government agency representatives
+
+Ailsa Carruthers Executive Director, Client Services Delivery Branch Fair Work Commission
+
+Daniel Crick Executive Director, COVID-19 Response Taskforce Fair Work Ombudsman
+
+Jolanka Juhasz Assistant Director, COVID-19 Response Taskforce Fair Work Ombudsman
+
+Kate Schaffner Assistant Director, JobKeeper Fair Work Commission
+
+Employer representatives
+
+Ben Davies Director Workplace Relations Business Council of Australia
+
+Ingrid Fraser Senior Advisor
+
+Australian Chamber of Commerce and  Industry
+
+Mark McKenzie
+
+Chair and Director (and CEO of Australasian  Convenience and Petroleum Marketers Association)  Council of Small Businesses  Organisations Australia
+
+Sandy Chong
+
+Director (and CEO and Director of the Australian  Hairdressing Council)  Council of Small Businesses  Organisations Australia
+
+Stephen Smith Head of National Workplace Relations Policy AI Group
+
+Tamsin Lawrence Deputy Director, Workplace Relations  Australian Chamber of Commerce and  Industry
+
+Employee representatives
+
+Abha Devasia National Research Co-ordinator  Australian Manufacturing Workers  Union
+
+Alex Leszczynksi Industrial Officer
+
+Victorian Allied Health Professionals  Association
+
+Ben Redford Director United Workers Union
+
+Hannah Pelka-Caven Industrial Officer Media Entertainment and Arts Alliance
+
+Katie Biddlestone National Women’s Officer and Industrial Officer  Shop Distributive & Allied Employees  Association
+
+Michael Robson National Industrial Coordinator Australian Services Union
+
+Oanh Tran Principal Solicitor Young Workers Centre
+
+Sarah Haynes Industrial Officer (Western Australia)  Shop, Distributive & Allied Employees  Association
+
+Sue-Ann Burnley National Industrial Officer
+
+Shop Distributive & Allied Employees  Association
+
+
+
+Nous Group | Independent review of the temporary JobKeeper provisions of the Fair Work Act | 7 September 2020 | 31 |
+
+Name  Role Organisation
+
+Tanya de Almeida Director of Industrial Relations Media Entertainment and Arts Alliance
+
+Trevor Clarke Manager Industrial and Legal Australian Council of Trade Unions
+
+Vivienne Wiles
+
+Senior National Industrial Officer (Manufacturing  Division)  Construction, Forestry, Maritime,  Mining and Energy Union
+
+Zach Duncalfe National Legal Officer Australian Workers Union
+
+
+
+
+
+Nous Group | Independent review of the temporary JobKeeper provisions of the Fair Work Act | 7 September 2020 | 32 |
+
+Documents and data sources   Australian Bureau of Statistics, 5676.0.55.003, Business Indicators, Business Impacts of COVID-19, July  2020.
+
+Australian Bureau of Statistics 6160.0.55.001 - Weekly Payroll Jobs and Wages in Australia, Week ending  25 July 2020
+
+Australian Bureau of Statistics, 6202.0 - Labour Force, Australia, Jul 2020
+
+Australian Bureau of Statistics, 6291.0.55.001 - Labour Force, Australia, Detailed - Electronic Delivery, Jun  2020
+
+Australian Bureau of Statistics, 6291.0.55.003 - Labour Force, Australia, Detailed, Quarterly, May 2020
+
+COVID-19: Impacts on casual workers in Australia—a statistical snapshot, prepared for the Parliament of  Australia, May 2020.
+
+Fair Work Act 2009 (Cth)
+
+Fair Work Commission data on employer and employee dispute applications, provided to Nous August  2020
+
+Fair Work Ombudsman data on employer and employer enquiries and requests for assistance, provided  Nous August 2020
+
+Fair Work Ombudsman, JobKeeper Wage Subsidy Scheme.  https://coronavirus.fairwork.gov.au/coronavirus-and-australian-workplace-laws/pay-and-leave-during-coronavirus/jobkeeper-wage-subsidy-scheme/default
+
+Nous Group Report. (July 2020). Research on the use of temporary JobKeeper provisions of the Fair Work  Act. Commissioned by the Office of the Attorney General.
+
+
+
+Nous Group | Independent review of the temporary JobKeeper provisions of the Fair Work Act | 7 September 2020 | 33 |
+
+Employer survey methodology  Research findings were derived from a rapid and rigorous assessment of employer sentiments regarding  the provisions and their implementation. Nous conducted a survey and interviews with 1,810 and 22  employers respectively. The sample was drawn from the population of 507,898 Australian employers  (excluding non-employing organisations) that qualified for JobKeeper as at 20 May 202020.
+
+The survey results are based on a total of 1,810 responses from businesses, after ineligible responses (e.g.  not based in Australia; or without any employees on JobKeeper) were excluded. For key summary statistics  such as “the proportion of businesses that reduced their hours during COVID-19”, this sample size means  that a 95% confidence interval for a proportion is around Â±6% e.g. the estimate in this case is 61% Â± 6%,  or (55%, 67%). This margin of error takes into account the weighting that allows inference to be performed  for the population as a whole, despite some industries and firm sizes being better represented in the  sample than others.
+
+Based on the sample size attained within industries (see Table 4 below), four industry groupings are  considered for statistical analysis: Accommodation and Food Services, Retail Trade, Manufacturing and  Other (which includes all other industries). Analysis by business size is also appropriate due to sufficient  samples across each of the business size categories, noting there were no statistically significant effects of  business size on any results.
+
+Nous applied survey weights to ensure inferences can be made appropriately, taking into account the  actual mix of business size (number of employees) and industries in the population. Results are reported  using weighted response frequencies to reflect true variation in employer numbers across industries and  business size. The findings are thus reported as estimates of sentiments across the total population, rather  than as percentages of survey respondents. This is crucial as not all employer categories are equally  represented among survey respondents. Weighting and statistical inference was performed with the survey  package by Thomas Lumley, in the R statistical computing environment.
+
+Table 4 | Response rates v population across industries
+
+Industry21 Response Estimated population
+
+Accommodation and Food Services  803 59,677
+
+Retail Trade 352 43,103
+
+Manufacturing 154 34,047
+
+Other22 501 371,071
+
+Construction 41 61,632
+
+Arts and Recreation Services 38 21,022
+
+Other Services 66 52,111
+
+Professional, Scientific and Technical Services 42 38,950
+
+Transport, Postal and Warehousing 46 17,663
+
+Wholesale Trade 31 13,253
+
+Industries <20 responses 237 166,440
+
+Total 1,810 507,898
+
+
+
+20 Population totals are estimated from ATO Business Market Tables and the JobKeeper data provided through  the Attorney General’s Department and Treasury.   21 Industry categories are based on the Australian and New Zealand Standard Industrial Classification (ANZSIC)  22 Industries with response rates <20 employers have been consolidated into ‘other’ to enable meaningful analysis
+
+
+
+Nous Group | Independent review of the temporary JobKeeper provisions of the Fair Work Act | 7 September 2020 | 34 |
+
+Table 5 | Response rates v population by business size
+
+Business size Response Estimated population
+
+1 - 4 employees 289 379,244
+
+5 - 19 employees 819 102,374
+
+20 - 49 employees 357 17,078
+
+Greater than 50 employees 345 9,202
+
+Total 1,810 507,898
+
+Table 6 | Interviewees by industry
+
+Business size Interviews
+
+Accommodation and Food Services 5
+
+Professional, Scientific and Technical Services 3
+
+Information Media and Telecommunications 3
+
+Administrative and Support Services 3
+
+Education and Training 2
+
+Arts and Recreation Services 2
+
+Health Care and Social Assistance 2
+
+Retail Trade 1
+
+Manufacturing 1
+
+Total 22
+
+
+
+A note on limitations. The most likely material limitation on the survey’s findings relates to possible self-selection in the sampling process. Ideally, firms would have been invited directly to participate, rather than  via newsletters and similar distribution methods. No sampling frame was available, however, for all the  eligible firms and their contact details. We are confident that the sample achieved, and the weighting  process used to make inferences for the population are the best possible under the circumstances.
+
+The final two questions on the survey regarding employee reasons for not attending work and not  working additional hours were added three days after the survey had gone live. They were added to better  understand anecdotal suggestions of staff refusing to work while receiving JobKeeper payments. The 154  responses (9 per cent) received before these questions were added are not included for analysis of these  questions.
+

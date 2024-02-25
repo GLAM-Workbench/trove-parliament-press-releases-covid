@@ -1,0 +1,758 @@
+
+
+THE HON JOSH FRYDENBERG MP  Treasurer
+
+THE HON BEN MORTON MP  Assistant Minister to the Prime Minister and Cabinet
+
+JOINT MEDIA RELEASE
+
+Media contact: Joel Labi — Office of the Hon Josh Frydenberg MP — 02 6277 7340  Media contact: Chris Fryar— Office of the Hon Ben Morton MP— 02 6277 2035
+
+18 December 2020
+
+CONSULTATION ON MODERNISING BUSINESS COMMUNICATIONS
+
+Today, the Government is releasing a consultation paper seeking stakeholder feedback on regulatory  impediments to modernising business communications.
+
+The consultation will specifically consider Treasury laws, including the Corporations Act 2001,  Australian Securities and Investments Commission Act 2001, Banking Act 1959, Insurance Act 1973,  Life Insurance Act 1995, Superannuation Industry (Supervision) Act 1993, Consumer and Competition  Act 2010 and National Consumer Credit Protection Act 2009.
+
+Laws need to keep pace with how Australians want to communicate with each other when doing  business, particularly where these laws prescribe outdated methods of communication. Making  Treasury laws technology neutral will give Australians more choice and lowers the cost of doing  business.
+
+The COVID-19 pandemic demonstrated the importance of technology in supporting Australia’s ability  to adapt and respond during the crisis. Reforms to make our laws more technology neutral will reduce  unnecessary costs and burdens on Australian businesses and support Australia’s economic recovery.
+
+Businesses and consumers are unable to harness the benefits of new technology when old methods of  conducting business become entrenched in law. It is essential that our laws and regulations are fit-for-purpose as technology continues to evolve.
+
+The consultation paper is available at https://treasury.gov.au/consultation, with consultation closing  on 28 February 2021.
+
+Ends
+
+
+
+i
+
+
+
+
+
+Modernising  Business   Communications  Improving the Technology Neutrality of Treasury  Portfolio Laws  December 2020
+
+
+
+
+
+Â© Commonwealth of Australia 2020
+
+This publication is available for your use under a Creative Commons Attribution 3.0 Australia licence,  with the exception of the Commonwealth Coat of Arms, the Treasury logo, photographs, images,  signatures and where otherwise stated. The full licence terms are available from  http://creativecommons.org/licenses/by/3.0/au/legalcode.
+
+
+
+Use of Treasury material under a Creative Commons Attribution 3.0 Australia licence requires you to  attribute the work (but not in any way that suggests that the Treasury endorses you or your use of  the work).
+
+Treasury material used ‘as supplied’.
+
+Provided you have not modified or transformed Treasury material in any way including, for example,  by changing the Treasury text; calculating percentage changes; graphing or charting data; or deriving  new statistics from published Treasury statistics — then Treasury prefers the following attribution:
+
+Source: The Australian Government the Treasury.
+
+Derivative material
+
+If you have modified or transformed Treasury material, or derived new material from those of the  Treasury in any way, then Treasury prefers the following attribution:
+
+Based on The Australian Government the Treasury data.
+
+Use of the Coat of Arms
+
+The terms under which the Coat of Arms can be used are set out on the Department of the  Prime Minister and Cabinet website (see www.pmc.gov.au/government/commonwealth-coat-arms).
+
+Other uses
+
+Enquiries regarding this licence and any other use of this document are welcome at:
+
+Manager  Media and Speeches Unit  The Treasury  Langton Crescent   Parkes  ACT  2600  Email: media@treasury.gov.au
+
+Contents  Contents.............................................................................................................................. iii
+
+Consultation Process.............................................................................................................. 1
+
+Request for Feedback and Comments ....................................................................................... 1
+
+Publication of submissions and confidentiality ........................................................................... 1
+
+Further consultation process ................................................................................................... 1
+
+Closing date for submissions: 28 February 2021 ..................................................................... 1
+
+Improving the Technology Neutrality of Treasury Portfolio Laws ................................................. 2
+
+Introduction .......................................................................................................................... 2
+
+Government Action ........................................................................................................... 2
+
+Consultation Objectives...................................................................................................... 3
+
+Written Communication with Stakeholders................................................................................ 6
+
+Policy Goals ...................................................................................................................... 6
+
+Proposed Principles ........................................................................................................... 7
+
+Communicating with Regulators............................................................................................... 9
+
+Policy Goals ...................................................................................................................... 9
+
+Proposed Principles ......................................................................................................... 10
+
+Signatures........................................................................................................................... 12
+
+Policy Goals .................................................................................................................... 12
+
+Proposed Principles ......................................................................................................... 12
+
+Record-Keeping Requirements ............................................................................................... 14
+
+Policy Goals .................................................................................................................... 14
+
+Proposed Principles ......................................................................................................... 14
+
+Payment Methods................................................................................................................ 16
+
+Figure 1: Declining Use of Cheques as a Method of Payment.................................................. 16
+
+Policy Goals .................................................................................................................... 17
+
+Proposed Principles ......................................................................................................... 18
+
+Consultation questions ......................................................................................................... 19
+
+Appendix A: International Reform Processes ............................................................................ 20
+
+Modernising Business Communications
+
+1
+
+Consultation Process
+
+Request for Feedback and Comments  Interested parties are invited to comment on the issues raised in this paper by 28 February 2021.
+
+While submissions may be lodged electronically or by post, electronic lodgement is preferred. For  accessibility reasons, please submit responses sent via email in a Word or RTF format. An additional  PDF version may also be submitted.
+
+Publication of submissions and confidentiality   All information (including name and address details) contained in formal submissions will be made  available to the public on the Australian Treasury website, unless you indicate that  you would like all  or part of your submission to remain confidential. Automatically generated confidentiality  statements in emails do not suffice for this purpose. Respondents who would like part of their  submission to remain confidential should provide this information marked as such in a separate  attachment.
+
+Legal requirements, such as those imposed by the Freedom of Information Act 1982, may affect the  confidentiality of your  submission.
+
+
+
+Further consultation process   The Treasury and the Deregulation Taskforce will also consult broadly with industry representatives  and other interested parties on the topics discussed in this consultation paper. This may involve  conducting targeted consultation with these stakeholders on specific issues where more information  and views are required.
+
+Closing date for submissions: 28 February 2021
+
+Email mbcomms@treasury.gov.au
+
+Mail
+
+
+
+
+
+Data Economy Unit  Market Conduct Division  The Treasury  Langton Crescent  PARKES ACT 2600
+
+Enquiries Enquiries can be initially directed to mbcomms@treasury.gov.au
+
+Media enquiries should be directed to medialiaison@treasury.gov.au or +61 2 6263 2300
+
+The principles outlined in this paper have not received Government approval and are not yet law. As  a consequence, this paper is merely a guide as to how the principles might operate.
+
+
+
+
+
+Modernising Business Communications
+
+2
+
+Improving the Technology Neutrality of  Treasury Portfolio Laws
+
+Introduction  The  world  around  us  is changing dramatically with the widespread application and rapid uptake of   digital technologies. It is redefining the way we live and work and how we engage with businesses and  government.
+
+This growth in digital technologies provides opportunities to modernise business communications to  better reflect the way Australians want to engage and communicate digitally and to reduce business  costs.
+
+Consumers  and  businesses  can  miss  out  on  the  benefits  of  new  technology  when  old  methods  of   conducting business become entrenched in law and embedded in longstanding regulatory practice. It  is therefore essential to ensure that laws and regulatory practices remain fit-for-purpose,  necessary  and relevant.
+
+This  is  particularly  relevant  in  the  context  of  the  COVID-19  pandemic, which has accelerated the  adoption of digital technologies by Australian consumers and businesses  and highlighted the need for  businesses and consumers to be able to meet their obligations electronically.
+
+The  Government  is  committed  to  ensuring  that Australian consumers  and businesses  are  able  to   benefit from these new technologies. It is consulting with stakeholders to develop principles that will  facilitate the removal of legal impediments to adopting both current  and future technology, where  appropriate.
+
+Government Action  In  July  2019,  the  Government  established  the  Deregulation  Taskforce  (Taskforce) to  progress  the   Government’s renewed Deregulation Agenda.  The  focus  of  the  Taskforce  is  to  ensure  that,  where   regulation is required, it is fit for purpose and has the lightest touch. The objective that any regulation  seeks must be achieved in the most effective and efficient way, in a way that’s easily understood, cost  effective and timely.
+
+On 15 June 2020,  the Government  announced the Taskforce would prioritise modernising business  communications to reduce business costs and better  reflect  the way Australians want  to engage and  communicate  digitally.  The  Taskforce is  working  alongside government  agencies  to improve  technology neutrality across all Commonwealth laws,  as well as partnering with states and territories  to  explore  opportunities  to  achieve  the  same  with  their  laws. The  Government  has already made  significant progress to improve the technology neutrality of Commonwealth regulation:
+
+Ã¢ÂÂ¢ On  12  June  2020,  the  Government  passed  the Treasury  Laws  Amendment  (Registries   Modernisation and Other Measures) Act 2020 which will provide ongoing flexibility to adapt and  respond to changes in technology to improve the user  experience and simplify the way people  interact  with government  business registers. In  addition, as  part  of  the  2020-21 Budget, the   Government  announced  its  JobMaker  Digital  Business  Plan,  investing  almost  $800  million  to   enable businesses to take advantage of digital technologies to grow their businesses and create  jobs  as  part  of  its  economic  recovery  plan — including  $419.9  million  to  enable  the  full   implementation of this legislation;
+
+Ã¢ÂÂ¢ On 30 July 2020,  the number  of exemptions to the Electronic Transactions Act 1999 (ETA) in  the   Electronic Transactions Regulations 2020 was reduced from 147 to 93. This facilitates electronic
+
+Modernising Business Communications
+
+3
+
+communications, permits a  number  of  banking  and  credit-related  documents  to be  sent   electronically and make communications with regulators more efficient;
+
+Ã¢ÂÂ¢ On 7 October 2020, the Government released exposure draft legislation on a package of reforms  to  streamline  insolvency  procedures. This  legislation  includes  provisions  that  will  allow  businesses to use technology to conduct  meetings relating  to the external administration of a   company; and
+
+Ã¢ÂÂ¢ On 19 October 2020, the Government released further exposure draft legislation to improve the   technology neutrality of the Corporations Act 2001 and associated regulations. This legislation,  implementing part of the JobMaker Digital Business plan, will allow businesses and their officers  to use  technology  to  meet  regulatory  requirements  in  respect  of  meetings  of  directors,   shareholders  of  companies  and  members  of  registered  schemes,  plus  execute  documents   electronically.
+
+The reforms in respect of meetings, documents related to meetings and document execution build on   the temporary relief that the Treasurer provided using the temporary instrument-making power under  the Coronavirus  Economic  Response  Package  Omnibus  Act  2020,  which will remain  in  effect  until 21 March 2021. In  progressing  these  reforms,  the  Government  has  responded  to stakeholder  feedback, and addressed relevant  recommendations  of  the  Interim  Report  of  the  Senate  Select   Committee on Financial Technology and Regulatory Technology, released in September 2020.
+
+Consultation Objectives  This  consultation  process  focuses  on  how  best  to  improve  the  technology  neutrality  of  Treasury   portfolio  laws,  beyond the actions already being  taken by the  Government, to ensure they  do  not   restrict the use of current and future technologies.
+
+It  is important  that  businesses benefit  from consistency  in  the  way  the  law  treats  similar  types  of   business  communication now and into the future. That is why the Government proposes to take a  principles-based  approach to legislative reform for business  communications.
+
+In line with this approach, the objectives of this consultation is to obtain feedback from stakeholders  that will assist the government to:
+
+Ã¢ÂÂ¢ Identify and categorise the  types  of  business  communications  that  would  benefit  from   technology  neutrality  changes, including those technology neutrality changes that  will lower  current compliance costs;
+
+Ã¢ÂÂ¢ Develop principles to guide subsequent legislative change;
+
+Ã¢ÂÂ¢ Identify legislative change that may be required to give effect  to these principles and improve  the technology neutrality for each category of communication;
+
+Ã¢ÂÂ¢ Address sensitivities and risks associated with technology neutrality; and
+
+Ã¢ÂÂ¢ Prioritise reform implementation.
+
+The options the Government is considering are:
+
+I. Maintaining  the  status  quo  if  stakeholder  consultation  does  not  demonstrate  that   there is a problem.  II. Agreeing  principles  in  one  or  more  forms  of  communication  to  guide  legislative   change. The Government will then:
+
+a. Identify and  prioritise  the  changes  to provisions  in  Treasury portfolio  legislation required to give effect to these principles.
+
+Modernising Business Communications
+
+4
+
+b. Reduce or remove exemptions  to  the  Electronic  Transactions  Act  1999 for  Treasury  portfolio  laws  creating  burden  through  a  lack  of  technology   neutrality.
+
+Relevant Treasury laws, which may be within the scope of the reforms include, but are not limited to:  the Corporations Act 2001, Australian Securities and Investments Commission Act 2001, Banking Act  1959, Insurance Act 1973, Life Insurance Act 1995, Superannuation Industry (Supervision) Act 1993,  Consumer and Competition Act 2010 and National Consumer Credit Protection Act 2009.
+
+Categories of Business Communication in Focus  The five categories of business communication which are the focus of this consultation are:
+
+Ã¢ÂÂ¢ written communications or  transfers of  information  among stakeholders,  including  business,   customers, and investors;
+
+Ã¢ÂÂ¢ communicating with regulators such as the Australian Securities and Investments Commission   (ASIC),  Australian Prudential Regulation Authority (APRA) and the Australian Competition and  Consumer  Commission (ACCC). Examples include lodging documents and attending hearings;
+
+Ã¢ÂÂ¢ written signature requirements, beyond the proposed permanent changes to the execution of  company documents relating to meetings;
+
+Ã¢ÂÂ¢ record-keeping requirements, including the keeping of books and registers; and
+
+Ã¢ÂÂ¢ the making of payments by customers, investors, regulators or businesses.
+
+Potential reforms to these categories of business communication will be a significant legislative  undertaking. Given this, it will be necessary to scope, prioritise and plan a sequence of  improvements.
+
+Corporations and Insolvency Reforms  The  Government  has  already  sought  stakeholder  views  on  exposure  draft  legislation  that  makes   permanent  changes  to  the Corporations  Act  2001 in  relation  to  virtual  meetings  and  electronic   document  execution. The proposed reforms make permanent the temporary relief provided  earlier   this  year as part  of the  COVID-19 economic  response 1,  which  allows  companies  to  hold  meetings   virtually, send meeting-related materials electronically and validly execute documents electronically.  Coupled with the proposed reforms to insolvency arrangements, these reforms cover the majority of  Treasury portfolio legislation which places requirements on meetings involving entities.
+
+As  such, meetings,  communication of written materials in relation to these meetings and the valid  execution of documents by companies under  s127 of the Corporations Act 2001 are not within scope  of  this  consultation  paper.  The  principles  that  underpin  these  reforms will be considered  for   application across other Treasury portfolio laws, where appropriate.
+
+An Evidenced-Based Approach to Prioritisation  The Government intends to prioritise reforms that will help businesses to comply with regulation more  efficiently. Priority will be considered with regard to the:
+
+Ã¢ÂÂ¢ costs of satisfying current regulatory requirements; and
+
+Ã¢ÂÂ¢ expected benefits  of  enabling  technology  neutrality  after  taking  into account the risks of  undermining the relevant policy objectives.
+
+
+
+1  Corporations (Coronavirus Economic Response) Determination (No. 1) 2020;  Corporations (Coronavirus  Economic Response) Determination (No. 3) 2020
+
+Modernising Business Communications
+
+5
+
+Next Steps   You can respond to this consultation paper up until 28 February 2021. When drafting your submission  please note that you may answer all the discussion questions raised or alternatively only the questions  that are relevant  to you.  Once the consultation period has closed, Treasury will develop advice for  Government consideration based on stakeholder  feedback.
+
+Submissions  will  be  treated  as  public  and  may  be  published  on  the  Treasury  website,  unless  you   specifically identify that  you do not  wish your  submission to be made public.
+
+
+
+
+
+Modernising Business Communications
+
+6
+
+Written Communication with Stakeholders  There are laws that require businesses to provide written information to their customers, shareholders  and other stakeholders.  These  laws may impose limitations on the technologies that  may be used to  provide  that  information. Requirements  may  relate  to,  for  example,  product  disclosures,  reports,   notices and meeting materials. Technology limitations may include requirements to provide hard copy  materials. While the ETA often allows such requirements to be satisfied by electronic means, it requires  the consent (which can be implied) of the recipient. The ETA does not currently apply to some laws in  the Treasury portfolio as these have been exempted from its application. The exempted laws include  the Corporations Act 2001 and most of the Superannuation Industry (Supervision) Act 1993.
+
+The  Government  has  begun  the  process  of  making  technology  neutral requirements  in  the  Corporations  Act  2001 in relation to the  execution  of  company  documents and  other  documents  relating  to a  meeting,  as well as documents relating  to the external administration of a  company.
+
+Earlier  this  year,  the  Government  provided  temporary  relief  allowing  companies  and  registered   schemes  to  use  technology  to  send  out  meeting  materials, as  part  of  the  COVID-19  economic   response. 2
+
+The  Government  is  also  progressing  permanent  amendments  related  to  meeting  materials  and  documents  relating  to  the  external  administration  of  a  company in  Chapters  2G  and  5  of  the   Corporations Act 2001. 3 The Government  also removed a  number  of exemptions to the ETA in order  to facilitate the use of electronic communications.
+
+Policy Goals  The policy goal of requiring  businesses to provide information in writing  is to:
+
+Ã¢ÂÂ¢ help stakeholders make informed decisions about  their interests — for example, whether to buy  or sell their interests in a company; and
+
+Ã¢ÂÂ¢ substantiate the legal rights and obligations of the business and their stakeholders, by ensuring  that  information is provided in a verifiable form that can be retained.
+
+These policy goals have often been achieved by mandating provision of a hard copy document to a   physical  address,  which generally ensured that stakeholders received the required information in a   verifiable  form  that  could  be used  and retained. Developments  in  digital  technology  and  practices   means that it is no longer necessary for businesses to post hard copies of documents to all stakeholders  to achieve these outcomes. Instead, it  is now generally effective and convenient  for  documents to be  provided electronically.
+
+More  technology neutral  laws  would remove  regulatory  barriers  to  sending  out  electronic  communications,  while ensuring that stakeholders are able to access relevant information to ensure  they can make informed decisions and that the entity meets its regulatory obligations.
+
+
+
+2  Corporations (Coronavirus Economic Response) Determination (No. 1) 2020;  Corporations (Coronavirus  Economic Response) Determination (No. 3) 2020  3  For further information relating to the consultation process on the regulatory requirements for sending of  meeting materials during COVID-19 please visit the Select Committee on Financial Technology and
+
+Regulatory Technology September 2020 interim report.
+
+Modernising Business Communications
+
+7
+
+Examples
+
+Notifications
+
+Changes to laws could provide for notifications to be sent via  text message or mobile application to direct  stakeholders to generic online content and/or  notify of information provided via email.
+
+Publishing notices in newspapers
+
+There are some provisions in Treasury laws that require businesses to publish notices in a newspaper or other  publications. Since these laws were introduced, there have been material shifts in the way news is consumed,  which leads to questions about the effectiveness of this requirement.
+
+A policy objective of publishing material in newspapers is to provide transparency to the general public on  matters of importance in a convenient way. Some jurisdictions have shifted to utilising public registers to  replace requirements to publish materials in newspapers. We are interested in stakeholder feedback on what  publishing requirements are particularly cumbersome and what alternate options could be explored.
+
+
+
+
+
+Proposed Principles  As a starting point, the Government  is proposing  to adopt  technology neutrality in how businesses  meet  legal requirements to provide written information to their  customers,  shareholders and other   stakeholders unless policy objectives are best achieved by limiting technology choice.
+
+Where a default method is not specified in the law, it is intended that any technology may be used to  communicate in writing provided that:
+
+Ã¢ÂÂ¢ the sender is assured the recipient can access the information;  and
+
+Ã¢ÂÂ¢ the information can be stored by the sender and receiver in a way that it can be readily accessed  and reusable for subsequent reference.
+
+This will allow for entities to choose a  default  means of providing  ‘in writing’ communications that is  appropriate to their circumstances and will allow recipients to receive information in other  formats  (such as paper) where digital formats are not practical.
+
+In  considering  how  to  achieve  technology  neutrality, one  option  is  to remove exemptions in  the   Electronic Transactions Regulations 2020 to the ETA in respect  of business communications.  If these  exemptions  are  removed,  the  ETA  will  apply,  and  businesses  will  be  able  to  meet  regulatory   requirements in respect  of written communications if:
+
+Ã¢ÂÂ¢ at the time the information was given, it was reasonable to expect that the information would  be readily accessible so as to be useable for subsequent reference;
+
+Ã¢ÂÂ¢ if the entity receiving the communication is a Commonwealth entity — the information is given  in accordance with particular information technology requirements (if any) and particular action  is taken by the person to verify the receipt  of the information (if applicable);  and
+
+Ã¢ÂÂ¢ if the entity receiving the communication is not a Commonwealth entity — the recipient entity  consents to the information being given by way of electronic communication.
+
+A limitation of the ETA is that it allows a  business to use electronic  means only if the recipient  has  provided consent.  This requires businesses to operate by using a ‘default’ method of communication  (such as hard copy mail) and seek permission from recipients to use more contemporary methods such  as email or via  mobile applications.  However, as Australia  continues to shift  to a  digital economy the  default of using paper is no longer convenient for most consumers and investors.
+
+Modernising Business Communications
+
+8
+
+Consumers and investors now expect information to flow faster and to have responses sooner to allow  them to continue to make informed and timely decisions. As such, it is becoming increasingly common  for digital communications to be the default. This approach means that if a business has an electronic  means of notifying  a  recipient  of the availability of information in a way that is as  reliable  or  more  reliable  than  a posted hard  copy,  they  may  use  those means  to  both  notify  and  provide  that   information.
+
+Case  Study 1  Subsection 329(5) of the Corporations Act 2001 allows the auditor of a company to resign if, among other  things, the auditor provides written notice of their resignation to the company.
+
+As the ETA does not apply to the Corporations Act 2001, this requirement can only be satisfied by the provision  of a physical document. This requirement for a written notice is not technology neutral.
+
+Applying the proposed principles would involve revising the requirement either:
+
+Ã¢ÂÂ¢ so that this notice need not be provided in writing but may instead be provided in any form provided it is  expected to be at least equally effective; or
+
+Ã¢ÂÂ¢ by removing the exception exemption to the ETA so that electronic communication may be used where  both parties consent.
+
+Ã¢ÂÂ¢ Note: Consent does not necessarily need to be provided in writing. It may even be implied. One way that  consent can be provided is through engaging electronically. This may be in the form of communicating via  email, submitting an application through an online portal, or providing an email address on a personal  details form.
+
+Case  Study  2  Section 37 of the Insurance Contracts Act 2004 provides, broadly, that an insurer may not rely on a term of a  contract of insurance that would not usually be included in similar contracts of insurance unless, before the  contract was entered into, the insurer informed the other party in writing of the effect of the provision.
+
+Section 37 specifies that the disclosure must be provided in writing. Section 11 of the ETA provides that  documents can be produced by electronic communications, should the recipient provide their consent to  receive documents electronically.
+
+The current provisions leave it unclear whether the requirement can be satisfied by providing the other party  with clear directions about where material is publically available (such as a link to an electronic version of a  document on a website) or if this is not sufficient to constitute providing the information.
+
+Case  Study  3  Sections 223 and 224 of the Life Insurance Act 1995 set out requirements that apply to life insurers in the  event that a life insurer is advised that a life insurance policy document is destroyed and the insurer is  requested to issue a replacement policy document or pay a claim under such a document. Among other things,  life insurers are required to publish notice of their intention to issue the replacement document or put the  claim in a newspaper circulating in certain areas at least ten days before issuing or paying.
+
+This requirement is not technology neutral because it provides for notice to be given only using one very  specific means, even if other means would be equally or more effective to achieve the policy intention of  informing persons whose interests may be affected.
+
+Applying the proposed principles would involve revising the requirement to provide notice so that it can be  satisfied if the notice is given in a way that the insurer is reasonably satisfied will be similarly effective in  providing notice to affected persons.
+
+
+
+
+
+Modernising Business Communications
+
+9
+
+Communicating with Regulators  The law may require entities to provide written information to regulators in the Treasury portfolio   including ASIC, APRA and the ACCC, or other Commonwealth entities. It also provides for regulators to  give information to regulated entities and other stakeholders.
+
+Examples of the information required may be relevant to licensing and registration, breach reporting,  investigations, and applications for regulatory relief. Current laws tend to prescribe how regulators will  receive this information from entities — for example, the entity is required to provide the information  to the regulator in hard copy.
+
+The Government has already made a number of these requirements technology neutral as part of the  Modernising  Business  Registers  program,  by passing  legislation to allow a  registrar to prescribe the  manner  in which it  collects registry-related information in respect  of a  number  of statutes,  including   the Corporations  Act  2001, Superannuation  Industry  (Supervision)  Act  1993, A  New  Tax  System   (Australian Business Number) Act 1999, Business Names Registration Act 2011 and National Consumer  Credit Protection Act 2009. To support implementation, the Government has provided $419.9 million  over four years in the 2020-21 Budget to build a modernised registry platform.
+
+The Government  is considering  extending  the flexibility provided through the Modernising  Business   Registers program to allow  regulators  to  prescribe  the  manner  in  which  it  collects  other  pieces  of   information across Treasury portfolio laws.
+
+The Government is not considering any changes or reduction to the information provided to regulators  through this process. Regulators will continue to receive the information they require to carry out their  regulatory functions effectively.
+
+There are a number of issues that must be considered to ensure businesses, consumers and regulators  can benefit from technology neutrality. These include:
+
+Ã¢ÂÂ¢ ensuring  the information is provided in a  manner  which allows it  to be readily accessible and  useable by regulators;
+
+Ã¢ÂÂ¢ ensuring  that  regulators  can  appropriately  specify  the  means  through  which it receives  communications; and
+
+Ã¢ÂÂ¢ ensuring that regulated entities can comply with these requirements at the lowest cost.
+
+Policy Goals   The policy goals of these requirements include:
+
+Ã¢ÂÂ¢ providing an administrative and evidential basis for regulator decision-making; and/or
+
+Ã¢ÂÂ¢ assisting the regulator to prioritise and conduct regulatory activities.
+
+As regulators receive large volumes of information, it is necessary that they are able to prescribe how  they receive that information so that information can be used efficiently to carry out their regulatory  mandate.
+
+For example,  there are a  number  of provisions in the corporate law which require financial services   licensees to provide written statements or reports, either upon a request by ASIC or an occurrence of  a prescribed  event.  However,  in practice,  the  information  provided  to  regulators  can  be made in   different formats. Any changes to the law should also acknowledge the regulatory burden imposed on  businesses when multiple channels of communicating with regulators exist. Where practicable, reform  should also provide a more consistent and streamlined process for the regulated population.
+
+
+
+
+
+Modernising Business Communications
+
+10
+
+Hearings
+
+A number of provisions in Treasury legislation, including the Corporations Act 2001, require a regulator  to offer an affected person, or their representative, an opportunity to appear at a hearing before the  regulator exercises its power or functions. Often these provisions either expressly or implicitly require  that the hearing must be conducted in person.
+
+The policy goal of a hearing is to afford affected people the opportunity to understand why a regulator  is considering  the exercise of a  power  and to be able to respond to these issues and raise relevant   evidence relating to their case. It ensures that certain significant powers are not exercised without the  affected  person  having  the  chance  to  make  their  case  in  possession  of  full  information  about  the   reasoning of the regulator.
+
+To  achieve  this  purpose,  it  is  important  that  hearings  are  conducted  in  a  way  to  allow  for  communication that is effective and adapted to the needs of participants. It is also important to ensure  that the manner of communication does not limit the capacity of parties to participate or compromise  the fairness of proceedings.
+
+In some cases, the purpose of a hearing is also to ensure that this process is open and subject to public  scrutiny.  However,  this  is  not  universal.  In  some  cases,  hearings  may  involve  private  or  sensitive   information and therefore may not be able to be held publically.
+
+Proposed Principles  As a starting point the Government proposes that regulators and their clients should be able to interact  in a manner that provides the regulator with the maximum ability to use the information to assist them  in their regulatory responsibilities as well as providing regulated entities with a streamlined process to  meet their responsibilities.
+
+There are two options available to implement this principle. They are:
+
+Ã¢ÂÂ¢ Removing exemptions to the ETA; and
+
+Ã¢ÂÂ¢ Amending relevant Treasury legislation.
+
+Additionally, many Commonwealth Acts contain their own bespoke electronic communication regimes  that displace the ETA when there is a  conflict between the relevant Act and the ETA.  For example,   section  11B  of  the  Superannuation  Industry  (Supervision)  Act  1993 provides  that  the  electronic   lodgement of certain forms is ‘taken to constitute written notice’.
+
+Hearings
+
+As  a  starting  point,  the  Government  proposes  that  regulators  should  be  able  to  conduct  hearings   without requirements for the parties being physically present provided:
+
+Ã¢ÂÂ¢ the highest standards of procedural fairness can be achieved;
+
+Ã¢ÂÂ¢ the parties have the fullest opportunity to obtain information, present their views and evidence  and to be represented;
+
+Ã¢ÂÂ¢ either:
+
+- if the hearing is not public, there are appropriate protections to ensure the confidentiality  of proceedings; or
+
+- if the hearing is public, the hearing is conducted in a way that allows members of the public  the same opportunity to witness the proceedings; and
+
+Ã¢ÂÂ¢ there is a clearly defined place for the hearing for jurisdictional purposes.
+
+Modernising Business Communications
+
+11
+
+This could be achieved by allowing  regulators to offer  options for  how a  hearing  is conducted (i.e.  in  person or  virtually).  One way that  regulators could satisfy the principles outlined above would be for   the regulator  to offer  options it  believes would best  suit  its purposes,  while also providing  regulated  entities with the most flexibility that can be afforded.
+
+Alternatively, the law could provide for physical meetings by default and afford the regulator with the  ability to offer alternatives provided that the regulator is satisfied that:
+
+Ã¢ÂÂ¢ There will be no disadvantage to the party; and
+
+Ã¢ÂÂ¢ Conducting the  hearing  in  person  is  not  practical  in  the  circumstances  or  would  result  in  a   significant delay.
+
+Case  study  4  Section 12GXF of the Australian Securities and Investments Commission Act 2001 allows a person who has  been given an infringement notice to make written representations to ASIC within 28 days seeking withdrawal  of the notice.
+
+Applying the proposed principles to the section would involve making amendments to the legislation to clearly  allow ASIC to receive the representations electronically, provided ASIC consents to this.
+
+Case  study  5  Division 6 of Part 3 of the Australian Securities and Investments Commission Act 2001 deals with hearings.  While these provisions do not state that hearings must be conducted in person, section 57 provides that there  must be a place for the hearing and section 59, which regulates the conduct of proceedings, excludes powers  that would clearly permit physical presence to be dispensed with.
+
+As a result, in practice hearings are typically conducted at a single physical location which leads to higher costs  for attendees of hearings.
+
+Applying the proposed principles would involve making amendments to the Act to clarify that a hearing could  be conducted without the parties being physical present, provided that the highest standard of procedural  fairness is maintained.
+
+
+
+
+
+
+
+Modernising Business Communications
+
+12
+
+Signatures   Laws requiring a signature generally require the signee to physically sign documents as a statement of  both their identity and agreement to the terms outlined in the document. Treasury portfolio legislation  includes many obligations requiring a physical signature.
+
+There are provisions in Treasury laws that still require a physical signature and do not allow for the use  of electronic means of identification and verification of agreement,  most  notably in the Corporations  Act 2001 as the Act is exempt from the application of the ETA.
+
+There are also other requirements connected to signatures, including that the signature be witnessed.  While such requirements are less common,  they can require the witness to be physically present  for   the signing of the document.
+
+Earlier  this year,  the Government  provided temporary relief for companies to electronically execute  documents  as  part  of  the  COVID-19  economic  response. 4 This  allowed  companies  to  execute   documents without a seal or physical signature.
+
+The Government has also recently consulted on exposure draft legislation, which proposes permanent  amendments to the regulatory requirements related to the execution of documents for companies in  section 127 of the Corporations Act 2001, and the use of electronic means to sign documents related  to a meeting or the external administration of a company in Chapters 2G and 5 of the Corporations Act  2001. 5
+
+Policy Goals  The purpose of signature and witnessing  requirements are to ensure the objectives of identification  and confirmation of agreement can be met. In the past, this has been done through the signing  of a   hard copy document, which for  higher  risk transactions has been physically witnessed. However, the  growth in digital technology and security provides for the use of electronic means of achieving  these  objectives while improving efficiencies and reducing costs compared with physical signatures.
+
+Online  methods  of  verifying  identity  and  confirming  agreement  are  now  readily  available  and  used  extensively, providing  the same or  higher  levels of assurance.
+
+Proposed Principles  As a starting point, the Government proposes adopting an overarching principle that technology may  be used to verify a person’s identity and receive their agreement, provided that the electronic method  used provides at least the same level of validity as a physical signature.
+
+Following the precedent of section 10 of the Electronic Transactions Act 1999, the proposed principles  are:
+
+Ã¢ÂÂ¢ ensuring that the electronic method of signature provides, at least, an equally reliable indication of  the person’s identity and their intention in respect of the document; and
+
+Ã¢ÂÂ¢ where a signature is given to an individual or  a  business,  that  individual or  business must  consent   to the use of that method to verify identity and receive agreement.
+
+
+
+4  Corporations (Coronavirus Economic Response) Determination (No. 1) 2020;  Corporations (Coronavirus  Economic Response) Determination (No. 3) 2020  5  For further information relating to the consultation process on the regulatory requirements related to the  execution of documents during COVID-19 please visit the Select Committee on Financial Technology and
+
+Regulatory Technology September 2020 interim report.
+
+Modernising Business Communications
+
+13
+
+In considering how these principles are applied to provisions, consideration should also be given to the  regulatory costs for  businesses and individuals to comply and  risks,  for  example,  with  the  consent   requirement.
+
+Case  Study 6
+
+Regulation 6.17A of the Superannuation Industry (Supervision) Regulations 1994 provides  that the rules of a  superannuation fund may permit a member of the fund to give notice requiring the trustee of the fund to  provide any benefits held in the fund in respect of the member to the member’s  legal  representative or  dependent of the measure in the event of the members death.
+
+This notice, referred to as a binding death benefit nomination, must, among other things, be signed by the  member. As the Superannuation Industry (Supervision) Regulations 1994 is exempt from the application of the  ETA, this requirement can only be satisfied by providing a physical signature.
+
+Applying the proposed principles could involve removing the current exemption to the ETA from the Electronic  Regulations 2020, allowing the use of alternative forms of identity verification and agreement. Importantly,  any alternative form adopted must provide a clear indication that the signatory has understood and assented  to the nomination and address risks of fraud or misuse.
+
+Note: The ETA provides an option for the use of electronic communication to satisfy obligations under  Commonwealth law. The ETA does not compel or mandate the use of electronic communications by a  government body or regulator.
+
+
+
+
+
+
+
+Modernising Business Communications
+
+14
+
+Record-Keeping Requirements  Various provisions across Treasury portfolio laws require entities to record or retain information. Many  of these provisions create an obligation to record or retain certain information without specifying how  this  information  is  to  be  held.  However,  some  provisions  require  information  to  be  recorded  or   retained in writing. For example, section 286 of the Corporations Act 2001 requires entities to keep  written financial records for a period of seven years.
+
+For  most  Commonwealth  laws,  section  12 of the ETA provides that  a  requirement  for  a  person to  record or retain information in writing is taken to have been met if the person records or retains the  information in electronic form. This applies generally to Commonwealth laws unless an exemption to  the ETA is requested by the responsible agency. Section 12 allows the person to record the information  using technology most appropriate to them including new technologies such as blockchain. However,  a  number  of  Treasury  Acts,  including  the  Corporations Act  2001 and most  of  the Superannuation  Industry (Supervision) Act 1993 are exempt from the ETA.
+
+Policy Goals  The policy goal of requiring information to be retained is to ensure that the information can be readily  accessed in the future for a variety of regulatory and evidentiary purposes.
+
+A technology neutral approach to achieving  this policy goal would avoid prescribing  the manner  in   which information is recorded or retained. Instead, it would prescribe the outcome of having both the  information being  held in a  form that  is able to be readily accessed in the future if needed and the  integrity of the information being maintained when it  is recorded and stored.  This  provides  entities   with greater ease and flexibility in regard to how they engage and comply with the relevant law.
+
+This outcome is generally given effect  across Commonwealth legislation by the ETA but not for some   Treasury portfolio laws, as they are exempt from the application of the ETA.
+
+Proposed Principles  As a starting point, the Government proposes that written records are able to be stored by any means  as long as:
+
+Ã¢ÂÂ¢ The information is readily accessible, in a format that can be easily reused; and,
+
+Ã¢ÂÂ¢ Where the integrity of the information can be maintained over a relevant period.
+
+The  Government  is  not  considering  any  changes  to  the  policy  underpinning  record-keeping  requirements through this process,  which  is  proposing  that  requirements for written records to be  created or retained would be satisfied by making  or  holding  information in a  physical,  electronic or  other form.
+
+In general,  this could be achieved by removing  the current  exemptions to the ETA which are in place  for  certain  provisions  of  Treasury  laws,  so  that  the  ETA  applies  to  those  laws. The  ETA  provides  a   well-established  and  robust  model  for  a  technology  neutral  approach  to  recording  and  retaining   information in Treasury portfolio laws.
+
+The  application  of  section  12  of  the  ETA  to  requirements  to  retain  documents  and  electronic   communication is  conditional  on  the  information being  recorded or  retained in a  method that  will  maintain  its  ‘integrity’.  In this context, ‘integrity’ means  that  the  information  is  maintained  in  a   substantively complete and unaltered form.
+
+The application of section 12 is also conditional on the information being  recorded or  retained in a   manner such that it would be reasonable to expect  that  the information would be readily accessible
+
+Modernising Business Communications
+
+15
+
+so as to be useable for  subsequent  reference. Given that electronic technology is ever evolving and  can potentially fail, this condition is framed as an objective point  in time test.
+
+Case  study  7  Regulation 13.18AA of the Superannuation Industry (Supervision) Regulations 1994 prescribes how certain  kinds of assets held by self-managed superannuation funds can be used or stored. Broadly, these assets  include artwork, jewellery, antiques and similar items.
+
+Among other things, it requires trustees to make written records of decisions about the storage of these assets  and retain these records for at least 10 years.
+
+As the Superannuation Industry (Supervision) Regulations 1994 is exempt from the application of the ETA, this  requirement can only be satisfied by a physical written document. This approach can be costly and imposes a  greater regulatory burden than if the person was able to record and store the information electronically.
+
+
+
+
+
+
+
+Modernising Business Communications
+
+16
+
+Payment Methods  Payment  methods  have  changed  significantly  over  the  last  several  decades.  Technological   improvements coupled with the globalisation of trade and commerce have driven a  dramatic  shift   toward faster, digital forms of payment. In Australia, this has been evidenced by monthly debit card  transactions rising  from about  150 million per  month as recently as 2011,  to nearly 600 million per   month by 2019. More broadly, total card transactions (including credit and other card payments, such  as gift cards) totalled almost 850 million per month in 2019. Meanwhile, the use of cash continues to  decline — the proportion of in-person payments made using cash has fallen from nearly 75% in 2007  to  about  30%  in  2019.  The  use  of  cheques  also  continues  to  decline.  Today,  only  around  0.2%  of   payments are made with cheques (see Figure 1), and this is expected to continue to decline due to the  rise of more accessible and efficient payment methods.
+
+Figure 1: Declining Use of Cheques as a Method of Payment
+
+
+
+Source: Reserve Bank of Australia
+
+Legislation has historically taken different approaches to payment provisions. In some cases, legislation  has  specified  what form  payment  to  or  by  government  or  other  parties  should  take.  For  example,   cheques  were  historically  common  forms  of  payment  for  certain  payments  to  or  from  government,   which  several  provisions  across  the  Treasury  portfolio  laws  still  provide  for.  Nevertheless,  in other   areas,  government  payments have changed with the times — Medicare payments, for example, are  now commonly electronic. With continuing technological change, it is likely that payment methods will  change further.
+
+Treasury legislation currently contains many provisions regarding payments. The most common  provisions are simple requirements for payment to be made, without prescribing the manner in  which the payment can be made, or the form the payment can take. However, a small number either  prescribe the means of payment or permit it to be prescribed by an entity (usually a Commonwealth  regulator).
+
+There is scope to modernise legislation and instead make legislation neutral for payment methods.  This would allow the Commonwealth to make and receive payments using the easiest and most  efficient methods available, both for payers and payees, including as payment methods change over  time. Some stakeholders have expressed the view that certain provisions require them to accept  certain payment methods and, as a result, offer those payment options at significant cost relative to
+
+0
+
+0.2
+
+0.4
+
+0.6
+
+0.8
+
+1
+
+1.2
+
+2007 2010 2013 2016 2019
+
+Share of consumer payments (%)
+
+Year
+
+Modernising Business Communications
+
+17
+
+their use. As such, there may be a rationale to clarify whether these provisions are working as  intended and remain appropriate.
+
+
+
+Examples
+
+One example of a restriction related to payment in Treasury legislation exists in paragraph 254P(2)(c) of the  Corporations Act 2001.
+
+254P  No liability companies—calls on shares
+
+Notice of call
+
+(2)  At least 7 days before a call on shares in a no liability company becomes payable, the  company must give the holders of the shares notice of:
+
+(a)  the amount of the call; and
+
+(b)  the day when it is payable; and
+
+(c)  the place for payment.
+
+The notice must be sent by post. If the notice is not given, the call is not payable.
+
+This provision requires that, prior to a call on certain shares becoming payable, the company must notify the  shareholders of a number of matters, including the place for payment. This implicitly requires that there must  be a physical place at which payment can be made.
+
+For completeness, it should also be noted that the provision also prescribes the manner of the communication  by specifying that notice must be provided by post in a way that is not technology neutral.
+
+Another example exists in subsection 32(2) of the Small Superannuation Accounts Act 1995.
+
+32  Deposit form may deal with multiple payments
+
+Method of payment
+
+(2)  If a deposit form deals with 2 or more payments made by the same person, the person  may give the Commissioner of Taxation, in respect of the sum of the payments:
+
+(a)  one or more valid cheques; or
+
+(b)  one or more money orders; or
+
+(c)  cash; or
+
+(d)  any combination of the above.
+
+If the person does so, this Act has effect as if the person had given the Commissioner of Taxation a  separate cheque for each of the payments.
+
+This provision requires that payment in relation to a deposit form containing two or more payments by the  same person must be made by cheque, money order, cash or a combination of those forms of payment.
+
+The Government is separately reviewing the regulatory architecture of the Australian payments  system to ensure the payments system remains fit for purpose and is capable of supporting  continued innovation for the benefit of both businesses and consumers. This review is due to report  to the Treasurer by April 2021.
+
+Policy Goals  Payment method neutrality would provide both the Commonwealth,  businesses and consumers with  flexibility in choosing  the most  accessible and efficient  payment  methods in different  circumstances.   There is a wide variety of payment methods available today that are not reflected across many existing
+
+Modernising Business Communications
+
+18
+
+legislative provisions.  There is therefore an opportunity to modernise the law and introduce greater   flexibility.
+
+However, notwithstanding legislative provisions, some businesses and consumers prefer to use certain  payment  methods  out  of  habit  and  familiarity,  and  may  struggle  to  transition  to  other  payment   methods in the short-to-medium term.  In other  instances,  some consumers have indicated they are  forced to use certain payment methods because of a lack of alternatives. For example, consumers with  limited internet access may struggle to use digital forms of payment.
+
+Proposed Principles  As a starting point, the Government proposes that, the law should only prescribe or restrict the means  by which a payment is made where this achieves a policy outcome.
+
+More generally, a technology neutral approach to legislation would require that legislative provisions  do  not  mandate  any  particular  payment  method  (e.g.  payment  by  cheque,  bank  order  or  cash).   However,  there are circumstances where it may be appropriate  for  legislation  to  still  govern  how   certain payment methods are executed or regulated.
+
+Case  Study  8
+
+Section 32(2) of the Small Superannuation Accounts Act 1995 provides that certain payments to the  Commissioner of Taxation must, if they are dealt with in a single deposit form, be made by cheque, money  order, cash or a combination of these methods.
+
+This is not technology neutral — only payments made in that form will satisfy the requirements of the  legislation.
+
+
+
+
+
+Applying  the proposed principles would involve removing the specific references to forms of  payment and instead providing that payment may be made in any form acceptable to the  Commissioner of Taxation (the relevant regulator).
+
+
+
+
+
+Modernising Business Communications
+
+19
+
+Consultation questions  1. Do the business communication requirements in Treasury laws create a burden on business?  a. If  so,  what  categories  of  communication  (as  outlined  in  this  paper)  or legislative  provisions are creating a burden and should be prioritised for reform?
+
+b. Are  there  non-regulatory  requirements  that  inhibit  businesses,  consumers  or   regulators from using their preferred method of communication? If so, please provide  examples.
+
+2. What  is the cost  of complying  with the current  regulations? Please provide a  breakdown of   costs and an indication of the frequency at which these communications occur.  a. Would these costs be reduced if the law was technology neutral? Please provide a   breakdown of any anticipated savings and any non-monetary benefits.
+
+
+
+3. Do you agree with the categories of communication outlined in the consultation paper?  a. Are there other types of business communication that should be considered?  b. Do you agree with the proposed principles outlined in the consultation paper  or  are  there additional or  alternative principles that  should be considered?  c. What, if any, barriers would restrict implementation of the proposed principles?
+
+
+
+4. How could stakeholders (such as consumers and investors) benefit  or  be disadvantaged from  greater technology neutrality in Treasury laws? Please provide any relevant data, if available.
+
+5. Which of the options identified on page 3 do you consider  would provide the biggest  benefits   while appropriately managing risk?
+
+6. If technology neutral reforms are introduced, what should businesses do to manage the impact  of these changes, to ensure that benefits are realised and disadvantages overcome?
+
+7. What  transitional issues do you foresee for businesses,  consumers and regulators in moving  to technology neutral communication methods?  a. What are the key implementation risks and their likelihood of occurring? How can we  mitigate these risks? Please provide examples.
+
+Modernising Business Communications
+
+20
+
+Appendix A: International Reform Processes  International jurisdictions such as the European Union (EU), New Zealand (NZ), the United Kingdom  (UK) and United States (US) have recently undertaken a range of changes to facilitate the modernising  of business communication methods within their respective jurisdictions with some of these changes  in response to COVID-19.
+
+Written communications  The EU, 6 UK, 7 NZ 8 and US 9 all have laws that electronic forms will satisfy legal requirements relating to  written communications.
+
+Communicating with regulators  The EU applies ‘single digital gateway’ regulation that allows citizens and businesses to conduct a range  of  regulatory  exchanges  entirely  online. 10 The  single  digital  gateway  embodies  the  ‘tell  us  once’  principle. NZ provides that any requirement in writing can be satisfied electronically. 11 The UK 12 and  US13 have both expanded the amount  of documents that  can be lodged electronically in response to  COVID-19.
+
+Signature requirements  The EU, 14 NZ 15 and UK16 allow for the use of digital signatures in most circumstances whereas the US, 17  provides digital signatures with the same legal equivalence as physical signatures.
+
+
+
+6  ‘Council directive 2000/31/EC on certain legal aspects of information society services, in particular  electronic commerce, in the Internal Market (‘Directive on electronic commerce’)’ Official Journal of the  European Union L178
+
+7  Law Commission, Electronic execution of documents (law Com No 386, 2019)  8  Contract and Commercial Law Act 2017 s222  9  The Uniform Electronic Transactions Act 1999  10  ‘Regulation 2018/1724 establishing a single digital gateway to provide access to information, to
+
+procedures and to assistance and problem-solving services and amending Regulation (EU) No 1024/2012’  Official Journal of the European Union L295/1  11  Contract and Commercial Law Act 2017 Part 4 Electronic transactions  12  James Lewis and Bhavul Haria, ‘Coronavirus — a guide to electronic signatures during the COVID-19 UK
+
+lockdown’, May 2020,  https://www.fieldfisher.com/en/insights/a-guide-to-electronic-signatures-during-coronavirus, (accessed  27/10/2020)   13  U.S. Securities and Exchange Commission, ‘SEC Provides Additional Temporary Regulatory Relief and  Assistance to Market Participants Affected by COVID-19’, March 2020,  https://www.sec.gov/news/press-release/2020-74. (accessed 27/10/2020)  14  Andrew Liptak, ‘The European Union is updating its electronic signature laws’, June 2016,  https://www.theverge.com/2016/6/30/12066886/eu-european-union-electronic-signature-laws-eidas,  (accessed 27 October 2020)  15  Duncan Cotterill, ‘Electronic signatures — when can I use them and when can’t I?’, March 2020,  https://duncancotterill.com/publications/electronic-signatures -when-can-i-use-them-and-when-cant-i,  (accessed 27 October 2020)  16  Pippa Whitmore, ‘E-signatures in England and Wales’, July 2020,  https://www.pinsentmasons.com/out-law/guides/e-signatures-england-wales , (accessed 27/12/2020)  17  The Uniform Electronic Transactions Act 1999
+
+Modernising Business Communications
+
+21
+
+Record-keeping documents  The UK, 18 US, 19 and NZ, 20 all allow for the use of electronic storage of records.  The EU has enacted  electronic commerce legislation, which includes provisions relating to record-keeping. 21
+
+
+
+18  Companies Act 2006 s1135  19  The Uniform Electronic Transactions Act 1999   20  Contract and Commercial Law Act 2017 s223  21  J. Benjamin Lambert, ‘The U.N. convention on electronic contracting: back from the dead?’, 2017,
+
+https://digitalcommons.law.msu.edu/cgi/viewcontent.cgi?article=1214&context=ilr, Michigan State  International Law Review
+

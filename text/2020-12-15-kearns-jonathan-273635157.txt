@@ -1,0 +1,344 @@
+12/16/2020 Banking and the COVID-19 Pandemic | Speeches | RBA
+
+https://www.rba.gov.au/speeches/2020/sp-so-2020-12-15.html 1/10
+
+Speech
+
+Banking and the COVID-19 Pandemic
+
+Jonathan Kearns   Head of Financial Stability
+
+Speech to UNSW's 33rd Australasian Finance and Banking Conference  Sydney - 15 December 2020
+
+It's a pleasure to be speaking to this conference again, although it is a shame it can't be in person.
+
+So much has changed since I spoke to the conference 12 months ago.  Last year I highlighted 3 challenges facing the banking sector: (i) the increase in the availability and use of ‘big data’, and competition from fintechs and big techs; (ii) tighter regulation potentially leading to dis-intermediation; and (iii) community expectations on banks' behaviour.
+
+Not on my list was the biggest challenge banks now face: a pandemic.  We didn't know it then, but the latest evidence suggests that the virus that causes COVID-19 was already circulating at that time.
+
+We've now had the second major global recession in a bit over a decade. During the global financial crisis (GFC), what was initially a relatively small shock that originated from within the financial system was amplified by the financial system causing significant economic loss. In contrast, this time there has been a very large shock that was external to the financial system. An external shock would have exposed any weaknesses in the financial system. Yet banks have performed well so far through the pandemic, cushioning (rather than amplifying) the shock by continuing to lend and supporting households and businesses. Notably, in at least 55 jurisdictions banks have been able to defer loan repayments for borrowers affected by the pandemic.
+
+How the banking system has been affected by, and responded to, the early stages of the crisis has been very different this time. Spreads on banks' bonds provide one measure of banks' greater resilience. While bank bond spreads peaked at almost double the spread on corporate bonds in the GFC (from similar spreads pre-crisis), this time around the peak in bank bond spread was only a little bit larger than for corporate bonds (again from similar spreads pre-crisis) (Graph 1).
+
+[*]
+
+[1]
+
+[2]
+
+12/16/2020 Banking and the COVID-19 Pandemic | Speeches | RBA
+
+https://www.rba.gov.au/speeches/2020/sp-so-2020-12-15.html 2/10
+
+The resilience of banks is the result of the wholesale reform of bank regulations that followed the GFC and the unprecedented policy actions taken this year by central banks and fiscal authorities.
+
+As I noted last year, the post-GFC reforms required banks to hold more capital and more liquid assets as well as generally reducing the complexity and riskiness of their operations (Graph 2). More capital enables banks to withstand larger credit losses. More high-quality liquidity assets (HQLA) enable banks to withstand larger liquidity shocks. Less complex and risky operations, including improved lending standards, mean banks' asset performance deteriorates less in response to shocks.
+
+Internationally, at the start of this year banks' Tier 1 capital ratios were around double what they were back in 2007. Relative to their assets, international banks' holdings of cash and cash equivalents had increased by about 40 per cent. These reforms were implemented to prevent banks exacerbating an economic downturn or financial disruption, including by contracting their lending.
+
+They've certainly helped.
+
+Graph 1
+
+Peak Corporate Bond Spreads A-rated, US dollar-denominated
+
+Financials Non-financials
+
+GFC * Covid - 19 **
+
+0
+
+200
+
+400
+
+600
+
+800
+
+bps
+
+0
+
+200
+
+400
+
+600
+
+800
+
+bps
+
+* Peak within one year of 1 June 2008 ** Peak in 2020 Source: S&P Global Market Intelligence
+
+12/16/2020 Banking and the COVID-19 Pandemic | Speeches | RBA
+
+https://www.rba.gov.au/speeches/2020/sp-so-2020-12-15.html 3/10
+
+But the resilience of the banking system up to now doesn't mean that risks have passed. We've had the largest contraction in global output since the Great Depression. And as that impairs some households' and businesses' ability to repay their loans, the liquidity phase of the crisis is giving way to a solvency phase.
+
+So what does this mean for the ‘future of banking’ in the COVID-19 era? In the remainder of my speech I want to focus on 2 new big challenges for Australian banks: (i) their resilience to a large economic downturn and (ii) the impact of low interest rates on their profits.
+
+Stress testing and the resilience of Australian banks Australian banks have strong balance sheets, much stronger than before the GFC. The average Tier 1 capital ratio for Australian banks has increased from 7½ per cent in 2007 to almost 14 per cent today (Graph 3). The quality of capital has also increased and all Australian banks have CET1 ratios that exceed their ‘unquestionably strong’ benchmarks set by the Australian Prudential Regulation Authority (APRA). Liquid asset holdings have also increased - the ratio of liquid assets to total assets has increased by one-quarter since 2007.
+
+Graph 2
+
+2007 2019
+
+Tier 1 capital ratio Liquidity ratio**
+
+0
+
+5
+
+10
+
+15
+
+%
+
+0
+
+5
+
+10
+
+15
+
+%
+
+International Banks’ Balance Sheets*
+
+* Weighted averages of large banks from Australia, Canada, Europe, Japan and the United States ** Cash and cash equivalents to total assets Source: S&P Global Market Intelligence
+
+12/16/2020 Banking and the COVID-19 Pandemic | Speeches | RBA
+
+https://www.rba.gov.au/speeches/2020/sp-so-2020-12-15.html 4/10
+
+Australian banks are also profitable. In 2019 the combined profits of the banking system were $34 billion and their return on equity, at 11 per cent, exceeds their cost of equity.  Indeed, most of the major banks' big increase in capital in recent years has been internally generated (Graph 4).
+
+Graph 3
+
+2016 2012 2008 2004 2020
+
+6
+
+8
+
+10
+
+12
+
+%
+
+3
+
+4
+
+5
+
+6
+
+%
+
+Major Banks’ Capital Ratios*
+
+Tier 1** (LHS)
+
+Leverage** (RHS)
+
+* Break in March 2008 due to introduction of Basel II; break in March 2013 due to introduction of Basel III ** Tier 1 capital as a per cent of risk-weighted assets; prior to 2015 leverage ratio is proxied by Tier 1 capital as a per cent of
+
+non-risk-weighted assets Sources: APRA; Banks’ Regulatory Disclosures; RBA
+
+[3]
+
+12/16/2020 Banking and the COVID-19 Pandemic | Speeches | RBA
+
+https://www.rba.gov.au/speeches/2020/sp-so-2020-12-15.html 5/10
+
+This balance sheet strength along with the low level of interest rates and regulatory accommodation has enabled Australian banks to provide loan repayment deferrals to households and small and medium businesses (SMEs). At the peak, 10 per cent of housing loans and 17 per cent of SME loans had deferred repayments. With the economic contraction less severe than initially feared, and the recovery underway, many borrowers have resumed loan repayments and now only a little over 3 per cent of both housing and SME loans have repayment deferrals. By hibernating the repayments of borrowers facing temporary liquidity strains, loan repayment deferrals avoided unnecessary household and business defaults, and the impairment to their balance sheets and adverse long-run effects. Loan deferrals also avoided the asset fire sales that can result from borrowers who are in or near default.
+
+However, it is important that loan repayment deferrals are temporary and are not used to hide problem loans. APRA has published detailed information on loan repayment deferrals by institution so that investors can accurately assess banks' financial health. APRA has also set an end date for the current regulatory treatment of loans with deferred repayments: after 31 March 2021 banks will have to revert to holding substantially more capital against loans that are deferred or fall behind on repayments; in the ball-park of 5 times more capital.
+
+Another way to assess the financial health of banks is through stress tests. Stress testing gained prominence in the GFC and has been an important tool for central banks and prudential regulators to understand the resilience of banks to the COVID-19 shock. One specific use of stress testing has
+
+Graph 4
+
+Retained earnings Dividend reinvestment plans New issuance Deductions and other
+
+2018 2016 2014 2020
+
+-20
+
+0
+
+20
+
+40
+
+60
+
+80
+
+$b
+
+-20
+
+0
+
+20
+
+40
+
+60
+
+80
+
+$b
+
+Major Banks’ Common Equity Capital Cumulative increase since March 2013
+
+Sources: APRA; ASX; RBA
+
+12/16/2020 Banking and the COVID-19 Pandemic | Speeches | RBA
+
+https://www.rba.gov.au/speeches/2020/sp-so-2020-12-15.html 6/10
+
+been to project banks' capital position under various scenarios and so inform policies and banks' own decisions regarding capital distribution. The Reserve Bank has a top-down stress test model, which uses balance sheet data for 9 banks (supplemented with other data such as our dataset of securitised mortgages).  A substantial advantage of top-down stress testing models is that they can be used quickly and efficiently to consider a range of scenarios, and that has been especially useful given the rapidly changing conditions this year.
+
+The stress testing model uses calibrated and assumed relationships between macroeconomic variables and various components of banks' balance sheets to assess how banks might fare in various economic scenarios. For example, the model simulates how different loan portfolios perform for a given fall in GDP and property prices and increase in the unemployment rate. The resulting credit losses result in lower profits and so affect the projections of bank capital. Another important element of the model is projecting how risk weights change with economic conditions.
+
+But we can't forget that all models are simplifications. By definition they can't capture all nuances and so they will be wrong by some margin. A big challenge in the current environment is that we're extrapolating to very extreme events for which we don't have data from comparable historical precedents in Australia. So there is lots of uncertainty. Our own model is continuously undergoing development, especially this year.
+
+Using the projections for GDP and the unemployment rate from the November Statement on Monetary Policy, and adding an assumption about property prices, we can project banks' capital ratios in a couple of scenarios.
+
+In the baseline scenario, GDP is around 4 per cent below its peak by December 2020 and the unemployment rate is close to 8 per cent with housing prices around 2 per cent below their peak.
+
+This results in the major banks' CET1 ratios falling by around 60 basis points. To put this in perspective, the major banks all have management capital buffers of at least 300 basis points over and above their 350 basis point regulatory buffer (capital conservation buffer and domestically systemically important bank buffer). Notably, over 90 per cent of the decline in the CET1 ratio comes from increased risk weights. Only a small part comes from credit losses.
+
+In the downside scenario, GDP is 5 per cent below its peak by year-end and recovers more slowly, the unemployment rate peaks later, at close to 9 per cent, and there is a 20 per cent assumed peak-to-trough fall in housing prices. Even with these more adverse economic outcomes, the major banks' CET1 ratios are projected to decline by just 100 basis points. While credit losses are larger in this scenario, the increase in risk weights still account for over two-thirds of the decline in banks' CET1 ratios. These results are consistent with the stress testing results released this morning by APRA, although not identical because our scenarios differ and there are differences in the models' specifications.
+
+While there is necessarily uncertainty around any stress testing results, they point to Australian banks being very resilient. Intuitively, why is this? Even if the probability of default increases substantially, 60 per cent of banks' loans are mortgages and current (i.e. ‘dynamic’) loan-to-valuation ratios (LVRs) are not high reflecting moderate initial LVRs, the accumulation of scheduled and excess
+
+[4]
+
+[5]
+
+12/16/2020 Banking and the COVID-19 Pandemic | Speeches | RBA
+
+https://www.rba.gov.au/speeches/2020/sp-so-2020-12-15.html 7/10
+
+loan repayments, and property price growth.  So loss-given-default is not extreme even with large housing price falls. Commercial real estate (CRE) exposures, which often cause large losses, are relatively small at Australian banks, at just 6 per cent of assets (down from 11 per cent during the GFC, and even higher shares in the 1980s and 1990s). In addition, LVRs for CRE are typically just over 50 per cent and loans for property development require a substantial share of pre-sales.
+
+The impact of very low interest rates on banks' profits That brings me to the second issue I want to discuss: the impact of an extended period of very low interest rates on banks' profits, and so their ability to generate capital. In essentially all advanced economies, short-term interest rates - and even longer-term sovereign yields - are close to zero or even negative. In Australia, the Reserve Bank has set targets for the cash rate and 3-year Australian Government bond yield of 10 basis points, and even 10-year Australian Government bonds yield just 1 per cent. Interest rates are likely to remain low for some time. As the Governor has said, the Reserve Bank Board is not expecting to increase the cash rate for at least 3 years.
+
+Internationally there has been a lot of focus on the impact of very low interest rates on banks' profits given some economies have had very low rates since the GFC.
+
+In thinking about the impact of very low interest rates on banks' profits it is important to consider why rates are low. Central banks cut their policy rates to exceptionally low levels in the GFC and during the current pandemic because of large negative shocks to output that resulted in significant spare capacity. If interest rates were not cut to exceptionally low levels, then output would have been even weaker, loan portfolios even more stressed and banks would have incurred larger credit losses. So the first thing to note about low interest rates is that they indirectly contribute to higher banking profits by stimulating economic activity.
+
+But low interest rates contribute to lower banks' profits in other, more direct, ways. Almost all of banks' assets earn interest, but some liabilities - equity and transaction deposits - pay little or no interest. So if the return on banks' assets moves with the cash rate, lower interest rates will tend to reduce the total interest earned by more than total interest paid.
+
+Banks also adjust their pricing and the composition of their balance sheet in response to structural changes such as low interest rates. In particular, internationally some banks have increased their fee income, reduced their operating costs or, where they can, repriced their margins on loans and deposits. Regulatory changes after the GFC unrelated to low interest rates resulted in banks holding more low-yielding HQLA and generally de-risking their balance sheets, and so contributed to lower bank profits.
+
+Ultimately, then, the net effect of low interest rates on banks' profits is an empirical question.
+
+Studies focus on the direct effects. Globally they tend to find that a reduction in interest rates results in lower profits because they reduce net interest income. A 100 basis point fall in short-term interest rates is generally found to reduce the return on assets by 5-10 basis points after about one year (although some studies find larger estimates, and a few find negligible effects).  There is some evidence that this effect is somewhat larger when interest rates are low. To emphasise my earlier
+
+[6]
+
+[7]
+
+[8]
+
+12/16/2020 Banking and the COVID-19 Pandemic | Speeches | RBA
+
+https://www.rba.gov.au/speeches/2020/sp-so-2020-12-15.html 8/10
+
+point, this is the direct effect, controlling for GDP, and does not include any positive effects that operate indirectly through the impact lower rates have on GDP.
+
+The impact on banks' profits can also depend on the length of time that interest rates remain low.
+
+Some banks, particularly in Australia, have interest rate hedges, which smooth profits and so delay the reduction in profit from falls in interest rates. Separately, if long-term interest rates are also low, say because short rates are expected to be low for an extended period (or the term premium is low), the impact on banks' profits is typically found to be larger.
+
+Banks generally fund long-term loans with short(er)-term liabilities and so a flat yield curve depresses the return on their assets relative to their liabilities. This second effect is less of an issue in Australia because around three-quarters of Australian banks' assets are variable rate loans that are funded with variable rate deposits and other debt. This suggests that changes in interest rates might have less of an effect on Australian banks' profits.
+
+Interest rates in Australia did not reach the very low levels they got to in other economies in the GFC. And they have been higher than in most advanced economies since then. So very low interest rates haven't been a constraint for Australian banks' profits to the extent they have been in other countries. But with risk-free interest rates out to 3-year terms around 10 basis points, and the cash rate not expected to rise for 3 years, very low rates will increasingly influence Australian banks' profits. But should we expect a similar impact as has been estimated internationally?
+
+One factor that might reduce the impact of very low interest rates on Australian banks' profits is the composition of liabilities. The major Australian banks source one-third of their funding from wholesale markets, which is a larger share than for many international banks. The cost of wholesale funding is not constrained by a ‘zero lower bound’ in contrast to what has been observed for deposit interest rates internationally. While the small Australian banks have a larger share of deposit funding than large banks, 80 per cent vs 60 per cent, much of this is higher-cost deposits (term deposits and saving accounts) on which the interest rate has declined as the policy interest rate has been reduced. In addition, total funding costs are being pushed down by the Reserve Bank's Term Funding Facility (TFF).  The TFF provides banks with 3-year funding equal to at least 5 per cent of their credit outstanding with new drawings costing the cash rate.  This is less than the cost of a 3-year bank bond, even after the fall in bank bond yields given reduced issuance with ample deposit funding and the TFF.
+
+Another factor that could reduce the impact of very low interest rates on Australian banks' profits is that they have little interest rate risk. APRA (unlike other regulators) requires banks to include interest risk on the banking book in the calculation of risk weights.  This provides a strong incentive to match the repricing tenor of assets and liabilities or hedge the interest rate risk. The major banks are required to hold capital to cover 97.5 per cent of losses from movements in interest rates. As an example, imagine a 300 basis point increase in interest rates across the yield curve. The potential loss on a 5-year fixed rate $100 asset would be around $10-$15 (using a simpler model than banks would apply in practice). If there was no offsetting interest rate positions elsewhere in a bank's book, they would be required to hold $10-15 in capital against this potential loss.
+
+[9]
+
+[10]
+
+[11]
+
+12/16/2020 Banking and the COVID-19 Pandemic | Speeches | RBA
+
+https://www.rba.gov.au/speeches/2020/sp-so-2020-12-15.html 9/10
+
+Overall very low interest rates may well reduce Australian banks' profits, but possibly by less than for banks in other jurisdictions. Australian banks haven't faced very low rates for an extended period, but estimates for Australia by the Reserve Bank find that a 100 basis point downward shift in the yield curve lowers the return on assets by about 5 basis points after one year. These estimates are around the lower end of the range of estimates internationally, consistent with the intuition that the impact may be smaller.
+
+Conclusion To sum up, there is no doubt that the COVID-19 pandemic will be a test of banks. In Australia the economic shock is much larger than it was in the GFC and for many decades before that.
+
+But Australian banks are better prepared than they were prior to the GFC. Their much higher liquid asset holdings helped earlier this year. Banks are well capitalised. Importantly they have large buffers which are there to be used, not preserved, and will enable them to continue lending and supporting their customers, and so the economic recovery.
+
+Endnotes
+
+Thanks to Nick Garvin, Mark Hack, Sam Nicholls, David Norman and Callan Windsor for helpful comments and assistance.
+
+[*]
+
+Kearns J (2019), ‘Changes in Banking: Looking Back and Looking Forward’, speech to the Business Forum at the 32nd Australasian Finance and Banking Conference, Sydney, 16 December.
+
+[1]
+
+I use the term ‘banks’ in a general sense to cover small and large institutions doing banking business, i.e. all authorised deposit-taking institutions (ADIs).
+
+[2]
+
+The ROE of Australian banks has declined in recent years, reflecting that they are safer. [3]
+
+See RBA (2017), ‘Box D: Stress Testing at the Reserve Bank’, Financial Stability Review, October, pp 46-50. A top-down stress test differs from a ‘bottom-up’ stress test, which is conducted by banks using loan-level information.
+
+[4]
+
+See APRA [5]
+
+Lenders' mortgage insurance (LMI) also supports banks' capital, although LMI is partially discounted in the stress testing model.
+
+[6]
+
+See Lowe P (2020), ‘Statement by Philip Lowe, Governor: Monetary Policy Decision’, Media Release 2020-32, 1 December.
+
+[7]
+
+See, for example, Alessandri P and B Nelson (2015), ‘Simple Banking: Profitability and the Yield Curve’, Journal of Money, Credit and Banking, 4(1), pp 143-175; Altavilla C, M Boucinha and JL PeydrÃÂ³ (2018), ‘Monetary Policy and Bank Profitability in a low Interest Rate Environment’, Economic Policy, 33(96), pp 531-586; Borio C, L Gambacorta and B Hofmann (2017), ‘The Influence of Monetary Policy on Bank Profitability’, International Finance, 20(1), pp 48-63); Classens S, N Coleman and M Donnelly (2018), ‘‘Low-for-Long’ Interest Rates and Banks’ Interest Margins and Profitability', Journal of Financial Intermediation, 35(Part A), pp 1-16; and Bikker, JA and TM Vervliet (2018), ‘Bank Profitability and Risk-Taking under Low Interest Rates’, International Journal of Finance and Economics, 23, pp 3-18.
+
+[8]
+
+12/16/2020 Banking and the COVID-19 Pandemic | Speeches | RBA
+
+https://www.rba.gov.au/speeches/2020/sp-so-2020-12-15.html 10/10
+
+The materials on this webpage are subject to copyright and their use is subject to the terms and conditions set out in the Copyright and Disclaimer Notice.
+
+Â© Reserve Bank of Australia, 2001-2020. All rights reserved.
+
+The Reserve Bank of Australia acknowledges the Aboriginal and Torres Strait Islander Peoples of Australia as the Traditional Custodians of this land, and recognises their continuing connection to Country. We pay our respects to their Elders, past, present and emerging.
+
+The TFF provides 3-year funding to ADIs for 5 per cent of their Total Credit Outstanding to Australian resident households and (non-related) businesses plus an additional allowance that depends on the volume of their new business lending. At initiation in April 2020 it was charged at 0.25 per cent, but this was reduced to 0.1 per cent on new TFF drawdowns from 3 November 2020. For details see RBA (2020), ‘Term Funding Facility to Support Lending to Australian Businesses’, rba.gov.au site. Available at .
+
+[9]
+
+All banks pay the same amount for the TFF. In effect it is cheaper funding for smaller banks that tend to have higher funding costs.
+
+[10]
+
+That is, APRA have a Pillar 1 capital requirement for non-traded interest rate risk. Prudential regulators in some other countries require banks to hold additional capital as part of Pillar 2 and for Pillar 1 for traded securities.
+
+[11]
+

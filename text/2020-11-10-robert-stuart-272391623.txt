@@ -1,0 +1,214 @@
+
+
+
+
+The Hon Stuart Robert MP  Minister for the National Disability Insurance Scheme  Minister for Government Services
+
+SPEECH
+
+10 November 2020
+
+Keynote address to the Digital Transformation Agency
+
+Digital Summit 2020
+
+Digital government: delivering in the post-COVID
+
+world
+
+
+
+E&OE--------------------------------------
+
+
+
+Introduction
+
+Good morning everyone!
+
+Thank you for joining us today for the DTA Digital Summit.
+
+Whether you are in your office or living room, in a workplace or even somewhere in quarantine,  it’s great to see you taking part in the Digital Summit at this crucial time.
+
+Albert Einstein said: “The world as we have created it is a process of our thinking. It cannot be  changed without changing our thinking.”
+
+And now the world is at a critical injunction which requires us to change our thinking in order to  shape its future.
+
+
+
+The COVID-19 pandemic has made life tough for a lot of Australians.
+
+In response to this extraordinary crisis, the Morrison Government has committed unprecedented  support, saving lives and helping Australians stay in work.
+
+Now is the time to rebuild our economy and secure Australia’s future, and accelerating digital  transformation is going to play a crucial role.
+
+Today I will cover 3 topics:  1. Role of technology in the pandemic response  2. The progress of digital transformation strategy over the last 12 months; and  3. The future of digital transformation
+
+
+
+1. Role of technology in the pandemic response
+
+Let me start with the role of technology in the pandemic response.
+
+Since my appointment as Minister for the National Disability Insurance Scheme and Minister for  Government Services, we have been working hard across Services Australia, the National  Disability Insurance Agency and the Digital Transformation Agency driving a complete  transformation of our business.
+
+As part of that transformation, we have put in place a new leadership team, doubled down on the  role of technology and, most importantly, reoriented the culture from processing claims and  payments to delivering a delightful customer experience.
+
+This involved empowering our tremendous front line staff to do what they do best: help our  customers when they need it most.
+
+So coming into COVID we had the structures and the culture to meet this moment.
+
+As a government, we acted early and decisively, making swift decisions that have protected  Australians from the health and economic disasters faced by other nations.
+
+In late-March, following the decisions made by National Cabinet to close cafes, restaurants,  gyms and so many parts of our economy, we saw a scaling up of government services to support  Australians not seen in the history of this country.
+
+To give you an idea about what has been achieved:  Ã¢ÂÂ¢ Over 55 days, Services Australia implemented 50 policy changes to 20 payments on  behalf of numerous Government Departments;  Ã¢ÂÂ¢ We added almost 300 new services to the Medicare Benefits Schedule;  Ã¢ÂÂ¢ We deployed “office in a box” technology equipment for tens of thousands of staff so
+
+they could continue to serve our customers remotely;
+
+Ã¢ÂÂ¢ We increased the capacity of myGov over 30 fold, so it now operates at the highest levels  of performance, handling millions of logins a day.  Ã¢ÂÂ¢ We leveraged smarter technology to register hundreds of thousands of Australians for  online services without them having to leave their homes  Ã¢ÂÂ¢ And we’ve embedded those improvements through our digital transformation so people
+
+looking for support today get it faster and more easily.
+
+We also managed the broader government technology response to the pandemic:  Ã¢ÂÂ¢ DTA launched a new Australia.gov.au website that quickly became the go-to information  source for millions of Australians, alongside the Coronavirus Information App and the  WhatsApp channel that provided trusted, reliable information and advice to Australians.   Ã¢ÂÂ¢ Australia was one of the first countries to implement a fully digital contact tracing
+
+solution that integrates seamlessly with our world leading manual contact tracing  program.  Ã¢ÂÂ¢ The original CovidSafe app was developed in three weeks in Australia by our team and  partners.  Ã¢ÂÂ¢ It has since been updated many times to ensure better performance, security and
+
+accessibility for users.  Ã¢ÂÂ¢ Today, the CovidSafe app has over 7.1m registered users, is available in 10 languages  and has been used to find hundreds of close contacts not found through manual contact
+
+tracing efforts.  Ã¢ÂÂ¢ Every contact identified makes a significant difference in stopping the spread of COVID-19.  Ã¢ÂÂ¢ As we continue to manage our response the virus we still need Australians to download
+
+COVIDSafe and keep it up to date as we roll out additional improvements.
+
+The speed and scope of what has been achieved was only possible because we went digital first.   This is why we aren’t slowing down our digital transformation efforts. In fact, we’re accelerating  them.
+
+Which brings me to the second topic:
+
+2. Progress of the Government’s Digital Transformation Strategy
+
+Last year, I gave an update on the Digital Transformation Strategy’s first twelve months of  achievement, including the delivery of 73 initiatives to improve Australians’ experience of  government services.
+
+In the last 12 months, the Strategy has delivered significant, tangible benefits, including  advancing digital identity and implementing whole of government platforms, and I’ll expand on  both of these shortly.
+
+Our Digital Transformation Strategy Roadmap shows a substantial progress towards the delivery  of our 2025 goals.
+
+Most of all, it is underpinning the public service response to the pandemic and the drive to  deliver digital-first government, with a focus on simple, helpful, respectful and transparent  services, organised around the needs and circumstances of our customers rather than around the  systems and structures of government.
+
+Whole of Government Architecture
+
+This reorientation of services is founded on having the right approach, the right interconnected  platforms and the right processes across government.
+
+This is the purpose of the Whole of Government architecture approach, which will bring together  systems that are scalable and flexible for use by agencies across government and even across  tiers of government.
+
+In 2021, the Whole of Government Architecture taskforce, led by the DTA, will deliver a draft  Government Business Architecture that will provide a holistic Government Business Model  supported by architecture, platforms and a framework to drive and orchestrate cross-agency  services.
+
+This will give the government the ability to identify strategic capabilities as well as gaps and  make informed investment decisions across the entire technology portfolio.
+
+Platforms - Buy, build, or develop once and use many times.
+
+As part of this approach, the DTA is driving an APS-wide focus on identifying, sharing and  sourcing reusable platforms. This means buying, building or developing once and reusing many  times.  Right now, we have to approach a number of different providers for the end to end capabilities to  deliver on a platform, which takes time and money on both the government and the industry side.
+
+The DTA is leading work to streamline this process for agencies and industry.
+
+The creation of a Platforms Marketplace will provide guided procurement pathways and digital  sourcing advice to deliver platforms that are scalable, reusable and better value for money.
+
+Agencies seeking a solution will be able to assess existing government platforms for reuse and  bring providers together in a way that encourages local participation, flexibility, collaboration  and innovation.
+
+An example of this is the work the DTA is doing with Home Affairs to develop a new Whole of  Government Permissions platform.  This will initially deliver a modern visa and travel declaration processing capability.
+
+But we are doing this in a way that will be reusable by other agencies to deliver similar services,  for example import and export permits.
+
+This will make good use of the investment, speed up delivery of future services and provide a  more consistent experience for people and businesses.
+
+We will take a similar approach on other platforms in the period ahead, with the goal of having  interconnected services that work seamlessly with each other and make our engagement with  customers simple, helpful, respectful and transparent.
+
+myGov Beta
+
+This is the vision for the future of myGov.
+
+For many Australians, myGov has been their ‘go to’ site for their digital interaction with  government.  Last year, they logged on in their millions to get their tax refunds as a result of the Government’s  tax cuts.
+
+This year, it has played a crucial role in enabling Australians to access government support  during the pandemic. On our busiest day, myGov recorded over 4 million users - all successfully  lodging claims or conducting other business with government.
+
+Our vision for myGov is to make it a true front door for Government and deliver important  functionality like a government wallet, a home for trusted correspondence, a video appointment  service and safeguarded by a strong digital identity that makes accessing services a seamless  process for businesses and individuals.
+
+Importantly, myGov has to be able to respond fast to time-critical government policy decisions  and support their implementation for both businesses and individuals, whether it is Covid  vaccination status or national disaster assistance.
+
+To test this vision, in June 2020, we released the first Beta site of the new myGov. More than  3,000 pieces of user feedback and 126,000 site visits helped us develop Release 2, which went  live on the 20th of September and is focused on JobSeekers.
+
+We expect another release before the end of the year, which will bring in additional  improvements and the integration of Digital Identity.
+
+Digital identity
+
+As part of the Digital Business Plan, we are investing $256.6 million to advance the development  of the Digital Identity system to enable more secure and convenient engagement with  government services, and in the future, the private sector.
+
+Digital Identity provides people with choice in how they seek to access government services.  Over 1.75 million Australians and 1.2 million businesses use Digital Identity to access over 70  government services today.
+
+The Government’s investment will allow more people to connect to more services using Digital  Identity over the coming years.
+
+The expansion of digital identity will see state and territory government services connected to the  system for the first time.
+
+This is a significant step forward to transforming the way people and businesses choose to access  services online.
+
+With the passing of legislation governing private sector participation in the Digital Identity  system, we will also be able to make digital identity a truly whole of economy solution.
+
+The legislation will include additional safeguards and oversight to ensure all Australians will  have trust and confidence in the Digital Identity system as it is expanded to include state,  territory and private sector services.
+
+We will be developing the legislation with the input of the community in mind and I urge you all  to get involved in the consultation process.
+
+Sovereign Data Policy: Keeping your data safe and secure
+
+Every single piece of customer consultation we’ve done for every single application tells us loud  and clear that people want, above all, for their data to be safe and secure.
+
+The best platforms in the world and the most advanced technology will not work if Australians  don’t trust us to protect their data.
+
+This is why, in the period ahead, we will be introducing the Data Availability and Transparency  Bill, which provides significant safeguards for the use of data across government.
+
+In addition, as announced in July, the government is considering the sovereignty requirements  that should apply to certain data sets held by government, in addition to the existing Protective  Security Policy Framework. We are actively progressing these considerations in conjunction  with a number of other initiatives across the government to ensure that any new requirements are  consistent.
+
+3. The future of digital transformation
+
+Which brings me to the last topic: the future of digital transformation.
+
+It is clear, just from the few examples I have outlined, that we have made a tremendous amount  of progress on our Digital Transformation Strategy in the last 12 months.
+
+As announced in the 2020-21 Budget, we’re spending over $3.2 billion on digital and ICT-enabled proposals over the forward estimates, to help us reach our goal of all government  services being available digitally by 2025.
+
+
+
+At the same time, the pandemic brought millions of Australians into contact with government,  and due to social distancing restrictions, it became a necessity for people to access the services  they needed through digital channels.
+
+The settings, expectations and needs of businesses and individuals have dramatically changed  over the last 12 months.
+
+We are progressing a whole new host of approaches, strategies and initiatives that are seeking to  address this, but we cannot do it in isolation.
+
+So, I have asked the DTA to refresh the Digital Transformation Strategy to take into account the  changed world we find ourselves in now.
+
+This strategy update will be focused on delivering the services Australians rely on as soon as  possible, to help those most in need and to support the nation’s economic recovery.
+
+The DTA will release a discussion paper at the Summit, asking for insights from government,  businesses, academia and other interested parties to assist us in the development of this renewed  vision.
+
+I urge you all to get involved.
+
+Conclusion
+
+A few weeks ago, in one of his very first actions in coming to office, the new Japanese Prime  Minister, Yoshihide Suga, created the post of Minister for Digital Transformation and directed  him to create the nation’s first Digital Transformation Agency.
+
+It would be easy to feel satisfied at how advanced Australia is along the path of Digital  Transformation.
+
+But in reality, the Japanese announcement reinforces that almost every country in the OECD is  lining up to accelerate digital transformation as part of their response to the pandemic-induced  recession that is facing the world.
+
+If we are to reap the benefits of digital transformation for Australia we have to push harder and  faster, we have to innovate, and we have to get the private and public sector working together  perhaps in ways they haven’t done before.
+
+They say that “Change is hardest at the beginning, messiest in the middle and best at the end.”
+
+That, ultimately, is the challenge for everyone of us and the work of this Summit.
+
+I wish you all the best as you work to adapt, engage and deliver digital transformation for  Australia.
+
+
+
+[ENDS]
+
+Media contact:          Minister Robert’s Office (02) 6277 7200
+

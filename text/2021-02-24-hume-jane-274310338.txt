@@ -1,0 +1,82 @@
+
+
+
+
+The Hon Stuart Robert MP  Minister for the National Disability Insurance Scheme  Minister for Government Services
+
+Senator the Hon Jane Hume   Minister for Superannuation, Financial Services and   the Digital Economy
+
+MEDIA RELEASE
+
+
+
+
+
+Authorised by S. Robert MP, Canberra
+
+Wednesday, 24 February 2021
+
+Morrison Government’s Digital Identity system helps over 2 million  people access online services simply, safely and securely
+
+More than 2 million Australians have created a ‘myGovID’ Digital Identity to prove who they are  when accessing online services, following the Morrison Government’s $256.6 million investment as  part of the Digital Business Plan announced at last year’s Federal Budget.
+
+Currently people can create a Digital Identity through myGovID, which is managed by the Australian  Taxation Office. myGovID is convenient and easy to use, while providing the highest levels of identity  security. To protect a user’s identity and stop fraud, the app uses encryption and proven cryptographic  technologies. myGovID also leverages the security features on a smart phone - like a fingerprint,  password or facial verification - to provide intuitive, yet secure access.
+
+Minister for Government Services Stuart Robert said the 2 million digital identities milestone  demonstrates Australians are embracing Digital Identity as a better way to securely and conveniently  access 75 digital services, like doing tax online or applying for supports like Jobseeker or Youth  Allowance. It follows the announcement the Federal Government is enhancing access to the Australian  Immunisation Register to support the rollout of physical and digital COVID vaccine certificates  through Services Australia.
+
+‘Digital Identity is similar to a 100-point identity check that you previously had to do in a post office  or bank branch. The difference is you can now do it online, at your convenience and save a lot of time  and money and stay Covidsafe,’ Minister Robert said.
+
+‘The millions of people already using Digital Identity - with 120,000 transactions occurring via  myGovID a day - demonstrate how the government is delivering on its commitment to make  government services simple, helpful, respectful and transparent.’
+
+Minister for Superannuation, Financial Services and the Digital Economy Jane Hume said the benefits  of myGovID, which can be used for both personal and business matters, became apparent early in the  COVID19 pandemic which saw a spike in new users.
+
+
+
+Authorised by S. Robert MP, Canberra
+
+
+
+‘Australians use digital devices in every aspect of our lives, and it’s only fair that government keeps  pace.’
+
+‘Set up your Digital Identity once, and then use it across any government service online, 24/7, from  any device. It saves time and hassle, and it’s also more secure.’
+
+‘We’re taking a digital-first approach to government services. That means making it faster and easier  to deal with government online - anywhere, anytime,’ Minister Hume said.
+
+myGovID acts like a shield to help protect users from threats such as scammers who would seek to  take advantage of vulnerable people and trick them into giving away critical identity details. For  business owners, this also prevents people from acting on behalf of a business without permission.
+
+In the same way you wouldn’t share your banking login details, you should never share your  myGovID with anyone else.
+
+Media contact:  Minister Robert’s Office (02) 6277 7200     Minister Hume’s Office (02) 6277 7320
+
+
+
+Background   myGovID is highly secure. When using government online services with myGovID, your personal  information won’t be shared without your permission - putting you, as the user, in total control.  When installing the myGovID app on another device you’ll need to verify your identity documents  again with the same email address. Although you can use your myGovID on multiple devices,  remember you’ll only need one myGovID as it’s unique to you.
+
+The Government’s Digital Identity program is being led by the Digital Transformation Agency,  supported by ATO and Services Australia. People can currently use their myGovID to access more  than 75 government services and this number is growing with more services scheduled to onboard,  providing users with more opportunities to use their myGovID. myGovID is accredited under the:
+
+> Australian Trusted Digital Identity Framework, which strictly controls how your identity data is  collected, stored and used; and  > Gatekeeper Public Key Infrastructure Framework, which governs how the Australian Government  uses digital keys and certificates to assure the identity of subscribers to authentication services.  The Digital Identity system has strong privacy and security safeguards to protect you and your  personal information. If you suspect someone has inappropriately accessed your personal information  in myGovID, you need to report this immediately by calling the ATO on 1300 287 539.
+
+
+
+
+
+
+
+Authorised by S. Robert MP, Canberra
+
+
+
+Getting started with myGovID
+
+Setting up your myGovID is easy and you only need to do it once!
+
+> Step 1: Download the myGovID app from the App Store or Google Play.  > Step 2: Enter your details including your name, date of birth and email address.    > Step 3: Prove who you are by verifying your identity documents, such as your Australian driver’s  licence, passport or Medicare card. Your information is automatically checked against existing  government records, for a speedy process.
+
+For more information about the Australian Government’s Digital Identity system, visit   digitalidentity.gov.au
+
+For more information about how to get started with myGovID, visit mygovid.gov.au
+
+
+
+
+

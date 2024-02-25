@@ -1,0 +1,180 @@
+1/8
+
+Head ACSC Address to AISA Cyber Conference 2021 cyber.gov.au/acsc/view-all-content/news/head-acsc-address-aisa-cyber-conference-2021
+
+'The Future of Cyber Security in Australia’ - Address by Abigail Bradshaw CSC, on  15 March 2021 Canberra Convention Centre.
+
+Thank you ladies and gentlemen.
+
+Before I begin can I first acknowledge the Traditional Owners of the land on which I meet  with you, the Ngunnawal People, and pay my respects to their leaders past, present and  emerging. I want to acknowledge their continuing connection and contribution to our  land, waters and culture. I acknowledge that the Aboriginal and Torres Strait Islander  people were Australia’s first explorers, first navigators, first engineers, first farmers, first  botanists, first scientists. Always was, always will be.
+
+I also want to thank AISA for bringing together what I would call ‘PLU’ or ‘people like us.  It is an impressive agenda for the next three days - with an equally impressive selection of  speakers and panellists - which makes me delighted I been asked to provide a key note - because clearly - it can only go up from here.
+
+The theme of this conference really resonates with me as I expect it does all of you. After a  tumultuous year dominated by a global pandemic that has escalated at incredible pace,  our reliance on our digital arteries and concurrently been characterised by escalating  malicious activity seeking to prosecute that increased threat surface. Now is indeed the  right time to truly consider what is possible. And I hope that you are all able to consider  over the course of the next three days what is ‘possible’ in the context of PLU - People  Like Us - our cyber team - us geeks.
+
+I want to thank many of you for your support where we have crossed paths in the last 12  months-my first year in the ACSC. I want to share some of the lessons my team has  learned alongside the impact of COVID-19 and - just as importantly - share with you our  progress and pathway towards building a more cyber secure Australia - and to  acknowledge some of the possibilities which arise from strategic partnerships and team  work.
+
+The first thing is to recognise that 2020 has been incredibly confronting. It’s a real reality  check on what effective, economy-wide cyber security defences must look like - not for  some future of self-driving cars or AI, but for the world we are already in.
+
+In just the last three months we have dealt with significant malicious cyber activity  associated with SolarWinds, the Acellion File Transfer compromise, and now the  Microsoft Exchange server vulnerabilities. These events have ensured that the cyber  security business is booming. It has placed the cyber security defensive mission on a  standing and given it prominence, and an appeal it has never had. Even my teenage sons  think there’s something cool to have a mother who works in cyber.
+
+2/8
+
+So what are the trends we seeing from the ACSC about the environment we’re operating in, that have given cyber security such increased prominence?
+
+Pivoting Threats
+
+As much of the world shifted to remote work in 2020 -putting workers outside their normal workplaces and corporate firewalls. Cybercriminals and other sophisticated adversaries have been upping their game, developing new ways to take advantage of our pandemic fears, our needs for services and our general level of uncertainty.
+
+With its devastating impact on lives and economies, the pandemic has forced us all to a pivotal realisation that Australians all must make cyber security as much a hardwired part of our national mindset as sports, a beach and the barbeque.
+
+To give a sense of the scale of incidents reported to us, the ACSC receives more than 1,000 cyber security incidents and cybercrime reports each week. The calls to our 24/7 call centre have increased over the last 12 months from one every 10 minutes to one every eight minutes. And this is just a small portion of what actually is reported to us. We know that the reality is probably even more devastating.
+
+Some key cyber security trends from early 2021 and through 2020 that we can see already are:
+
+Ransomware, email phishing and malware-laden SMS scams. All those will continue to be a daily threat and IT professionals like yourselves will need to move quickly again to confront the threat, including through targeting of vulnerabilities in remote work environments and attempts to scam the public by taking advantage of the public appetite for information and services, particularly those related to COVID-19.
+
+Propelled in part by the march of COVID, public enrolment in digital access to government services has increased five-fold over the last 12 months - we now have almost 3 million Australians seeking to obtain access to information and services online.
+
+We are also seeing an increase in the professional syndicates operating ransomware crime - for example - ransomware as a service, and the coupling of ransomware attacks with DDOS attacks to increase the pressure to pay. More recently compromises have exposed the evolution of a practice involving the theft of sensitive data alone - without the complexities of ransomware - and enormous, eye-watering sums of bitcoin ransom being requested in return for non-publication of sensitive data, often being sold on the Dark Web. This has resulted in a wider pool of malicious actors who have the capability to be successful in their vile campaigns.
+
+Ransomware is no longer the purview of a technically adept few!
+
+Business email compromise has significantly increased over the past year, with four times as many BEC-related reports in ReportCyber when compared to the previous year. Business Email Compromise can be expected to be a continuing trend for 2021, particularly as organisations and employees work remotely.
+
+3/8
+
+Targeting of MSPs and supply chain providers will continue to be a feature of the cyber security landscape, due to the nature of the services they provide and privileged access to customer networks. The SolarWinds compromise is the most revealing recent compromise, unveiling the vulnerability of supply chains, from even the most trusted service providers.
+
+We expect malicious cyber actors will also continue to exploit critical vulnerabilities in order to compromise networks, often within days of public reporting. Both Citrix and MobileIron vulnerabilities were some of the most rapidly exploited vulnerabilities in 2020. And this experience has reinforced our determination to ensure all Australian entities who are running a vulnerable version of the Microsoft Exchange server software patch immediately, conduct a forensic analysis to remove malicious webshells, and remove the possibility of further compromise by other malicious actors.
+
+Persistent cyber operations that threatened Australia’s security, stability and prosperity are often sophisticated, and deliberately targeted in order to obtain information on:
+
+Australian research and businesses information - particularly those which provide strategic advantage valuable intellectual property defence capabilities and good old fashioned personal identifying information - either for the purposes of credential harvesting or identity theft, or to establish footholds for further network intrusion.
+
+Viruses, trojans and malware are now being created with the specific intention of stealing our money and sensitive data, created variously by a new cadre of professional and transnational cyber-criminals, or by sophisticated state-based actors.
+
+As Australians continue to increase their reliance on online products and digital services, and increase the amount of data that they share about themselves online, the more vectors open up for adversaries to target them.
+
+Specifically, the increased use of consumer Internet of Things (or IoT) devices - such as internet-enabled home assistants, TVs, fridges, baby monitors, and of course we’ve all heard about the security cameras. They will create even more vulnerabilities in networks.
+
+These kinds of internet enabled devices are commonly sold with poor built-in security, and therefore networks will become less secure as IoT devices become more common.
+
+That is why the voluntary Code of Practice to improve cyber security of (IoT) in Australia, along with best-practice guidance for manufacturers and purchasers were released last September.
+
+Even more concerning, network compromise, data theft, disruptive attacks, such as distributed denial-of-service (DDoS) attacks, will become more automated, larger in scale, and even easier to access as crime-ware and cybercrime-as-a-service continues to grow.
+
+4/8
+
+Ransomware in particular is evolving quickly, backed by intelligence and reconnaissance to hunt or find vulnerabilities, and perhaps hawk the results in the darker corners of the internet.
+
+In this context - in a threat environment which on any view has deteriorated, and thanks to COVID - a threat surface which on any view has increased - it is not possible to succeed at cyber security and good cyber defence unless you pull all levers - by which I mean, capability, strategic partnerships, communication and awareness, legislation and policy levers.
+
+All of these levers are put to play in the 2020 Cyber Security Strategy launched last year and funded, in the case of the Australian Cyber Security Centre, through a $1.35b Cyber Enhanced Situational Awareness and Response package, what we call CESAR.
+
+Through the strategy and the CESAR package we will be able to:
+
+identify and defend against more cyber threats; we will be able to disrupt more foreign cybercriminals; and build more and increasingly strategic and mutually beneficial partnerships for industry, and Government and Australians.
+
+So in terms of the ‘capability’ lever - I’d like to spend some time on the key components of CESAR that the ACSC has been bringing to life since the initiation of the strategy, and will deliver over the next decade. These include:
+
+Uplifting our Joint Cyber Security Centres throughout Australia, improving their capacity to receive and share classified information, and improving our cooperation and collaboration with many successful state based collaboration centres.
+
+We are in the process of co-designing with key industry stakeholders a significant evolution of our cyber threat sharing platform - to be able to share in a bidirectional way indicators of compromise at machine speed and scale, and in machine readable format, with all our partners. This platform will enable us to enliven the great partnerships we have with many of you here - who have visibility of tactical threats and emerging trends, which can enrich and amplify with our own unique capabilities and insights, and distribute in near real time to lift the cyber defences of all Australians.
+
+We have started rolling out a national exercise program, focussing on our partners in critical infrastructure and ensuring that we are able to respond when our worst cyber day comes. We will role our Aqua Ex this year - a major cyber exercise involving over sixty entities from Australia’s critical infrastructure. These exercises will assist us to evolve our mutual understanding of capability, context, threat and operational response - so on the days we most need to work together - we are starting from a basis of joint understanding and trust.
+
+We are preparing to initiate new call centre arrangements - to expand our already stretched 24 hour watch floor - to enhance the cyber security assistance the ACSC provides to all Australians, and with a specific focus on some of those most vulnerable small to medium enterprises.
+
+5/8
+
+We will employ and progress technologies that block threats automatically - partnering with industry to mitigate at scale - like our protective DNS system that will enable partners to automatically block a range of malicious content, with the effort of a couple of lines of code.
+
+We will continue to disrupt offshore cyber-criminal activity, at scale, through our partnerships with AFP and ACIC, to stop the activity before it impacts Australians.
+
+We have expanded our partnership program. It has more than  doubled in size since I joined the ACSC in March last year.
+
+With the expansion of our partnership program, we are evolving the way we provide advice to Australians - for example, our website - cyber.gov.au - is now designed so that our advisories are segmented and easier to find according to the needs of our audience.
+
+On the legislative and policy levers - you will all be familiar no doubt, with the Critical Infrastructure and Systems of National Significance Framework.
+
+While Australia has been fortunate not to have suffered a catastrophic cyberattack on critical infrastructure, we are not immune and there are plenty of global examples.
+
+Australia is facing increasing cyber security threats to essential services, businesses and all levels of government. Through the COVID -19 period we have seen ongoing attempts to compromise health care sector networks and active intent by cyber criminals to target essential services when they are needed most by Australians.
+
+All Australians rely on critical infrastructure to deliver essential services that are crucial to our economic prosperity and our way of life. Our last threat report showed critical infrastructure accounted for over a third of all reported incidents.
+
+The Security Legislation Amendment (Critical Infrastructure) Bill 2020 was introduced into Parliament on 10 December last year and it is currently being reviewed by the Parliamentary Joint Committee on Intelligence and Security.
+
+This bill has been developed and led by the Department of Home Affairs, and has undergone extensive consultation with industry.
+
+One key aspect of the Bill involves the introduction of positive security obligation for critical infrastructure providers which will require owners and operators of critical infrastructure in Australia protect their assets and operations from all hazards, including cyber hazards. The Bill includes the introduction of a mandatory requirement to report cyber security incidents to the Australian Cyber Security Centre.
+
+Our experience, is that commercial operators are often reluctant to report cyber incidents - probably for commercial or reputational purposes. These reports will help the ACSC develop a more complete and comprehensive threat picture and understanding of cyber security risks to critical infrastructure in a way that can be anonymously shared and benefit broader industry, Government and all Australians.
+
+6/8
+
+The primary purpose of receiving information will be to improve national situational awareness, allowing the production of anonymised mitigation advice to assist individual sectors or organisations.
+
+Many of you will be aware, that the Bill also proposes Government assistance to actively defend systems of national significance should operators be unable to manage a significant cyber event. The Bill places appropriately high thresholds and oversight for such action which would only occur in extremis. Our emphasis at the ACSC, is to improve our national and global visibility of threats, and our collaboration with industry and critical infrastructure operations, to avoid the need to ever resort to those actions.
+
+In terms of our action on communication and awareness -
+
+We are also doing our part to raise cyber security awareness through our new ‘always on’ national campaign urging Australians to lift their cyber security defences. The campaign is an ongoing one - over digital platforms and social media. The campaign urges Australians to ‘act now and stay secure’ by following the advice on cyber.gov.au.
+
+It positions ACSC as a leading source of credible cyber security information and help that Australian individuals, businesses and organisations can trust for advice on how to mitigate against cyber threats. We commenced our campaign last year, with a guide for defending and preparing against ransomware. We prepared it and launched it in consultation with small to medium enterprise - and we’re augmenting it now with face to face workshops and through collaboration with industry partners. This year we kicked off the campaign with advice on safe on-line shopping and last month, as the minister said, urged the adoption of multi-factor authentication.
+
+Our campaign is always on, is being augmented and leveraged by our partners, and is easily amended to adopt messaging consistent with whatever the current threat environment is.
+
+Possibilities
+
+Turning now to the possibilities and an acknowledgement of some of the successes we’ve had with people in this room and online.
+
+While the challenges of the last few weeks have made us all alive to the threats, I believe better days even still are ahead. We are at the threshold of strategic partnerships and a cooperative framework and mindset that can unite us to confront most threats, while enabling the ACSC to fight those beyond the legal or organisations capacity of others.
+
+Demand is at its highest. We need a healthy, vibrant, collaborative, private security industry to  meet that demand.
+
+There are so many challenges, but also so many examples of the close collaboration that has allowed us to meet the current threat environment. I acknowledged our committee at the outset and I want to do so again, our partner John O’Driscoll, the co-chair of the national cyber security committee. We have met literally 100 times over the last 12 months.
+
+7/8
+
+We have gone from an arrangement where we met quarterly to one where we now send an email saying ‘we need to talk’, and we are online within the hour, getting insights on how specific vulnerabilities and threats might be impacting in Australia collectively.
+
+In health, the ACSC is providing cybersecurity technical advice and guidance to technical organisations - both private and government - involved in COVID-19 vaccine research, manufacture, distribution and now supply chain management.
+
+In communications, we have worked in sync with our great partners Telstra and Services Australia on ways to automatically block malware-laden text messages from reaching thousands of Australians trying to access COVID-related services.
+
+With the big banks, we have used our already close partnerships to amplify our cyber security advice and warnings, as well as work together on future initiatives to reach Australians with a singular trusted voice.
+
+With universities, we have supported efforts to counter threats from cyber interference, helping co-draft cyber security Guidelines.
+
+With DTA, we have worked to ensure cyber security by design informs Government digital services and architecture.
+
+With the ACCC, the e-Safety Commissioner and the office of the Information Commissioner, we have worked to ensure Australians hear one voice - one strong singular voice and message - on how to mitigate the impact of online harms, scams and preserve digital privacy.
+
+With the AFP and the ACIC we have worked together to disrupt offshore cyber criminal syndicates seeking to steal money and information from Australians.
+
+With the Australian Cyber Collaboration Centre (A3C) and the Cyber Security Cooperative Research Centre (CSCRC) we have initiated a project to optimise our cyber security advice for SMEs.
+
+In collaboration with the Canberra Institute of Technology (CIT) and the A3C we have ensured that our IRAP training is able to be delivered in localities that need them and at a scale to meet contemporary demands.
+
+And with the collaboration of industry we have launched a new Cloud Security Guidance enabling entities to make risk-based decisions on the cloud services best suiting their needs.
+
+To come back to the theme of possibilities and partnerships - none of these activities was a direction or a foregone conclusion, or capable of being executed only by the ACSC.
+
+They are all examples of successful and necessary activity made possible through collaboration and the notion and understanding, that we have mutually supporting objectives and skillsets - and that collectively, we are greater than the sum of our parts.
+
+Close and challenge
+
+My experience over the last 12 months has convinced me - that to get the speed, scale and impacts needed to make a difference against the current threat environments, it will require closer, more strategic, less transactional relationships between us all, industry, business and individuals.
+
+8/8
+
+This is the key to a future in which we are not disrupted by technology, but instead continue to harness the capacity of the digital environment for prosperity, security and unity - to recover from the economic impacts of COVID 19, and just get through our day-to-day lives in an ever more connected world.
+
+Thank you.
+
+
+
+
+

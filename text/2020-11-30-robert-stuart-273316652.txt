@@ -1,0 +1,86 @@
+
+
+
+
+The Hon Greg Hunt MP  Minister for Health
+
+Minister Assisting the Prime Minister for the Public Service and Cabinet
+
+The Hon Stuart Robert MP  Minister for the National Disability Insurance Scheme  Minister for Government Services
+
+MEDIA RELEASE
+
+
+
+
+
+Authorised by S. Robert MP, Canberra
+
+Monday, 30 November 2020
+
+A stronger COVIDSafe App for Australians
+
+The Morrison Government today announced a world-leading technology development that will further  improve the COVIDSafe App and bolster the continued fight against the COVID-19 pandemic in Australia.
+
+The update comes as the Government launches a new advertising campaign as a reminder that as we head  into Christmas and restrictions are easing, people should maintain COVID-safe behaviours.
+
+The COVIDSafe App will incorporate a new Bluetooth protocol called Herald that will offer unparalleled  app-level Bluetooth performance and contribute to better identification of potential close contacts. The  update will improve our contact tracing capability, integrated with state and territory health authorities.
+
+The Digital Transformation Agency (DTA) has been working with Apple and Google on incorporating the  new protocol in the COVIDSafe App and performing extensive testing across all scenarios for both  Android and iOS devices. The protocol provides for excellent performance of all encounter logging under  all phone conditions and will continue to work on more than 96 per cent of Apple and Android phones.
+
+The DTA has also been working with the Australian Cyber Security Centre to ensure the security of the  new code meets the same stringent requirements as the previous versions of the COVIDSafe App.
+
+Minister Hunt said now is not the time to be complacent when it comes to protecting yourself and your  family against COVID-19 infection.
+
+‘The Government is reinforcing the message not to be complacent in regards to the risks of spreading  COVID-19 and how to stay safe, including having the App on your phone,’ Minister Hunt said.
+
+‘The latest advertising campaign, which begins this week, is an important reminder that as we head into  Christmas and restrictions are easing, people should maintain COVID-safe behaviours.’
+
+Minister Robert said the code for the update is being made available now to the public via Github to enable  the tech community an opportunity to provide feedback ahead of the release to the Apple App Store and  Google Play Store.
+
+
+
+Authorised by S. Robert MP, Canberra
+
+
+
+‘Australia’s technology capability and contact tracing systems are world-leading and we will be the first  country in the world to adopt the Herald Bluetooth protocol, which has been shown to significantly  improve our capability through the COVIDSafe App,’ Minister Robert said.
+
+‘We are continuing to welcome the input and feedback of the tech community and we are making the code  available ahead of the release being available on the Apple App Store and Google Play Store. We are  encouraging everyone interested to review the code, conduct their own testing and provide their feedback.
+
+‘We are also making this code available to other countries so they too can benefit from Australia’s world  first technology implementation to help improve their digital response to managing COVID-19.
+
+‘Over 7.1 million Australians have downloaded and registered the COVIDSafe App and with states and  territories opening up, now is a timely reminder to download or update the App to assist in keeping you and  your family safe.’
+
+When used as part of state and territory contact tracing efforts, the COVIDSafe App has proven to assist in  identifying close contacts not picked up through manual tracing. New South Wales successfully accessed  the COVIDSafe App to identify 80 close contacts, including 17 contacts that weren’t identified by  manually contact tracing. In one instance, NSW’s access to the App revealed a previously unrecognised  exposure date from a known venue (Mounties). This resulted in the identification of an additional 544  contacts, with two people from this group subsequently confirmed to have COVID-19.
+
+In Victoria, it has been reported that 1,851 cases have said they have the App and are now using it as part  of their contact tracing process. Victoria did stop using the COVIDSafe App at a point in time at the height  of the second wave as it had not been integrated properly into their contact tracing process.
+
+The COVIDSafe App continues to be an important part of Australia’s efforts to slow the spread of   COVID-19. To protect you and your family, continue to practice good hygiene, practice social distancing  and download and update the COVIDSafe App.
+
+More information on the update to COVIDSafe is available on the DTA website at  https://www.dta.gov.au/news/covidsafe-captures-close-contacts-new-herald-protocol and the code  incorporating the Herald protocol is available on Github for iOS at https://github.com/AU-COVIDSafe/mobile-ios/tree/herald and for Android at https://github.com/AU-COVIDSafe/mobile-android/tree/herald.
+
+[ENDS]
+
+Media contact:  Minister Robert’s Office (02) 6277 7200
+
+Attachment
+
+COVIDSafe Bluetooth Encounter Logging Results
+
+Herald Bluetooth performance summary results as at 27 November 2020.
+
+27 November 2020 Android to Android Android to iOS iOS to iOS
+
+Active -> Active Excellent Excellent Excellent
+
+Active -> Background Unlocked Excellent Excellent Excellent
+
+Active -> Locked Excellent Excellent Excellent
+
+Locked -> Locked Excellent Excellent Excellent
+
+
+
+Encounter logging: Excellent (80% to 100%), Good (50% to 80%, Moderate (25% to 80%), Poor (25% or below)
+

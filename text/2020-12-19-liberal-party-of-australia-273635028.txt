@@ -1,0 +1,62 @@
+Authorised by Greg Hunt MP, Liberal Party of Australia, Somerville, Victoria.
+
+
+
+The Hon Greg Hunt MP  Minister for Health
+
+The Hon Stuart Robert MP  Minister for the National Disability Insurance Scheme  Minister for Government Services
+
+JOINT MEDIA RELEASE
+
+19 December 2020
+
+
+
+Update and run the improved COVIDSafe App over Christmas to help  Australia slow the spread
+
+A world-leading update to the Morrison Government’s COVIDSafe App is now available in  App stores. All Australians are encouraged to update and run their COVIDSafe App before  they catch up with friends and family over Christmas.
+
+Over 7.2 million Australians have downloaded COVIDSafe and all remaining Australians are  encouraged to do so. Public health leaders have said the COVIDSafe App comes into its own  as more people move around the community. With more Australians moving around the  country than at any time during the pandemic it is more important than ever to use the  COVIDSafe App throughout the Christmas holidays.
+
+To stay COVIDsafe this holiday period and protect you and your family, you must:
+
+Ã¯ÂÂ· practise good hygiene  Ã¯ÂÂ· practise physical distancing  Ã¯ÂÂ· follow the limits for public gatherings  Ã¯ÂÂ· get tested and understand how to isolate if you need to  Ã¯ÂÂ· download, register and keep your COVIDSafe app up to date to help our public health
+
+contact tracing teams (if you have automatic updates on it will update itself otherwise  you will need to update it via your app store).
+
+Minister for Health, Greg Hunt, said Australia is a world leader when it comes to managing  COVID-19 and Australians should have confidence in our public health officials to manage  hot spots.
+
+“Recent cases of COVID-19 in our community are a stark reminder the pandemic is not over  and Australians must remain vigilant and be COVIDSafe,” Minister Hunt said.
+
+“New South Wales contact tracers are using the COVIDSafe App as one of their tools to  search for close contacts during the current Northern Beaches outbreak,” he said.
+
+“Our public health official contact tracing teams are world leading and are ready to manage  any cases that may occur, however, the best way to ensure you and your family are protected  is to remember to practise good hygiene, physical distancing, get tested, isolate if you need to  and download, register and update the COVIDSafe App.”
+
+Authorised by Greg Hunt MP, Liberal Party of Australia, Somerville, Victoria.
+
+
+
+Minister for Government Services, Stuart Robert, said the latest updates to the COVIDSafe  App incorporating the new Herald Bluetooth protocol are now in the Apple App Store and  Google Play Store.
+
+“The COVIDSafe App remains an important tool in Australia’s toolkit to prevent another  lockdown, working hand in hand with our public health official contact tracers,” Minister  Robert said.
+
+“It is more important than ever to use the COVIDSafe App which is just one of many tools in  the fight against COVID-19, particularly as Australia gets back to work and Australians travel  to see, and gather with family and friends over Christmas.”
+
+The new Bluetooth protocol ‘Herald’ which is now incorporated into the COVIDSafe App  offers significantly better performance through improving the way COVIDSafe captures close  contacts. The update gives COVIDSafe more regular and accurate information on close  contacts, which in turn helps our public health official contact tracers. COVIDSafe does not  track or record user location.
+
+“We would like to thank the tech community for their feedback on the source code for this  latest update. We have addressed several issues identified to support the successful integration  of the Herald Protocol into COVIDSafe,” Minister Robert said.
+
+“The update has made COVIDSafe the leading contact app globally and all Australians are  encouraged to download, register and update the App today.”
+
+When used as part of state and territory contact tracing efforts, the COVIDSafe App has  proven to assist in identifying close contacts not picked up through manual tracing. New  South Wales successfully accessed the COVIDSafe App to identify 80 close contacts,  including 17 contacts that weren’t identified through  manual contact tracing. In one instance,  NSW’s access to the App revealed a previously unrecognised exposure date from a known  venue (Mounties). This resulted in the identification of an additional 544 contacts, with two  people from this group subsequently confirmed to have COVID-19.
+
+For further details and to download the COVIDSafe App, visit  https://www.health.gov.au/resources/apps-and-tools/covidsafe-app
+
+For further information about the Herald Protocol update visit  https://www.dta.gov.au/news/covidsafe-uses-herald-protocol-improve-app-performance
+
+-ENDS-
+
+Media contact:
+
+Minister Hunt’s Office: Matt Kelly - 0417 101 712   Minister Robert’s Office: Liam Jones - 0448 763 351
+

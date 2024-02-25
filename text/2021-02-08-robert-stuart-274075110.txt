@@ -1,0 +1,144 @@
+
+
+
+
+The Hon Stuart Robert MP  Minister for the National Disability Insurance Scheme  Minister for Government Services
+
+TRANSCRIPT
+
+
+
+
+
+
+
+Transcript: Interview with Fran Kelly, RN Breakfast, ABC Radio National - Monday, 8 February 2021  Topics: How Immunisation History Statements and the Australian Immunisation Register will  complement the rollout of the COVID-19 vaccine, proposed COVID-19 quarantine facilities in  Queensland
+
+E&OE--------------------------------------------
+
+
+
+FRAN KELLY:  Preparations are ramping up for the nationwide rollout of the COVID-19 vaccine, which is due to  begin in just a few weeks' time. The Morrison Government has now announced that all  inoculations will now be recorded on the Australian Immunisation Register, and certificates  proving vaccination - which could be required for overseas and interstate travel and for access to  certain services - would then be available either digitally or in hard copy. Stuart Robert is the  Minister for Government Services. Minister, thank you very much for joining us.
+
+MINISTER ROBERT:  Fran, great pleasure.
+
+FRAN KELLY:  Minister, what is a vaccination certificate? What will it look like, and what information will it  convey?
+
+MINISTER ROBERT:  In short, it's the immunisation register; what you can access right now, what you've been able to  access for many years. So, it's no change to that. We'll flesh it out over the coming weeks and  months to make it more accessible, but you can see that right now.
+
+FRAN KELLY:  Will it include which vaccination was administered? Keeping in mind that the Pfizer shot is  believed to be more effective than the AstraZeneca one?
+
+MINISTER ROBERT:  It will record the type of vaccine you've got, the amount, and of course, dates - in this case, you'll  need it twice. So, the same sort of data you currently look at on your vaccination certificate that  rolls out all those crazy names of vaccines that are hard to pronounce. So, yes it will.
+
+FRAN KELLY:  And do you actually get it before you've had your second dose?
+
+MINISTER ROBERT:  So, the vaccination record gets updated with every vaccination you receive. So, after your first  dose, you'll be able to look at your vaccination certificate online, or indeed, go and print it out or  the vaccination provider can print it out for you, and you'll see that it'll have the first dose, and  then you'll see it'll have the second dose.
+
+FRAN KELLY:  And you get a green tick or something with the second dose?
+
+MINISTER ROBERT:  Yes, and this is what we're sort of working out to make some changes to the vaccination record,  just to highlight that actual issue.
+
+FRAN KELLY:  And how - you referred to get a copy - or how will people carry them and do you envisage it's  something that we will need to carry with us, for access to services or to travel?
+
+MINISTER ROBERT:  The- right now, you can access your vaccination record on your Medicare Express Plus app,  through myGov. So, you can access it digitally and then you'll be able to drop it down into a  digital wallet. But I recognise that only about 89 per cent of Australians have a smart phone, so  it'll be able to be provided in hard copy, either through the vaccination provider or through  Services Australia, if you call us we'll send it to you or pop into a service centre.
+
+FRAN KELLY:  And once someone has the certificate, proving they've been vaccinated, is- do you think this is  going to make it easier for people to move around? Perhaps across state borders that might be  closed for a moment, or access to hospitals and aged care homes, or allow venues to shift back to  full capacity? Is that how you see this working?
+
+MINISTER ROBERT:  It's a really good question. The states and territories are responsible for workplace laws, and of  course, their public health orders make those determinations. So, you've got instances where you  have to have a flu shot to work or visit some facilities. So, it's not without the realm of  possibility, but of course, they're all matters for the states and territories. And that's the great  thing about what the PM has done with National Cabinet; it allows a capacity to work with states  with and territories on addressing issues like these.
+
+FRAN KELLY:  Yeah. But, presumably, the Commonwealth's going to try and sort of help lead on this. I mean,  presumably, the fact that we're going through this process, which is an enormous logistical  change, will want these certificates to lead to a further lifting of restrictions. Will you lean on the  states to ease up once the programmes up and running?
+
+MINISTER ROBERT:  That's a question for the Attorney-General - he's working this through as we speak, not just with  states and territories, but with industry. You've seen airlines overseas adopt a construct called  common path, that's being driven by the international travel associations in that space. So, there  are moves afoot. The key thing that we need to ensure is we're ready, that Australians have got  proof if it's needed. But, more importantly, for their own sense of assurance as well.
+
+FRAN KELLY:  So, just on that, the overseas travel thing, because that's a big thing people hope might, you  know, might be advanced by having these vaccination passports. What work is being done to  ensure that these certificates will be recognised overseas? And also, and some listeners have  asked this, that overseas proof of vaccination will be acknowledged here?
+
+MINISTER ROBERT:  We're working through that as we speak. There's a World Health Organization vaccination  passport working group, if you like. And we're also working with our counterparts to look at how  we pull this together. So, for example, the International Air Transport Association, there's a  Commons Project Foundation, IBM's working on this, the [indistinct] called Clear. There's sort  of four leading contenders. And we're working with other governments overseas as well, just to  look through what it means for interoperability. How do we ensure that Australians aren't  disadvantaged? Now, the good thing, Fran, is that in terms of our immunisation register, its  mandatory nature, the fact that it's all run in terms of government and we can now provide a  certificate - we are so far ahead of so many other countries in the world.
+
+FRAN KELLY:  Well, sort of we are, except we've had that register for a while. And as I understood it, you know,  with the flu shot, only about 40 per cent of flu shots get registered. So, where's the guarantee that  this is going to work as well as you hope?
+
+MINISTER ROBERT:  Because the vaccination register up until, goodness, a few weeks ago, was always voluntary. But,  we've now passed legislation that's passed the House, so it's passed the Senate, that has now  made it mandatory. So, the requirement is that once the COVID vaccine is given, it's mandatory  to upload it to the immunisation register. And that'll give Australians confidence that when they  get their certificate, when they download it, it will be there.
+
+FRAN KELLY:  Do you think it'll give Australians some privacy concerns about a database like that? Who's  going to have access to it, what private information might be captured by it?
+
+MINISTER ROBERT:  The immunisation register is covered by, in fact, the Immunisation Act 2015. So, it's been around  for a long time. It gets accessed by six, seven million Australians every year. It's enormous  security controls, all of it have been substantially beefed up, concurrency or access has been  improved to half a million concurrent users. So, there's a lot of strengthening provisions and of  course, it all sits behind the Government's big cyber walls. So, a lot of work has been done to  protect this.
+
+FRAN KELLY:  Well, you say that, but I'm sure a lot of people listening will go, well, the Government's big  cyber wall has been breached a number of times. There was, of course, the monumental census  fail from a few years ago, but there was a major cyber-attack on Parliament House network just  two years ago, you know, the political parties. Why would people trust that their personal  information would be protected by state of the art cyber security?
+
+MINISTER ROBERT:  Because the cyber wall, especially for Services Australia, Defence - these are the big ones that  operate out of Australian Government - haven't been breached, Fran. They are world class, well  tested, and there's a high degree of confidence when it comes to public data.
+
+FRAN KELLY:  Will Centrelink payments be linked to vaccines?
+
+MINISTER ROBERT:  There's nothing before the Government in that respect.
+
+FRAN KELLY:  What do you think? I mean, how do you see it? Do you see a link in the future?
+
+MINISTER ROBERT:  Well, I haven't put my mind to it, Fran, in that respect. But there's nothing before the  Government that would indicate anything in that respect at all.
+
+FRAN KELLY:  Just in terms of the security issue, again, just last week, Europol warned that criminal gangs were  selling fake COVID test certificates in European airports for as much as 300 euros each. So, it  doesn't take long for this counterfeit industry to spring up, as you'd know. It would be relatively  easy, wouldn't it, to mock up counterfeit certificates - how do you protect against that?
+
+MINISTER ROBERT:  And that's what we're working through. So, currently we're using the immunisation register as  the basis of it. Over the coming weeks and over the coming few months we'll continue to iterate  what the Australian vaccination certificate will look like. One, because international standards  will hope to start rising up on a principle basis, so we'll have to make some changes to meet  those. Two, we'll start to drive some of those standards working with our counterparts. And fraud
+
+is always topical for us, as well as protecting an Australians identity. So, we're onto the  challenge, but we are very aware of the challenge as well.
+
+FRAN KELLY:  Okay. So basically, we won't know what it looks like because hardly any of us will have one  initially. How are you going to make sure we do know? Can we tell the difference between a  fake and a real one?
+
+MINISTER ROBERT:  Well, right now you can download the immunisation register, Fran. Five, six million people do it  every single year. So, it'll be that existing format right now with COVID at the top under  vaccinating, and then as we move forward in the coming weeks and months, we'll continue to  iterate that in line with any changes that are determined internationally, or any other  requirements we need to make it easier to access, easy to identify, or more and more fraud proof.  And that's a continual process we do.
+
+FRAN KELLY:  I mean, fraud proofing is what I'm asking about, because if we just down- if we just look at the  current vaccination register copy, it would be easy to duplicate that, I would think. You know,  are we going to talk about watermarking it or something? I'm not sure.
+
+MINISTER ROBERT:  All of that. What you- the things you look at is watermark, holographic marks, details, for  example, in terms of identifiers. There's a whole bunch of stuff [indistinct]…
+
+FRAN KELLY:  [Talks over] Who's developing this? Have we got a tender process for this? Who's developing all  this?
+
+MINISTER ROBERT:  No. Services Australia would have been working on this now for three or four months; there's  nothing new here.
+
+FRAN KELLY:  Right. And just back on the question of- because a lot of people are asking this, about if you get  vaccinated overseas, will that vaccine be carried on your passport?
+
+MINISTER ROBERT:  Yeah, great question. Decision hasn't yet been made by the Department of Health in that respect.  And there's a range of decisions that still have to be made, and we tend to make them at the right  time to be able to access it. For example, there's a million visa holders, Fran, in Australia, so  we'll have a process whereby they can get a vaccination certificate, because currently they can't.  So, I'll make sure that those million visa holders go onto the international vaccination- sorry, the  Australian vaccination register, so they can actually then be or have access to a vaccination  certificate.
+
+FRAN KELLY:  So, there's a lot to still be worked out. When's the proposed start-up date for the vaccination  passport?
+
+MINISTER ROBERT:  The Prime Minister's always said the end of February is when this will start to rollout.
+
+FRAN KELLY:  Well, you've just- I mean, there's a lot of unknowns still that you can't answer yet. That's only  three weeks away - are you going to be ready?
+
+MINISTER ROBERT:  Well, we're ready now. The unknowns you've rolled out are things we're looking forward as  we're going through this process. But the vaccination certificate is ready right now. The process-
+
+FRAN KELLY:  [Interrupts] But for instance, on the certif- on the security thing, it's pretty important when we  roll it out that we have some kind of anti-counterfeiting measurement on it, there's not like a kind  of a watermark or something like that?
+
+MINISTER ROBERT:  And all of that will be in-train and ready for the end of February.
+
+FRAN KELLY:  Okay. That'll be all sorted by the end of February. Okay.
+
+MINISTER ROBERT:  Absolutely it will.
+
+FRAN KELLY:  Can I ask you another question about another hotel quarantine worker has tested positive for  COVID-19 in Melbourne. The Commonwealth's talking with the Queensland Government about  this proposal to build a quarantine facility next to the airport in Toowoomba. Given that the  community breaches now are almost all from hotel workers who are being infected and returning  home every night, is it time, as a matter of urgency, to take a closer look at shifting the whole  system further out of the CBD? You have all the staff on site with the guests. I mean, the group  who've got this proposal in Toowoomba say they could get a facility built in six weeks.
+
+MINISTER ROBERT:  [Indistinct]… out there at Toowoomba. We're working with the Queensland Government, and I  believe there's a range of questions that we've then put to the Queensland Government. So, I  suspect they'll work that through in the coming period of time. But it's got merit, and it's being  discussed.
+
+FRAN KELLY:  As a Queenslander, what do you think?
+
+
+
+MINISTER ROBERT:  I think it's got merit, Fran. And they're trying to get through as to all of the challenges that go  with it. These things are not insignificant and unsubstantial in how they work out.
+
+FRAN KELLY:  And are you lobbying for it?
+
+MINISTER ROBERT:  I've had discussions with the local member, who's positive. He's got a range of questions as well,  but he's working very hard with his local community, which I think is really good to see.
+
+FRAN KELLY:  Alright. Stuart Robert, thank you very much for joining us.
+
+MINISTER ROBERT:  Thanks, Fran.
+
+FRAN KELLY:  Stuart Robert is the Minister for Government Services and the NDIS.
+
+[ENDS]
+
+
+
+Authorised by S. Robert MP, Canberra
+
+
+
+James Larsson  Senior Media Adviser  Office of the Hon Stuart Robert MP  Minister for the National Disability Insurance Scheme  Minister for Government Services  Parliament House, Canberra ACT 2600  Ph: 02 6277 7200 M: 0427 100 431  E: james.larsson@servicesaustralia.gov.au
+
