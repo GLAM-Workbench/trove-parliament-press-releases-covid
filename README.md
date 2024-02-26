@@ -1,10 +1,18 @@
 # trove-parliament-press-releases-covid
 
-A GLAM Workbench dataset
+Trove includes more than 380,000 press releases, speeches, and interview transcripts issued by Australian federal politicians and saved by the Parliamentary Library. This dataset contains metadata and full text of items from the press releases collection that include the term 'covid' or 'coronavirus'.
+
+The dataset was created in two stages. First, Trove was searched for relevant resources, and metadata from each search result was saved in a CSV file. Then links to ParlInfo contained within the metadata were used to download the full text.
+
+Known issues:
+
+- some items had no downloadable text available in Parlinfo, so the number of text files is less than the number of metadata records
+- some items have different metadata but the same text, for example when a press release is issued by both a political party and an individual member
+- because of the way Trove groups records, it's possible some of the records don't include any of the search terms.
 
 These datasets were generated using notebooks in the [trove-government](https://github.com/GLAM-Workbench/trove-government/) repository.
 
-For more information and documentation see the [Trove government](https://glam-workbench.net/trove-government) section of the [GLAM Workbench](https://glam-workbench.net).
+For more information and documentation see the [Press releases relating to COVID](https://glam-workbench.net/trove-government/trove-parliament-press-releases-covid) section of the [GLAM Workbench](https://glam-workbench.net).
 
 ## Dataset summary
 - [text](https://github.com/GLAM-Workbench/trove-parliament-press-releases-covid/tree/main/text/) (directory containing 5,520 files)
@@ -22,6 +30,8 @@ For more information and documentation see the [Trove government](https://glam-w
 | format          | directory                                                                                                                                                                                                                                                           |
 | created by      | <a href='https://github.com/GLAM-Workbench/trove-government/blob/master/harvest-parliament-press-releases.ipynb'>Harvest parliament press releases from Trove</a> ([documentation](https://glam-workbench.net/trove-government/harvest-parliament-press-releases/)) |
 | query           | `nuc:"APAR:PR" AND (covid OR coronavirus)`                                                                                                                                                                                                                          |
+| description     | Contains individual text files, each containing the contents of an item from the press releases collection. Files are named using the following metadata fields: `date`, `contributor`, and `version_id`. For example: `1960-01-22-casey-richard-213589278.txt`.    |
+| license         | [Copyright Not Evaluated](http://rightsstatements.org/vocab/CNE/1.0/)                                                                                                                                                                                               |
 
 
 
@@ -35,6 +45,7 @@ For more information and documentation see the [Trove government](https://glam-w
 | created by     | <a href='https://github.com/GLAM-Workbench/trove-government/blob/master/harvest-parliament-press-releases.ipynb'>Harvest parliament press releases from Trove</a> ([documentation](https://glam-workbench.net/trove-government/harvest-parliament-press-releases/)) |
 | number of rows | 5523                                                                                                                                                                                                                                                                |
 | query          | `nuc:"APAR:PR" AND (covid OR coronavirus)`                                                                                                                                                                                                                          |
+| license        | [CC0 Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/)                                                                                                                                                                                  |
 
 #### Columns
 
